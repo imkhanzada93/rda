@@ -1,2 +1,0 @@
-[08-Jan-2022 11:35:43 America/New_York] PHP Fatal error:  Trait 'Illuminate\Foundation\Validation\ValidatesRequests' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Http/Controllers/ExecuteSolutionController.php on line 9
-[13-Jan-2022 00:00:21 America/New_York] PHP Fatal error:  Trait 'Illuminate\Foundation\Validation\ValidatesRequests' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Http/Controllers/ExecuteSolutionController.php on line 9

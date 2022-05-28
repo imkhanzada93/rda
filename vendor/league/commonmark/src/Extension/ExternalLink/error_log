@@ -1,8 +1,0 @@
-[08-Jan-2022 09:28:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\ConfigurableExtensionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/ExternalLink/ExternalLinkExtension.php:22
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/ExternalLink/ExternalLinkExtension.php on line 22
-[13-Jan-2022 20:39:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\ConfigurableExtensionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/ExternalLink/ExternalLinkExtension.php:22
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/ExternalLink/ExternalLinkExtension.php on line 22

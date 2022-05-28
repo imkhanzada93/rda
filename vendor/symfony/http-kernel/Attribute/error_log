@@ -1,8 +1,0 @@
-[09-Jan-2022 04:19:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Attribute\trigger_deprecation() in /home/bookvxos/public_html/vendor/symfony/http-kernel/Attribute/ArgumentInterface.php:14
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/Attribute/ArgumentInterface.php on line 14
-[11-Jan-2022 23:02:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\Attribute\trigger_deprecation() in /home/bookvxos/public_html/vendor/symfony/http-kernel/Attribute/ArgumentInterface.php:14
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/Attribute/ArgumentInterface.php on line 14

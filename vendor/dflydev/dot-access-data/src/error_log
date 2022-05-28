@@ -1,8 +1,0 @@
-[07-Jan-2022 06:23:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Dflydev\DotAccessData\DataInterface' not found in /home/bookvxos/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24
-[11-Jan-2022 21:45:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Dflydev\DotAccessData\DataInterface' not found in /home/bookvxos/public_html/vendor/dflydev/dot-access-data/src/Data.php:24
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/dflydev/dot-access-data/src/Data.php on line 24

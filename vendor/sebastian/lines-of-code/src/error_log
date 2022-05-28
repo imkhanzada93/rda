@@ -1,8 +1,0 @@
-[07-Jan-2022 05:48:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:20
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 20
-[12-Jan-2022 06:30:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:20
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 20

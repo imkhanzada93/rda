@@ -1,2 +1,0 @@
-[09-Jan-2022 05:30:22 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Conditionable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Concerns/BuildsQueries.php on line 19
-[13-Jan-2022 22:28:16 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Conditionable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Concerns/BuildsQueries.php on line 19

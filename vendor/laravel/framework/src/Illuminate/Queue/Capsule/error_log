@@ -1,2 +1,0 @@
-[09-Jan-2022 05:38:26 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\CapsuleManagerTrait' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Capsule/Manager.php on line 14
-[13-Jan-2022 22:34:40 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\CapsuleManagerTrait' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Capsule/Manager.php on line 14

@@ -1,8 +1,0 @@
-[09-Jan-2022 06:05:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Pagination\Paginator' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Pagination/LengthAwarePaginator.php:5
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Pagination/LengthAwarePaginator.php on line 5
-[14-Jan-2022 03:15:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Pagination\Paginator' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Pagination/LengthAwarePaginator.php:5
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Pagination/LengthAwarePaginator.php on line 5

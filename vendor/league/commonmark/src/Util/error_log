@@ -1,8 +1,0 @@
-[07-Jan-2022 13:28:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Util/HtmlElement.php:19
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Util/HtmlElement.php on line 19
-[13-Jan-2022 10:44:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Util/HtmlElement.php:19
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Util/HtmlElement.php on line 19

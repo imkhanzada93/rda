@@ -1,8 +1,0 @@
-[08-Jan-2022 12:04:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Container\Container' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:29
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 29
-[13-Jan-2022 01:05:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Container\Container' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:29
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 29

@@ -1,2 +1,0 @@
-[07-Jan-2022 05:55:15 America/New_York] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/bookvxos/public_html/vendor/symfony/console/Attribute/AsCommand.php on line 21
-[11-Jan-2022 22:48:50 America/New_York] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/bookvxos/public_html/vendor/symfony/console/Attribute/AsCommand.php on line 21

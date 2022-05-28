@@ -1,8 +1,0 @@
-[09-Jan-2022 15:22:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Doctrine\Inflector\GenericLanguageInflectorFactory' not found in /home/bookvxos/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/InflectorFactory.php:10
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/InflectorFactory.php on line 10
-[14-Jan-2022 09:42:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Doctrine\Inflector\GenericLanguageInflectorFactory' not found in /home/bookvxos/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/InflectorFactory.php:10
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/English/InflectorFactory.php on line 10

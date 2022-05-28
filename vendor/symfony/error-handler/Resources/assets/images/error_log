@@ -1,8 +1,0 @@
-[09-Jan-2022 20:49:06 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bookvxos/public_html/vendor/symfony/error-handler/Resources/assets/images/symfony-ghost.svg.php:1
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/error-handler/Resources/assets/images/symfony-ghost.svg.php on line 1
-[13-Jan-2022 00:05:08 America/New_York] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/bookvxos/public_html/vendor/symfony/error-handler/Resources/assets/images/symfony-ghost.svg.php:1
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/error-handler/Resources/assets/images/symfony-ghost.svg.php on line 1

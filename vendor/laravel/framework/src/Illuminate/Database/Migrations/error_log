@@ -1,8 +1,0 @@
-[08-Jan-2022 22:34:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Database\Migrations\MigrationRepositoryInterface' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php:7
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php on line 7
-[13-Jan-2022 22:30:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Database\Migrations\MigrationRepositoryInterface' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php:7
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php on line 7

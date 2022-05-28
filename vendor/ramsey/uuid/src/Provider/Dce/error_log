@@ -1,8 +1,0 @@
-[08-Jan-2022 03:05:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\DceSecurityProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:36
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 36
-[12-Jan-2022 21:13:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\DceSecurityProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:36
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 36

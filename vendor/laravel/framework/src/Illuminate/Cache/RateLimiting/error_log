@@ -1,8 +1,0 @@
-[08-Jan-2022 17:23:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cache\RateLimiting\Limit' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
-[08-Jan-2022 17:23:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cache\RateLimiting\GlobalLimit' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5

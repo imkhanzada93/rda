@@ -1,8 +1,0 @@
-[09-Jan-2022 15:23:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Doctrine\Inflector\GenericLanguageInflectorFactory' not found in /home/bookvxos/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/NorwegianBokmal/InflectorFactory.php:10
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/NorwegianBokmal/InflectorFactory.php on line 10
-[14-Jan-2022 09:44:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Doctrine\Inflector\GenericLanguageInflectorFactory' not found in /home/bookvxos/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/NorwegianBokmal/InflectorFactory.php:10
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/doctrine/inflector/lib/Doctrine/Inflector/Rules/NorwegianBokmal/InflectorFactory.php on line 10

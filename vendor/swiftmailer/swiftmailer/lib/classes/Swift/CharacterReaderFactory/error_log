@@ -1,8 +1,0 @@
-[08-Jan-2022 19:47:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_CharacterReaderFactory' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php:16
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 16
-[13-Jan-2022 21:27:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_CharacterReaderFactory' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php:16
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 16

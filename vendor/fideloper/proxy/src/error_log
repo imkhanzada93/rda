@@ -1,8 +1,0 @@
-[07-Jan-2022 04:04:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/fideloper/proxy/src/TrustedProxyServiceProvider.php:9
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/fideloper/proxy/src/TrustedProxyServiceProvider.php on line 9
-[11-Jan-2022 21:50:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/fideloper/proxy/src/TrustedProxyServiceProvider.php:9
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/fideloper/proxy/src/TrustedProxyServiceProvider.php on line 9

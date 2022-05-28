@@ -1,8 +1,0 @@
-[09-Jan-2022 12:32:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\ServiceUnavailableHttpException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Exceptions/MaintenanceModeException.php:13
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Exceptions/MaintenanceModeException.php on line 13
-[14-Jan-2022 03:26:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\ServiceUnavailableHttpException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Exceptions/MaintenanceModeException.php:13
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Http/Exceptions/MaintenanceModeException.php on line 13

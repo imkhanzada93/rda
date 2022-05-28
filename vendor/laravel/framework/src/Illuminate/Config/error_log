@@ -1,8 +1,0 @@
-[08-Jan-2022 11:21:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Config\Repository' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Config/Repository.php:9
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 9
-[13-Jan-2022 07:56:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Config\Repository' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Config/Repository.php:9
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 9

@@ -1,8 +1,0 @@
-[09-Jan-2022 04:17:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventDispatcherInterface' not found in /home/bookvxos/public_html/vendor/symfony/event-dispatcher/Debug/TraceableEventDispatcher.php:30
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/event-dispatcher/Debug/TraceableEventDispatcher.php on line 30
-[11-Jan-2022 23:05:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\EventDispatcher\EventDispatcherInterface' not found in /home/bookvxos/public_html/vendor/symfony/event-dispatcher/Debug/TraceableEventDispatcher.php:30
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/event-dispatcher/Debug/TraceableEventDispatcher.php on line 30

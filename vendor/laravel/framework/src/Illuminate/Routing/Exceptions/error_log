@@ -1,8 +1,0 @@
-[08-Jan-2022 22:13:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
-[13-Jan-2022 22:55:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7

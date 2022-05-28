@@ -1,8 +1,0 @@
-[09-Jan-2022 20:55:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Proxy\AbstractProxy' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Proxy/SessionHandlerProxy.php:17
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Proxy/SessionHandlerProxy.php on line 17
-[13-Jan-2022 14:32:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Proxy\AbstractProxy' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Proxy/SessionHandlerProxy.php:17
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Proxy/SessionHandlerProxy.php on line 17

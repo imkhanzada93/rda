@@ -1,8 +1,0 @@
-[08-Jan-2022 11:36:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Compilers\BladeCompiler' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Views/Compilers/BladeSourceMapCompiler.php:8
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/facade/ignition/src/Views/Compilers/BladeSourceMapCompiler.php on line 8
-[13-Jan-2022 08:32:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\View\Compilers\BladeCompiler' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Views/Compilers/BladeSourceMapCompiler.php:8
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/facade/ignition/src/Views/Compilers/BladeSourceMapCompiler.php on line 8

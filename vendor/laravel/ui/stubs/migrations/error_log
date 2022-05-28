@@ -1,8 +1,0 @@
-[07-Jan-2022 13:17:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bookvxos/public_html/vendor/laravel/ui/stubs/migrations/2014_10_12_100000_create_password_resets_table.php:7
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/ui/stubs/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
-[12-Jan-2022 14:45:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/bookvxos/public_html/vendor/laravel/ui/stubs/migrations/2014_10_12_100000_create_password_resets_table.php:7
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/ui/stubs/migrations/2014_10_12_100000_create_password_resets_table.php on line 7

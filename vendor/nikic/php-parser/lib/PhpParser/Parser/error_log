@@ -1,8 +1,0 @@
-[08-Jan-2022 04:14:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
-[12-Jan-2022 23:10:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PhpParser\Parser' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9

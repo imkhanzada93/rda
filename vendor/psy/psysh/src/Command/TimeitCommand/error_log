@@ -1,8 +1,0 @@
-[08-Jan-2022 04:52:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32
-[12-Jan-2022 19:45:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32

@@ -1,8 +1,0 @@
-[08-Jan-2022 16:37:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\Middleware\AuthenticatesRequests' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php:10
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php on line 10
-[08-Jan-2022 17:19:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\Middleware\AuthenticatesRequests' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php:10
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php on line 10

@@ -1,2 +1,0 @@
-[07-Jan-2022 13:52:21 America/New_York] PHP Fatal error:  Trait 'Nette\SmartObject' not found in /home/bookvxos/public_html/vendor/nette/utils/src/Iterators/CachingIterator.php on line 27
-[12-Jan-2022 08:38:04 America/New_York] PHP Fatal error:  Trait 'Nette\SmartObject' not found in /home/bookvxos/public_html/vendor/nette/utils/src/Iterators/CachingIterator.php on line 27

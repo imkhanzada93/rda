@@ -1,8 +1,0 @@
-[08-Jan-2022 04:15:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\TextUI\ResultPrinter' not found in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Phpunit/Printer.php:21
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Phpunit/Printer.php on line 21
-[12-Jan-2022 23:13:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\TextUI\ResultPrinter' not found in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Phpunit/Printer.php:21
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Phpunit/Printer.php on line 21

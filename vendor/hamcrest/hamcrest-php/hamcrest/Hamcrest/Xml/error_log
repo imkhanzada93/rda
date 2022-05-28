@@ -1,8 +1,0 @@
-[08-Jan-2022 11:13:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\DiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
-[13-Jan-2022 07:49:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\DiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17

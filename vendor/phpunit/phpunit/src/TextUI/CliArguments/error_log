@@ -1,8 +1,0 @@
-[08-Jan-2022 04:49:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/CliArguments/Exception.php:17
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/CliArguments/Exception.php on line 17
-[12-Jan-2022 19:35:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/CliArguments/Exception.php:17
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/CliArguments/Exception.php on line 17

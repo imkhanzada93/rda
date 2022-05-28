@@ -1,8 +1,0 @@
-[08-Jan-2022 19:37:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'NunoMaduro\Collision\Contracts\RenderlessEditor' not found in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
-[13-Jan-2022 09:24:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'NunoMaduro\Collision\Contracts\RenderlessEditor' not found in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14

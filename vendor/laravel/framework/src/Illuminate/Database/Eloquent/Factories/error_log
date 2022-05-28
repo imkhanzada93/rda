@@ -1,2 +1,0 @@
-[09-Jan-2022 12:25:19 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\ForwardsCalls' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Factories/Factory.php on line 17
-[14-Jan-2022 10:08:03 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\ForwardsCalls' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Factories/Factory.php on line 17

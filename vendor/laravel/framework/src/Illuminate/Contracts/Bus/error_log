@@ -1,4 +1,0 @@
-[09-Jan-2022 03:31:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Bus\Dispatcher' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php:5
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Bus/QueueingDispatcher.php on line 5

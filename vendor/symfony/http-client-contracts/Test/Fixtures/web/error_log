@@ -1,8 +1,0 @@
-[09-Jan-2022 11:08:00 America/New_York] PHP Fatal error:  Uncaught Exception: You cannot run this script directly, it's a fixture for TestHttpServer. in /home/bookvxos/public_html/vendor/symfony/http-client-contracts/Test/Fixtures/web/index.php:5
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/http-client-contracts/Test/Fixtures/web/index.php on line 5
-[12-Jan-2022 15:10:45 America/New_York] PHP Fatal error:  Uncaught Exception: You cannot run this script directly, it's a fixture for TestHttpServer. in /home/bookvxos/public_html/vendor/symfony/http-client-contracts/Test/Fixtures/web/index.php:5
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/http-client-contracts/Test/Fixtures/web/index.php on line 5

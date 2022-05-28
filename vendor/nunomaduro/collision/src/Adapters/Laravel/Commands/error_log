@@ -1,8 +1,0 @@
-[08-Jan-2022 19:37:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:23
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 23
-[13-Jan-2022 09:24:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:23
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 23

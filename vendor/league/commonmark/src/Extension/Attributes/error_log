@@ -1,8 +1,0 @@
-[08-Jan-2022 09:26:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\ExtensionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/AttributesExtension.php:24
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/AttributesExtension.php on line 24
-[13-Jan-2022 20:36:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\ExtensionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/AttributesExtension.php:24
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/AttributesExtension.php on line 24

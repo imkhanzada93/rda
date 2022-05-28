@@ -1,8 +1,0 @@
-[07-Jan-2022 04:49:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php:24
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
-[11-Jan-2022 21:12:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php:24
-Stack trace:
-#0 {main}
-  thrown in /home/bookvxos/public_html/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24

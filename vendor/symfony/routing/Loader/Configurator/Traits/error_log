@@ -1,2 +1,0 @@
-[08-Jan-2022 03:07:58 America/New_York] PHP Fatal error:  Trait 'Symfony\Component\Routing\Loader\Configurator\Traits\LocalizedRouteTrait' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/Configurator/Traits/AddTrait.php on line 21
-[13-Jan-2022 14:33:33 America/New_York] PHP Fatal error:  Trait 'Symfony\Component\Routing\Loader\Configurator\Traits\LocalizedRouteTrait' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/Configurator/Traits/AddTrait.php on line 21
