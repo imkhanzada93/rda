@@ -18,6 +18,7 @@ Auth::routes();
 Route::get('account-form', function(){return view('accounts.form');});
 Route::post('account/store', [App\Http\Controllers\AccountController::class, 'store']);
 Route::post('client/store', [App\Http\Controllers\ClientController::class, 'store']);
+Route::post('coupon/validate-coupon', [App\Http\Controllers\CouponController::class, 'ValidateCoupon']);
 
 Route::get('api/getInsuranceTypeData', [App\Http\Controllers\AccountController::class, 'getInsuranceTypeData']);
 Route::get('api/getInsuranceData', [App\Http\Controllers\AccountController::class, 'getInsuranceData']);

@@ -3,8 +3,10 @@
 namespace App\Http\Controllers;
 
 use App\Models\Coupon;
+use App\Models\Invoice;
 use Illuminate\Http\Request;
 use Auth;
+use Carbon\Carbon;
 
 class CouponController extends Controller
 {
@@ -181,5 +183,51 @@ class CouponController extends Controller
                 'is_active' => 'required', 
             ]);
         }
+    }
+
+    public function ValidateCoupon(Request $request){
+        $coupon = $request->coupon;
+        $total_amount = $request->total_amount;
+        $response = [];
+        
+        $coupon = Coupon::where('code', $coupon)->first();
+        if($coupon === null){
+            $response['code'] = 0;
+            $response['message'] = "Invalid Coupon";
+        }else{
+            if($coupon->is_active == 0){
+                $response['code'] = 0;
+                $response['message'] = "Coupon is not currently activated";
+            }else if($coupon->is_expiry == 1){
+                $expiry_date = Carbon::parse($coupon->expiry_date);
+                $response['code'] = 0;
+                $response['message'] = "Coupon is expired";
+            }else if($coupon->multi_use == 0){
+                $useage = Invoice::where('coupon_code', $request->code)->count();
+                if($useage){
+                    $response['code'] = 0;
+                    $response['message'] = "Coupon already used";
+                }else{
+                    $response['code'] = 1;
+                    $response['message'] = "Coupon applied successfully";
+                    if($coupon->discount_type == 'fixed'){
+                        $response['discount'] = $coupon->discount_amount;
+                    }else{
+                        $response['discount'] = $total_amount * ($coupon->discount_amount/100);
+                    }
+                    $response['total_amount'] = $total_amount - $response['discount'];
+                }
+            }else {
+                $response['code'] = 1;
+                $response['message'] = "Coupon applied successfully";
+                if($coupon->discount_type == 'fixed'){
+                    $response['discount'] = $coupon->discount_amount;
+                }else{
+                    $response['discount'] = $total_amount * ($coupon->discount_amount/100);
+                }
+                $response['total_amount'] = $total_amount - $response['discount'];
+            }
+        }
+        return json_encode($response);
     }
 }

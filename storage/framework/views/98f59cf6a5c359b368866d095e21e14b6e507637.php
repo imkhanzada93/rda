@@ -1,137 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
-   <head>
-      <meta charset="utf-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-      <meta name="description" content="" />
-      <meta name="author" content="" />
-      <title>Find my Doctor</title>
-      <!-- Favicon-->
-      <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-      <!-- Font Awesome icons (free version)-->
-      <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
-      <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-      <!-- Google fonts-->
-      <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
-      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-      <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
-      <!-- Core theme CSS (includes Bootstrap)-->
-      <link href="<?php echo e(asset('frontend/css/styles.css')); ?>" rel="stylesheet" />
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-      <link rel="preconnect" href="https://fonts.googleapis.com">
-      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
-      <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-      <script>
-         $(document).ready(function(){
-             $('input[type="radio"]').click(function(){
-                 var demovalue = $(this).val();
-                 $(".myDiv").hide();
-                 $("#show"+demovalue).show();
-             });
-
-             $('input[type="text"]').keyup(function(){
-                  $('#span_full_name').text($('input[name="full_name"]').val())
-                  $('#span_cnic').text($('input[name="cnic"]').val())
-                  $('#span_rda_account_number').text($('input[name="rda_account_number"]').val())
-                  $('#span_email').text($('input[name="email"]').val())
-                  $('#span_b1_full_name').text($('input[name="b1_full_name"]').val())
-                  $('#span_b1_dob').text($('input[name="b1_dob"]').val())
-                  $('#span_b1_relation').text($('input[name="b1_relation"]').val())
-                  $('#span_b1_cnic').text($('input[name="b1_cnic"]').val())
-                  $('#span_b1_contact').text($('input[name="b1_contact"]').val())
-                  $('#span_b1_email').text($('input[name="b1_email"]').val())
-                  $('#span_b1_age').text($('input[name="b1_age"]').val())
-                  $('#span_b2_full_name').text($('input[name="b2_full_name"]').val())
-                  $('#span_b2_dob').text($('input[name="b2_dob"]').val())
-                  $('#span_b2_relation').text($('input[name="b2_relation"]').val())
-                  $('#span_b2_cnic').text($('input[name="b2_cnic"]').val())
-                  $('#span_b2_contact').text($('input[name="b2_contact"]').val())
-                  $('#span_b2_email').text($('input[name="b2_email"]').val())
-                  $('#span_b2_age').text($('input[name="b2_age"]').val())
-             });
-             
-             $('input[type="date"]').change(function(){
-                  $('#span_full_name').text($('input[name="full_name"]').val())
-                  $('#span_cnic').text($('input[name="cnic"]').val())
-                  $('#span_rda_account_number').text($('input[name="rda_account_number"]').val())
-                  $('#span_email').text($('input[name="email"]').val())
-                  $('#span_b1_full_name').text($('input[name="b1_full_name"]').val())
-                  $('#span_b1_dob').text($('input[name="b1_dob"]').val())
-                  $('#span_b1_relation').text($('input[name="b1_relation"]').val())
-                  $('#span_b1_cnic').text($('input[name="b1_cnic"]').val())
-                  $('#span_b1_contact').text($('input[name="b1_contact"]').val())
-                  $('#span_b1_email').text($('input[name="b1_email"]').val())
-                  $('#span_b1_age').text($('input[name="b1_age"]').val())
-                  $('#span_b2_full_name').text($('input[name="b2_full_name"]').val())
-                  $('#span_b2_dob').text($('input[name="b2_dob"]').val())
-                  $('#span_b2_relation').text($('input[name="b2_relation"]').val())
-                  $('#span_b2_cnic').text($('input[name="b2_cnic"]').val())
-                  $('#span_b2_contact').text($('input[name="b2_contact"]').val())
-                  $('#span_b2_email').text($('input[name="b2_email"]').val())
-                  $('#span_b2_age').text($('input[name="b2_age"]').val())
-             });
-         });
-      </script>
-      <style>
-         .btn-next i {
-         position: relative;
-         top: 3px;
-         }
-
-
-         a.btn-next {
-    color: #fff;
-    background-color: #e52b2a;
-    border-color: #e52b2a;
-    text-decoration: none;
-    height: 45px;
-    display: block;
-    padding: 7px;
-    font-size: 18px;
-    border-radius: 7px;
-    margin: 0px auto;
-}
-
-
-
-.nxt-sc {
-    padding-top: 55px;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    width: 30%;
-    margin: 0px auto;
-}
-
-.plans {
-    align-items: center;
-    justify-content: center;
-}
-
-
-
-      </style>
-   </head>
-   <body id="page-top">
-      <header class="masthead">
-      </header>
-      <section class="tabs-sc">
-         <div class="container">
-            <div class="row">
-               <div class="col-lg-12">
-                  <p class="inr">
-                     Welcome to the Roshan Digital Account Insurance Marketplace. We are pleased to announce an unprecedented Insurance Plan that is custom built to completely suit your needs.
-                  </p>
-                  <p class="inr">
-                     Whether you are looking for coverage for your parents or your spouse and children, we have a product to help you keep your family safe and secure.
-                  </p>
-                  <p class="inr">Our state-of-the-art product offers coverage that includes Hospitalization Enhancement, Pre-Existing Medical Coverage, Hepatitis B & C Coverage, Specialist Investigation for Outpatients and much more.</p>
-               </div>
-            </div>
-         </div>
-      </section>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Find my Doctor</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="<?php echo e(asset('frontend/css/styles.css')); ?>" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function(){
+            $('input[type="radio"]').click(function(){
+                var demovalue = $(this).val();
+                $(".myDiv").hide();
+                $("#show"+demovalue).show();
+            });
+        
+            $('input[type="text"]').keyup(function(){
+                 $('#span_full_name').text($('input[name="full_name"]').val())
+                 $('#span_cnic').text($('input[name="cnic"]').val())
+                 $('#span_rda_account_number').text($('input[name="rda_account_number"]').val())
+                 $('#span_email').text($('input[name="email"]').val())
+                 $('#span_b1_full_name').text($('input[name="b1_full_name"]').val())
+                 $('#span_b1_dob').text($('input[name="b1_dob"]').val())
+                 $('#span_b1_relation').text($('input[name="b1_relation"]').val())
+                 $('#span_b1_cnic').text($('input[name="b1_cnic"]').val())
+                 $('#span_b1_contact').text($('input[name="b1_contact"]').val())
+                 $('#span_b1_email').text($('input[name="b1_email"]').val())
+                 $('#span_b1_age').text($('input[name="b1_age"]').val())
+                 $('#span_b2_full_name').text($('input[name="b2_full_name"]').val())
+                 $('#span_b2_dob').text($('input[name="b2_dob"]').val())
+                 $('#span_b2_relation').text($('input[name="b2_relation"]').val())
+                 $('#span_b2_cnic').text($('input[name="b2_cnic"]').val())
+                 $('#span_b2_contact').text($('input[name="b2_contact"]').val())
+                 $('#span_b2_email').text($('input[name="b2_email"]').val())
+                 $('#span_b2_age').text($('input[name="b2_age"]').val())
+            });
+            
+            $('input[type="date"]').change(function(){
+                 $('#span_full_name').text($('input[name="full_name"]').val())
+                 $('#span_cnic').text($('input[name="cnic"]').val())
+                 $('#span_rda_account_number').text($('input[name="rda_account_number"]').val())
+                 $('#span_email').text($('input[name="email"]').val())
+                 $('#span_b1_full_name').text($('input[name="b1_full_name"]').val())
+                 $('#span_b1_dob').text($('input[name="b1_dob"]').val())
+                 $('#span_b1_relation').text($('input[name="b1_relation"]').val())
+                 $('#span_b1_cnic').text($('input[name="b1_cnic"]').val())
+                 $('#span_b1_contact').text($('input[name="b1_contact"]').val())
+                 $('#span_b1_email').text($('input[name="b1_email"]').val())
+                 $('#span_b1_age').text($('input[name="b1_age"]').val())
+                 $('#span_b2_full_name').text($('input[name="b2_full_name"]').val())
+                 $('#span_b2_dob').text($('input[name="b2_dob"]').val())
+                 $('#span_b2_relation').text($('input[name="b2_relation"]').val())
+                 $('#span_b2_cnic').text($('input[name="b2_cnic"]').val())
+                 $('#span_b2_contact').text($('input[name="b2_contact"]').val())
+                 $('#span_b2_email').text($('input[name="b2_email"]').val())
+                 $('#span_b2_age').text($('input[name="b2_age"]').val())
+            });
+        });
+    </script>
+    <style>
+        .btn-next i {
+			position: relative;
+			top: 3px;
+        }
+        a.btn-next {
+			color: #fff;
+			background-color: #e52b2a;
+			border-color: #e52b2a;
+			text-decoration: none;
+			height: 45px;
+			display: block;
+			padding: 7px;
+			font-size: 18px;
+			border-radius: 7px;
+			margin: 0px auto;
+        }
+        .nxt-sc {
+			padding-top: 55px;
+			display: flex;
+			align-items: center;
+			justify-content: space-evenly;
+			width: 30%;
+			margin: 0px auto;
+        }
+        .plans {
+			align-items: center;
+			justify-content: center;
+        }
+    </style>
+</head>
+	<body id="page-top">
+		<header class="masthead">
+		</header>
+		<section class="tabs-sc">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<p class="inr">
+							Welcome to the Roshan Digital Account Insurance Marketplace. We are pleased to announce an unprecedented Insurance Plan that is custom built to completely suit your needs.
+						</p>
+						<p class="inr">
+							Whether you are looking for coverage for your parents or your spouse and children, we have a product to help you keep your family safe and secure.
+						</p>
+						<p class="inr">Our state-of-the-art product offers coverage that includes Hospitalization Enhancement, Pre-Existing Medical Coverage, Hepatitis B & C Coverage, Specialist Investigation for Outpatients and much more.</p>
+					</div>
+				</div>
+			</div>
+		</section>
       <section class="tabs-area">
          <div class="tbsc">
             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -253,8 +244,8 @@
                                                             <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
                                                          </ul>
                                                          <div class="">
-                                                            <input type="radio" class="btn-check" id="plan_<?php echo e($plan->id); ?>" value="<?php echo e($plan->id); ?>" autocomplete="off" name="plan" <?php if($plan_key == 0): ?> checked <?php endif; ?>>
-                                                            <label class="btn btn-next btn btn-primary" for="plan_<?php echo e($plan->id); ?>">
+                                                            <input type="radio" class="btn-check" id="plan_<?php echo e($plan->id); ?>" amount="<?php echo e($plan->amount); ?>" value="<?php echo e($plan->id); ?>" autocomplete="off" name="plan" <?php if($plan_key == 0): ?> checked <?php endif; ?>>
+                                                            <label onclick="changeAmt()" class="btn btn-next btn btn-primary" for="plan_<?php echo e($plan->id); ?>">
                                                                   Select
                                                             </label>
                                                          </div>                                                      
@@ -938,6 +929,14 @@ endif;
 unset($__errorArgs, $__bag); ?>
             </div>
             </div>
+			<div>
+				<input type="text" name="coupon" id="coupon" placeholder="Enter Coupon" >
+				<input type="button" name="coupon_btn" id="coupon_btn" value="Apply Coupon"> 
+				<span id="coupon_msg"></span>
+				<p>Plan Amount <span id="plan_amount">0</span></p>
+				<p>Discount Amount <span id="discount_amount">0</span></p>
+				<p>Total Amount <span id="total_amount">0</span></p>
+			</div>
             <div class="col-12 text-center">
             <button class="btn btn-primary btn-lg" type="submit" id="submit">SUBMIT</button>
             </div>
@@ -951,169 +950,191 @@ unset($__errorArgs, $__bag); ?>
             </form>
          </div>
       </section>
-      <!-- Bootstrap core JS-->
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
-      <!-- Core theme JS-->
-      <script src="<?php echo e(asset('js/scripts.js')); ?>"></script>
-      <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-      <!-- * *                               SB Forms JS                               * *-->
-      <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
-      <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
-      <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
-      <script type="text/javascript">
-         var realFileBtn = document.getElementById("real-file");
-         var customBtn = document.getElementById("custom-button");
-         var customTxt = document.getElementById("custom-text");
-         customBtn.addEventListener("click", function () {
-             realFileBtn.click();
-         });
-         realFileBtn.addEventListener("change", function () {
-             if (realFileBtn.value) {
-                 customTxt.innerHTML = realFileBtn.value.match(
-                 /[\/\\]([\w\d\s\.\-\(\)]+)$/
-                 )[1];
-             } else {
-                 customTxt.innerHTML = "No file chosen, yet.";
-             }
-         });
-         
-         
-      </script>
-
-<script type="text/javascript">
-         var realFileBtn_2 = document.getElementById("real-file_2");
-         var customBtn_2 = document.getElementById("custom-button_2");
-         var customTxt_2 = document.getElementById("custom-text_2");
-         customBtn_2.addEventListener("click", function () {
-             realFileBtn_2.click();
-         });
-         realFileBtn_2.addEventListener("change", function () {
-             if (realFileBtn_2.value) {
-                 customTxt_2.innerHTML = realFileBtn_2.value.match(
-                 /[\/\\]([\w\d\s\.\-\(\)]+)$/
-                 )[1];
-             } else {
-                 customTxt_2.innerHTML = "No file chosen, yet.";
-             }
-         });
-         
-         
-      </script>
-      <script type="text/javascript">
-         var realFileBtn_3 = document.getElementById("real-file_3");
-         var customBtn_3 = document.getElementById("custom-button_3");
-         var customTxt_3 = document.getElementById("custom-text_3");
-         customBtn_3.addEventListener("click", function () {
-             realFileBtn_3.click();
-         });
-         realFileBtn_3.addEventListener("change", function () {
-             if (realFileBtn_3.value) {
-                 customTxt_3.innerHTML = realFileBtn_3.value.match(
-                 /[\/\\]([\w\d\s\.\-\(\)]+)$/
-                 )[1];
-             } else {
-                 customTxt_3.innerHTML = "No file chosen, yet.";
-             }
-         });
-         
-         
-      </script>
-      <script type="text/javascript">
-         var realFileBtn_4 = document.getElementById("real-file_4");
-         var customBtn_4 = document.getElementById("custom-button_4");
-         var customTxt_4 = document.getElementById("custom-text_4");
-         customBtn_4.addEventListener("click", function () {
-             realFileBtn_4.click();
-         });
-         realFileBtn_4.addEventListener("change", function () {
-             if (realFileBtn_4.value) {
-                 customTxt_4.innerHTML = realFileBtn_4.value.match(
-                 /[\/\\]([\w\d\s\.\-\(\)]+)$/
-                 )[1];
-             } else {
-                 customTxt_4.innerHTML = "No file chosen, yet.";
-             }
-         });
-         
-         
-      </script>
-      <script type="text/javascript">
-         $( "#nxt" ).click(function() {
-            $( "#pills-home-tab" ).click();
-         });
-         
-         $( "#back" ).click(function() {
-            $( "#pills-profile-tab" ).click();
-         });
-
-
-
-         $( "#nxt_2" ).click(function() {
-             $( "#pills-contact-tab" ).click();
-         });
-
-         $( "#back_3" ).click(function() {
-            $( "#pills-home-tab" ).click();
-         });
-
-         $( "#nxt_3" ).click(function() {
-             $( "#pills-step4-tab" ).click();
-         });
-
-         
-
-         $( "#nxt_4" ).click(function() {
-            $.ajax({
-               url: "<?php echo e(url('client/store')); ?>",
-               type: 'POST',
-               data: {
-                  full_name: $('input[name="full_name"]').val(),
-                  cnic: $('input[name="cnic"]').val(),
-                  rda_account_number: $('input[name="rda_account_number"]').val(),
-                  email: $('input[name="email"]').val(),
-                  _token: $('input[name="_token"]').val()
-               },
-               success: function (result) {
-                  console.log(result)
-               }
-            })
-             $( "#pills-step5-tab" ).click();
-         });
-
-         $( "#back_4" ).click(function() {
-             $( "#pills-contact-tab" ).click();
-         });
-
-
-
-         $( "#nxt_6" ).click(function() {
-             $( "#pills-step6-tab" ).click();
-         });
-
-         $( "#back_6" ).click(function() {
-             $( "#pills-step4-tab" ).click();
-         });
-         // Example starter JavaScript for disabling form submissions if there are invalid fields
-(function () {
-  'use strict'
-
-  // Fetch all the forms we want to apply custom Bootstrap validation styles to
-  var forms = document.querySelectorAll('.needs-validation')
-
-  // Loop over them and prevent submission
-  Array.prototype.slice.call(forms)
-    .forEach(function (form) {
-      form.addEventListener('submit', function (event) {
-        if (!form.checkValidity()) {
-          event.preventDefault()
-          event.stopPropagation()
-        }
-
-        form.classList.add('was-validated')
-      }, false)
-    })
-})()
-      </script>
-      
-   </body>
+		<!-- Bootstrap core JS-->
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"></script>
+		<!-- Core theme JS-->
+		<script src="<?php echo e(asset('frontend/js/scripts.js')); ?>"></script>
+		<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+		<!-- * *                               SB Forms JS                               * *-->
+		<!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+		<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+		<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+		<script type="text/javascript">
+			var realFileBtn = document.getElementById("real-file");
+			var customBtn = document.getElementById("custom-button");
+			var customTxt = document.getElementById("custom-text");
+			customBtn.addEventListener("click", function () {
+				realFileBtn.click();
+			});
+			realFileBtn.addEventListener("change", function () {
+				if (realFileBtn.value) {
+					customTxt.innerHTML = realFileBtn.value.match(
+					/[\/\\]([\w\d\s\.\-\(\)]+)$/
+					)[1];
+				} else {
+					customTxt.innerHTML = "No file chosen, yet.";
+				}
+			});
+			
+			
+		</script>
+		<script type="text/javascript">
+			var realFileBtn_2 = document.getElementById("real-file_2");
+			var customBtn_2 = document.getElementById("custom-button_2");
+			var customTxt_2 = document.getElementById("custom-text_2");
+			customBtn_2.addEventListener("click", function () {
+				realFileBtn_2.click();
+			});
+			realFileBtn_2.addEventListener("change", function () {
+				if (realFileBtn_2.value) {
+					customTxt_2.innerHTML = realFileBtn_2.value.match(
+					/[\/\\]([\w\d\s\.\-\(\)]+)$/
+					)[1];
+				} else {
+					customTxt_2.innerHTML = "No file chosen, yet.";
+				}
+			});
+			
+			
+		</script>
+		<script type="text/javascript">
+			var realFileBtn_3 = document.getElementById("real-file_3");
+			var customBtn_3 = document.getElementById("custom-button_3");
+			var customTxt_3 = document.getElementById("custom-text_3");
+			customBtn_3.addEventListener("click", function () {
+				realFileBtn_3.click();
+			});
+			realFileBtn_3.addEventListener("change", function () {
+				if (realFileBtn_3.value) {
+					customTxt_3.innerHTML = realFileBtn_3.value.match(
+					/[\/\\]([\w\d\s\.\-\(\)]+)$/
+					)[1];
+				} else {
+					customTxt_3.innerHTML = "No file chosen, yet.";
+				}
+			});
+			
+			
+		</script>
+		<script type="text/javascript">
+			var realFileBtn_4 = document.getElementById("real-file_4");
+			var customBtn_4 = document.getElementById("custom-button_4");
+			var customTxt_4 = document.getElementById("custom-text_4");
+			customBtn_4.addEventListener("click", function () {
+				realFileBtn_4.click();
+			});
+			realFileBtn_4.addEventListener("change", function () {
+				if (realFileBtn_4.value) {
+					customTxt_4.innerHTML = realFileBtn_4.value.match(
+					/[\/\\]([\w\d\s\.\-\(\)]+)$/
+					)[1];
+				} else {
+					customTxt_4.innerHTML = "No file chosen, yet.";
+				}
+			});
+			
+			
+		</script>
+		<script type="text/javascript">
+			$( "#nxt" ).click(function() {
+			$( "#pills-home-tab" ).click();
+			});
+			
+			$( "#back" ).click(function() {
+			$( "#pills-profile-tab" ).click();
+			});
+				
+			$( "#nxt_2" ).click(function() {
+				$( "#pills-contact-tab" ).click();
+			});
+			
+			$( "#back_3" ).click(function() {
+			$( "#pills-home-tab" ).click();
+			});
+			
+			$( "#nxt_3" ).click(function() {
+				$( "#pills-step4-tab" ).click();
+			});    
+			
+			$( "#nxt_4" ).click(function() {
+			$.ajax({
+				url: "<?php echo e(url('client/store')); ?>",
+				type: 'POST',
+				data: {
+					full_name: $('input[name="full_name"]').val(),
+					cnic: $('input[name="cnic"]').val(),
+					rda_account_number: $('input[name="rda_account_number"]').val(),
+					email: $('input[name="email"]').val(),
+					_token: $('input[name="_token"]').val()
+				},
+				success: function (result) {
+					console.log(result)
+				}
+			})
+				$( "#pills-step5-tab" ).click();
+			});
+			
+			$( "#back_4" ).click(function() {
+				$( "#pills-contact-tab" ).click();
+			});  
+			
+			$( "#nxt_6" ).click(function() {
+				$( "#pills-step6-tab" ).click();
+			});
+			
+			$( "#back_6" ).click(function() {
+				$( "#pills-step4-tab" ).click();
+			});
+			// Example starter JavaScript for disabling form submissions if there are invalid fields
+			(function () {
+				'use strict'
+				
+				// Fetch all the forms we want to apply custom Bootstrap validation styles to
+				var forms = document.querySelectorAll('.needs-validation')
+				
+				// Loop over them and prevent submission
+				Array.prototype.slice.call(forms)
+				.forEach(function (form) {
+				form.addEventListener('submit', function (event) {
+				if (!form.checkValidity()) {
+				event.preventDefault()
+				event.stopPropagation()
+				}
+				
+				form.classList.add('was-validated')
+				}, false)
+				})
+			})()
+		</script>
+		<script>
+			$(document).ready(function() {
+			$('#coupon_btn').click(function() {
+			var total_amount = $('#total_amount').text();
+			$.ajax({
+				url: "<?php echo e(url('coupon/validate-coupon')); ?>",
+				type: 'POST',
+				data: {
+					coupon: $('#coupon').val(),
+					total_amount: total_amount,
+					_token: $('input[name="_token"]').val()
+				},
+				success: function (result) {
+					var response = JSON.parse(result);
+					$('#coupon_msg').text(response.message)
+					if(response.code == 1){
+						$('#discount_amount').text(response.discount);
+						$('#total_amount').text(response.total_amount);
+					}
+				}
+			})
+			})
+			})
+			
+			function changeAmt() {
+			var plan_amount = $('input[name="plan"]:checked').attr('amount');
+			$('#plan_amount').text(plan_amount);
+			$('#total_amount').text(plan_amount);
+			}
+		</script>
+	</body>
 </html><?php /**PATH C:\laragon\www\rda\resources\views/accounts/form.blade.php ENDPATH**/ ?>
