@@ -16,7 +16,7 @@ class Account extends Model
     
     public function insurance_type()
     {
-        return $this->belongsTo(Bank::class, 'insurance_type_id', 'id');
+        return $this->belongsTo(InsuranceTYpe::class, 'insurance_type_id', 'id');
     }
     
     public function insurance()
