@@ -1,0 +1,56 @@
+[07-Jan-2022 14:10:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Cron\FieldInterface' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/AbstractField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/AbstractField.php on line 10
+[07-Jan-2022 14:10:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/DayOfMonthField.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/DayOfMonthField.php on line 28
+[07-Jan-2022 14:10:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/DayOfWeekField.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/DayOfWeekField.php on line 24
+[07-Jan-2022 14:11:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Cron\FieldFactoryInterface' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/FieldFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/FieldFactory.php on line 14
+[07-Jan-2022 14:11:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/HoursField.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/HoursField.php on line 13
+[07-Jan-2022 14:11:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/MinutesField.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/MinutesField.php on line 12
+[07-Jan-2022 14:11:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/MonthField.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/MonthField.php on line 12
+[12-Jan-2022 15:37:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Cron\FieldInterface' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/AbstractField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/AbstractField.php on line 10
+[12-Jan-2022 15:38:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/DayOfMonthField.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/DayOfMonthField.php on line 28
+[12-Jan-2022 15:38:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/DayOfWeekField.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/DayOfWeekField.php on line 24
+[12-Jan-2022 15:38:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Cron\FieldFactoryInterface' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/FieldFactory.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/FieldFactory.php on line 14
+[12-Jan-2022 15:38:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/HoursField.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/HoursField.php on line 13
+[12-Jan-2022 15:38:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/MinutesField.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/MinutesField.php on line 12
+[12-Jan-2022 15:38:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/MonthField.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/dragonmantank/cron-expression/src/Cron/MonthField.php on line 12

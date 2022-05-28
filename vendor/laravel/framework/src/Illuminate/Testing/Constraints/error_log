@@ -1,0 +1,60 @@
+[08-Jan-2022 20:40:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 150
+[08-Jan-2022 20:40:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[08-Jan-2022 20:40:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[08-Jan-2022 20:40:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[08-Jan-2022 20:40:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[11-Jan-2022 21:09:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 150
+[11-Jan-2022 21:09:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[11-Jan-2022 21:09:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[11-Jan-2022 21:09:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[11-Jan-2022 21:09:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8
+[13-Jan-2022 20:30:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php:150
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/ArraySubset.php on line 150
+[13-Jan-2022 20:30:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/CountInDatabase.php on line 9
+[13-Jan-2022 20:30:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/HasInDatabase.php on line 9
+[13-Jan-2022 20:30:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SeeInOrder.php on line 8
+[13-Jan-2022 20:30:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Testing/Constraints/SoftDeletedInDatabase.php on line 8

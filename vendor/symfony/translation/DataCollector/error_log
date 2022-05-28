@@ -1,0 +1,8 @@
+[07-Jan-2022 07:40:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\DataCollector\DataCollector' not found in /home/bookvxos/public_html/vendor/symfony/translation/DataCollector/TranslationDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/DataCollector/TranslationDataCollector.php on line 26
+[11-Jan-2022 21:16:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\DataCollector\DataCollector' not found in /home/bookvxos/public_html/vendor/symfony/translation/DataCollector/TranslationDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/DataCollector/TranslationDataCollector.php on line 26

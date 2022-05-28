@@ -1,0 +1,120 @@
+[08-Jan-2022 22:10:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php on line 10
+[08-Jan-2022 22:10:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php on line 12
+[08-Jan-2022 22:10:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php on line 10
+[08-Jan-2022 22:10:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php on line 7
+[08-Jan-2022 22:10:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php on line 7
+[08-Jan-2022 22:10:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php on line 8
+[08-Jan-2022 22:10:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php on line 9
+[08-Jan-2022 22:10:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php on line 11
+[08-Jan-2022 22:10:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php on line 11
+[08-Jan-2022 22:10:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php on line 9
+[08-Jan-2022 22:10:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php on line 9
+[08-Jan-2022 22:10:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php on line 8
+[08-Jan-2022 22:10:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php on line 12
+[08-Jan-2022 22:10:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php on line 10
+[08-Jan-2022 22:10:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php on line 15
+[13-Jan-2022 22:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php on line 10
+[13-Jan-2022 22:35:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php on line 12
+[13-Jan-2022 22:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php on line 10
+[13-Jan-2022 22:35:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php on line 7
+[13-Jan-2022 22:35:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php on line 7
+[13-Jan-2022 22:35:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php on line 8
+[13-Jan-2022 22:35:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php on line 9
+[13-Jan-2022 22:35:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php on line 11
+[13-Jan-2022 22:35:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php on line 11
+[13-Jan-2022 22:35:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php on line 9
+[13-Jan-2022 22:35:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php on line 9
+[13-Jan-2022 22:35:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php on line 8
+[13-Jan-2022 22:35:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php on line 12
+[13-Jan-2022 22:35:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php on line 10
+[13-Jan-2022 22:35:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php on line 15

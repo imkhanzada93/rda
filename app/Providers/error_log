@@ -1,0 +1,48 @@
+[06-Jan-2022 09:54:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/AppServiceProvider.php on line 8
+[06-Jan-2022 09:54:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/bookvxos/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/AuthServiceProvider.php on line 8
+[06-Jan-2022 09:54:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[06-Jan-2022 09:54:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/bookvxos/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/EventServiceProvider.php on line 10
+[06-Jan-2022 09:54:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/bookvxos/public_html/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/RouteServiceProvider.php on line 11
+[11-Jan-2022 08:53:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/AppServiceProvider.php on line 8
+[11-Jan-2022 08:54:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/bookvxos/public_html/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/AuthServiceProvider.php on line 8
+[11-Jan-2022 08:54:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[11-Jan-2022 08:54:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/bookvxos/public_html/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/EventServiceProvider.php on line 10
+[11-Jan-2022 08:54:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/bookvxos/public_html/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/RouteServiceProvider.php on line 11
+[21-Jan-2022 21:03:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/BroadcastServiceProvider.php on line 8
+[22-Jan-2022 06:05:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Providers/BroadcastServiceProvider.php on line 8

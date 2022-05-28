@@ -1,0 +1,32 @@
+[09-Jan-2022 04:15:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\CssSelector\Exception\ParseException' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/ExpressionErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/ExpressionErrorException.php on line 22
+[09-Jan-2022 04:15:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\CssSelector\Exception\ParseException' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/InternalErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/InternalErrorException.php on line 22
+[09-Jan-2022 04:15:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/ParseException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/ParseException.php on line 22
+[09-Jan-2022 04:15:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\CssSelector\Exception\ParseException' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/SyntaxErrorException.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/SyntaxErrorException.php on line 24
+[11-Jan-2022 23:00:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\CssSelector\Exception\ParseException' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/ExpressionErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/ExpressionErrorException.php on line 22
+[11-Jan-2022 23:00:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\CssSelector\Exception\ParseException' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/InternalErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/InternalErrorException.php on line 22
+[11-Jan-2022 23:00:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/ParseException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/ParseException.php on line 22
+[11-Jan-2022 23:00:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\CssSelector\Exception\ParseException' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/SyntaxErrorException.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Exception/SyntaxErrorException.php on line 24

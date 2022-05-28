@@ -1,0 +1,16 @@
+[07-Jan-2022 14:36:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 16
+[07-Jan-2022 14:36:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 16
+[12-Jan-2022 21:25:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Models/Permission.php on line 16
+[12-Jan-2022 21:25:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Models/Role.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Models/Role.php on line 16

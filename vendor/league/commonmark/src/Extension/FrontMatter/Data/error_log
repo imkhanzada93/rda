@@ -1,0 +1,12 @@
+[08-Jan-2022 20:53:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 20
+[11-Jan-2022 21:13:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 20
+[14-Jan-2022 03:43:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\FrontMatter\Data\FrontMatterDataParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Data/SymfonyYamlFrontMatterParser.php on line 20

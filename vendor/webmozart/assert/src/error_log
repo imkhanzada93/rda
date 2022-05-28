@@ -1,0 +1,2 @@
+[07-Jan-2022 04:11:15 America/New_York] PHP Fatal error:  Trait 'Webmozart\Assert\Mixin' not found in /home/bookvxos/public_html/vendor/webmozart/assert/src/Assert.php on line 33
+[11-Jan-2022 22:44:23 America/New_York] PHP Fatal error:  Trait 'Webmozart\Assert\Mixin' not found in /home/bookvxos/public_html/vendor/webmozart/assert/src/Assert.php on line 33

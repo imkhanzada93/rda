@@ -1,0 +1,8 @@
+[07-Jan-2022 13:12:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[12-Jan-2022 14:42:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14

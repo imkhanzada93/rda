@@ -1,0 +1,56 @@
+[07-Jan-2022 04:30:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/ClassMethodUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/ClassMethodUnit.php on line 15
+[07-Jan-2022 04:30:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/ClassUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/ClassUnit.php on line 15
+[07-Jan-2022 04:30:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/FunctionUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/FunctionUnit.php on line 15
+[07-Jan-2022 04:30:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/InterfaceMethodUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/InterfaceMethodUnit.php on line 15
+[07-Jan-2022 04:30:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/InterfaceUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/InterfaceUnit.php on line 15
+[07-Jan-2022 04:30:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/TraitMethodUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/TraitMethodUnit.php on line 15
+[07-Jan-2022 04:30:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/TraitUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/TraitUnit.php on line 15
+[11-Jan-2022 22:23:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/ClassMethodUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/ClassMethodUnit.php on line 15
+[11-Jan-2022 22:23:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/ClassUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/ClassUnit.php on line 15
+[11-Jan-2022 22:23:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/FunctionUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/FunctionUnit.php on line 15
+[11-Jan-2022 22:23:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/InterfaceMethodUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/InterfaceMethodUnit.php on line 15
+[11-Jan-2022 22:23:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/InterfaceUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/InterfaceUnit.php on line 15
+[11-Jan-2022 22:23:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/TraitMethodUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/TraitMethodUnit.php on line 15
+[11-Jan-2022 22:24:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeUnit\CodeUnit' not found in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/TraitUnit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/code-unit/src/TraitUnit.php on line 15

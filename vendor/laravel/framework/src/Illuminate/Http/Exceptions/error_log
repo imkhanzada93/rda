@@ -1,0 +1,16 @@
+[09-Jan-2022 06:01:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Exceptions/PostTooLargeException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Exceptions/PostTooLargeException.php on line 8
+[09-Jan-2022 06:01:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\TooManyRequestsHttpException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Exceptions/ThrottleRequestsException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Exceptions/ThrottleRequestsException.php on line 8
+[13-Jan-2022 22:31:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Exceptions/PostTooLargeException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Exceptions/PostTooLargeException.php on line 8
+[13-Jan-2022 22:32:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\TooManyRequestsHttpException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Exceptions/ThrottleRequestsException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Exceptions/ThrottleRequestsException.php on line 8

@@ -1,0 +1,8 @@
+[07-Jan-2022 04:04:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/bookvxos/public_html/vendor/fideloper/proxy/config/trustedproxy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 48
+[11-Jan-2022 21:50:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/bookvxos/public_html/vendor/fideloper/proxy/config/trustedproxy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fideloper/proxy/config/trustedproxy.php on line 48

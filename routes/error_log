@@ -1,0 +1,80 @@
+[05-Jan-2022 17:35:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/bookvxos/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/api.php on line 17
+[05-Jan-2022 17:35:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/bookvxos/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/channels.php on line 16
+[05-Jan-2022 17:36:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/bookvxos/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/console.php on line 17
+[05-Jan-2022 17:36:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/bookvxos/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/web.php on line 16
+[10-Jan-2022 17:28:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/bookvxos/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/api.php on line 17
+[10-Jan-2022 17:29:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/bookvxos/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/channels.php on line 16
+[10-Jan-2022 17:29:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/bookvxos/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/console.php on line 17
+[10-Jan-2022 17:30:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/bookvxos/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/web.php on line 16
+[11-Jan-2022 16:57:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/bookvxos/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/api.php on line 17
+[11-Jan-2022 17:02:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/bookvxos/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/channels.php on line 16
+[11-Jan-2022 17:13:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/bookvxos/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/console.php on line 17
+[13-Jan-2022 07:13:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/bookvxos/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/web.php on line 16
+[17-Jan-2022 12:16:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/bookvxos/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/api.php on line 17
+[17-Jan-2022 13:01:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/bookvxos/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/channels.php on line 16
+[17-Jan-2022 13:21:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/bookvxos/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/console.php on line 17
+[17-Jan-2022 14:42:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/bookvxos/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/web.php on line 16
+[20-Jan-2022 01:20:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/bookvxos/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/channels.php on line 16
+[20-Jan-2022 01:28:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/bookvxos/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/console.php on line 17
+[21-Jan-2022 03:10:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/bookvxos/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/api.php on line 17
+[21-Jan-2022 03:13:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Auth' not found in /home/bookvxos/public_html/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/routes/web.php on line 16

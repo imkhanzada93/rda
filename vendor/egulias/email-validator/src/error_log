@@ -1,0 +1,8 @@
+[07-Jan-2022 06:26:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Doctrine\Common\Lexer\AbstractLexer' not found in /home/bookvxos/public_html/vendor/egulias/email-validator/src/EmailLexer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/egulias/email-validator/src/EmailLexer.php on line 7
+[11-Jan-2022 21:47:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Doctrine\Common\Lexer\AbstractLexer' not found in /home/bookvxos/public_html/vendor/egulias/email-validator/src/EmailLexer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/egulias/email-validator/src/EmailLexer.php on line 7

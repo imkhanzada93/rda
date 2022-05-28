@@ -1,0 +1,8 @@
+[07-Jan-2022 04:44:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psr\Log\AbstractLogger' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/Log/Logger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/Log/Logger.php on line 23
+[11-Jan-2022 23:12:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psr\Log\AbstractLogger' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/Log/Logger.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/Log/Logger.php on line 23

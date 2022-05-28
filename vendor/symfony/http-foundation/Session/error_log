@@ -1,0 +1,16 @@
+[09-Jan-2022 04:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Session.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Session.php on line 30
+[09-Jan-2022 04:19:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/SessionBagProxy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 19
+[11-Jan-2022 23:01:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Session.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Session.php on line 30
+[11-Jan-2022 23:01:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/SessionBagProxy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/SessionBagProxy.php on line 19

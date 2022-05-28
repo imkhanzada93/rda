@@ -1,0 +1,80 @@
+[07-Jan-2022 04:44:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Encoder\Base64Encoder' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[07-Jan-2022 04:44:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\EncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[07-Jan-2022 04:44:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Encoder\Base64Encoder' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[07-Jan-2022 04:44:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\EncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[07-Jan-2022 04:45:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\ContentEncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[07-Jan-2022 04:45:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\AddressEncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[07-Jan-2022 04:45:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\ContentEncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[07-Jan-2022 04:45:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\EncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[07-Jan-2022 04:45:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Encoder\QpEncoder' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[07-Jan-2022 04:45:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\EncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[11-Jan-2022 21:07:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Encoder\Base64Encoder' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[11-Jan-2022 21:07:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\EncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[11-Jan-2022 21:07:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Encoder\Base64Encoder' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[11-Jan-2022 21:07:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\EncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[11-Jan-2022 21:07:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\ContentEncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[11-Jan-2022 21:07:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\AddressEncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[11-Jan-2022 21:07:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\ContentEncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[11-Jan-2022 21:07:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\EncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[11-Jan-2022 21:07:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Encoder\QpEncoder' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[11-Jan-2022 21:08:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Mime\Encoder\EncoderInterface' not found in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19

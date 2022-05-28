@@ -1,0 +1,24 @@
+[08-Jan-2022 19:47:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Encoder' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Base64Encoder.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Base64Encoder.php on line 16
+[08-Jan-2022 19:47:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Encoder' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/QpEncoder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/QpEncoder.php on line 18
+[08-Jan-2022 19:47:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Encoder' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Rfc2231Encoder.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 16
+[13-Jan-2022 21:28:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Encoder' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Base64Encoder.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Base64Encoder.php on line 16
+[13-Jan-2022 21:28:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Encoder' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/QpEncoder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/QpEncoder.php on line 18
+[13-Jan-2022 21:28:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Encoder' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Rfc2231Encoder.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Encoder/Rfc2231Encoder.php on line 16

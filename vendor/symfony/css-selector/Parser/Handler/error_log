@@ -1,0 +1,48 @@
+[09-Jan-2022 13:36:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php on line 27
+[09-Jan-2022 13:36:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/HashHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/HashHandler.php on line 30
+[09-Jan-2022 13:36:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php on line 30
+[09-Jan-2022 13:36:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php on line 29
+[09-Jan-2022 13:36:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/StringHandler.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/StringHandler.php on line 32
+[09-Jan-2022 13:36:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php on line 28
+[12-Jan-2022 21:27:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php on line 27
+[12-Jan-2022 21:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/HashHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/HashHandler.php on line 30
+[12-Jan-2022 21:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php on line 30
+[12-Jan-2022 21:27:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php on line 29
+[12-Jan-2022 21:27:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/StringHandler.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/StringHandler.php on line 32
+[12-Jan-2022 21:27:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\CssSelector\Parser\Handler\HandlerInterface' not found in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php on line 28

@@ -1,0 +1,16 @@
+[06-Jan-2022 20:01:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\Service\ResetInterface' not found in /home/bookvxos/public_html/vendor/symfony/console/Application.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/Application.php on line 67
+[06-Jan-2022 20:07:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/bookvxos/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21
+[11-Jan-2022 14:31:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\Service\ResetInterface' not found in /home/bookvxos/public_html/vendor/symfony/console/Application.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/Application.php on line 67
+[11-Jan-2022 14:32:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/bookvxos/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21

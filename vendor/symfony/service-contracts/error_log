@@ -1,0 +1,8 @@
+[06-Jan-2022 22:12:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\ContainerInterface' not found in /home/bookvxos/public_html/vendor/symfony/service-contracts/ServiceProviderInterface.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/service-contracts/ServiceProviderInterface.php on line 22
+[11-Jan-2022 13:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\ContainerInterface' not found in /home/bookvxos/public_html/vendor/symfony/service-contracts/ServiceProviderInterface.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/service-contracts/ServiceProviderInterface.php on line 22

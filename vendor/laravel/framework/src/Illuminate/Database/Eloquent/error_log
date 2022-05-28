@@ -1,0 +1,50 @@
+[09-Jan-2022 05:34:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcast' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/BroadcastableModelEventOccurred.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/BroadcastableModelEventOccurred.php on line 10
+[09-Jan-2022 05:34:20 America/New_York] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\Concerns\QueriesRelationships' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 27
+[09-Jan-2022 05:34:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Collection' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php on line 13
+[09-Jan-2022 05:35:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\Arrayable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 25
+[09-Jan-2022 05:35:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\RecordsNotFoundException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/ModelNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/ModelNotFoundException.php on line 8
+[09-Jan-2022 05:35:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\EntityResolver' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/QueueEntityResolver.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/QueueEntityResolver.php on line 8
+[09-Jan-2022 05:36:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Database\Eloquent\Scope' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletingScope.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletingScope.php on line 5
+[13-Jan-2022 22:29:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcast' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/BroadcastableModelEventOccurred.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/BroadcastableModelEventOccurred.php on line 10
+[13-Jan-2022 22:29:20 America/New_York] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\Concerns\QueriesRelationships' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 27
+[13-Jan-2022 22:29:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Collection' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php on line 13
+[13-Jan-2022 22:29:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\Arrayable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 25
+[13-Jan-2022 22:29:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\RecordsNotFoundException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/ModelNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/ModelNotFoundException.php on line 8
+[13-Jan-2022 22:29:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\EntityResolver' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/QueueEntityResolver.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/QueueEntityResolver.php on line 8
+[13-Jan-2022 22:29:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Database\Eloquent\Scope' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletingScope.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/SoftDeletingScope.php on line 5

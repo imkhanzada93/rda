@@ -1,0 +1,2 @@
+[07-Jan-2022 14:17:49 America/New_York] PHP Fatal error:  Trait 'Facade\FlareClient\Concerns\UsesTime' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Glows/Glow.php on line 8
+[12-Jan-2022 15:43:22 America/New_York] PHP Fatal error:  Trait 'Facade\FlareClient\Concerns\UsesTime' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Glows/Glow.php on line 8

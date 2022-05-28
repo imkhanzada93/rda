@@ -1,0 +1,48 @@
+[08-Jan-2022 16:40:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Broadcasting\Broadcasters\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/AblyBroadcaster.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/AblyBroadcaster.php on line 13
+[08-Jan-2022 16:41:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php on line 18
+[08-Jan-2022 16:41:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Broadcasting\Broadcasters\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/LogBroadcaster.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/LogBroadcaster.php on line 7
+[08-Jan-2022 16:41:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Broadcasting\Broadcasters\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/NullBroadcaster.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/NullBroadcaster.php on line 5
+[08-Jan-2022 16:41:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Broadcasting\Broadcasters\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/PusherBroadcaster.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/PusherBroadcaster.php on line 12
+[08-Jan-2022 16:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Broadcasting\Broadcasters\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/RedisBroadcaster.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/RedisBroadcaster.php on line 9
+[08-Jan-2022 17:21:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Broadcasting\Broadcasters\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/AblyBroadcaster.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/AblyBroadcaster.php on line 13
+[08-Jan-2022 17:21:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php on line 18
+[08-Jan-2022 17:21:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Broadcasting\Broadcasters\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/LogBroadcaster.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/LogBroadcaster.php on line 7
+[08-Jan-2022 17:21:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Broadcasting\Broadcasters\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/NullBroadcaster.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/NullBroadcaster.php on line 5
+[08-Jan-2022 17:21:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Broadcasting\Broadcasters\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/PusherBroadcaster.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/PusherBroadcaster.php on line 12
+[08-Jan-2022 17:21:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Broadcasting\Broadcasters\Broadcaster' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/RedisBroadcaster.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/RedisBroadcaster.php on line 9

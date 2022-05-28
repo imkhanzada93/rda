@@ -1,0 +1,24 @@
+[07-Jan-2022 10:23:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Rfc4122\FieldsInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/Fields.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/Fields.php on line 45
+[07-Jan-2022 10:23:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Uuid' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/Guid.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/Guid.php on line 51
+[07-Jan-2022 10:23:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/GuidBuilder.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/GuidBuilder.php on line 32
+[12-Jan-2022 07:22:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Rfc4122\FieldsInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/Fields.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/Fields.php on line 45
+[12-Jan-2022 07:22:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Uuid' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/Guid.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/Guid.php on line 51
+[12-Jan-2022 07:22:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/GuidBuilder.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Guid/GuidBuilder.php on line 32

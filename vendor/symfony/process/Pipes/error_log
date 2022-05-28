@@ -1,0 +1,24 @@
+[07-Jan-2022 04:48:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/bookvxos/public_html/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[07-Jan-2022 04:49:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/bookvxos/public_html/vendor/symfony/process/Pipes/UnixPipes.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 23
+[07-Jan-2022 04:49:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/bookvxos/public_html/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Pipes/WindowsPipes.php on line 27
+[11-Jan-2022 21:11:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Pipes\PipesInterface' not found in /home/bookvxos/public_html/vendor/symfony/process/Pipes/AbstractPipes.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Pipes/AbstractPipes.php on line 21
+[11-Jan-2022 21:11:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/bookvxos/public_html/vendor/symfony/process/Pipes/UnixPipes.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Pipes/UnixPipes.php on line 23
+[11-Jan-2022 21:11:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Pipes\AbstractPipes' not found in /home/bookvxos/public_html/vendor/symfony/process/Pipes/WindowsPipes.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Pipes/WindowsPipes.php on line 27

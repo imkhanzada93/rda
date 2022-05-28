@@ -1,0 +1,24 @@
+[08-Jan-2022 20:45:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/Attributes.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/Attributes.php on line 19
+[08-Jan-2022 20:45:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/AttributesInline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/AttributesInline.php on line 19
+[11-Jan-2022 21:11:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/Attributes.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/Attributes.php on line 19
+[11-Jan-2022 21:11:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/AttributesInline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/AttributesInline.php on line 19
+[14-Jan-2022 05:47:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/Attributes.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/Attributes.php on line 19
+[14-Jan-2022 05:48:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/AttributesInline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Attributes/Node/AttributesInline.php on line 19

@@ -1,0 +1,42 @@
+[07-Jan-2022 13:49:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\CarbonInterface' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Carbon.php:510
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 510
+[07-Jan-2022 13:49:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\CarbonInterface' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/CarbonImmutable.php:510
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/CarbonImmutable.php on line 510
+[07-Jan-2022 13:50:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\CarbonConverterInterface' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php:180
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php on line 180
+[07-Jan-2022 13:50:08 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\IntervalRounding' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/CarbonPeriod.php on line 165
+[07-Jan-2022 13:50:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Carbon\Factory' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/FactoryImmutable.php:225
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/FactoryImmutable.php on line 225
+[07-Jan-2022 13:50:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Translator' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Translator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Translator.php on line 18
+[12-Jan-2022 22:56:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\CarbonInterface' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Carbon.php:510
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 510
+[12-Jan-2022 22:56:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\CarbonInterface' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/CarbonImmutable.php:510
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/CarbonImmutable.php on line 510
+[12-Jan-2022 22:57:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\CarbonConverterInterface' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php:180
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php on line 180
+[12-Jan-2022 22:57:13 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\IntervalRounding' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/CarbonPeriod.php on line 165
+[12-Jan-2022 22:57:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Carbon\Factory' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/FactoryImmutable.php:225
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/FactoryImmutable.php on line 225
+[12-Jan-2022 22:58:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Translator' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Translator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Translator.php on line 18

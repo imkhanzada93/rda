@@ -1,0 +1,16 @@
+[08-Jan-2022 04:07:32 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\ObjectInitialisation' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.php on line 35
+[08-Jan-2022 04:07:38 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\Boundaries' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 528
+[08-Jan-2022 04:07:57 America/New_York] PHP Warning:  Class 'Symfony\Contracts\Translation\TranslatorInterface' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Localization.php on line 27
+[08-Jan-2022 04:08:00 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\Mixin' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Macro.php on line 18
+[08-Jan-2022 04:08:14 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\Cast' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Mutability.php on line 21
+[08-Jan-2022 04:08:24 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\Localization' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Options.php on line 26
+[08-Jan-2022 04:08:29 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\IntervalRounding' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Rounding.php on line 26
+[08-Jan-2022 04:08:35 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\ObjectInitialisation' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Serialization.php on line 34
+[13-Jan-2022 06:23:29 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\ObjectInitialisation' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.php on line 35
+[13-Jan-2022 06:23:33 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\Boundaries' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 528
+[13-Jan-2022 06:23:49 America/New_York] PHP Warning:  Class 'Symfony\Contracts\Translation\TranslatorInterface' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Localization.php on line 27
+[13-Jan-2022 06:23:52 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\Mixin' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Macro.php on line 18
+[13-Jan-2022 06:23:58 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\Cast' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Mutability.php on line 21
+[13-Jan-2022 06:24:02 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\Localization' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Options.php on line 26
+[13-Jan-2022 06:24:04 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\IntervalRounding' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Rounding.php on line 26
+[13-Jan-2022 06:24:06 America/New_York] PHP Fatal error:  Trait 'Carbon\Traits\ObjectInitialisation' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Serialization.php on line 34

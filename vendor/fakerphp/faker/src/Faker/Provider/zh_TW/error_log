@@ -1,0 +1,108 @@
+[08-Jan-2022 16:21:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Address.php on line 5
+[08-Jan-2022 16:22:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Color' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Color.php on line 5
+[08-Jan-2022 16:22:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Company' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Company.php on line 5
+[08-Jan-2022 16:22:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\DateTime' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/DateTime.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/DateTime.php on line 5
+[08-Jan-2022 16:22:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Internet' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Internet.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Internet.php on line 9
+[08-Jan-2022 16:22:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Payment' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Payment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Payment.php on line 9
+[08-Jan-2022 16:22:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Person.php on line 5
+[08-Jan-2022 16:22:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/PhoneNumber.php on line 5
+[08-Jan-2022 16:23:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Text' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Text.php on line 5
+[08-Jan-2022 17:08:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Address.php on line 5
+[08-Jan-2022 17:08:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Color' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Color.php on line 5
+[08-Jan-2022 17:08:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Company' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Company.php on line 5
+[08-Jan-2022 17:08:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\DateTime' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/DateTime.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/DateTime.php on line 5
+[08-Jan-2022 17:08:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Internet' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Internet.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Internet.php on line 9
+[08-Jan-2022 17:08:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Payment' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Payment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Payment.php on line 9
+[08-Jan-2022 17:08:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Person.php on line 5
+[08-Jan-2022 17:08:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/PhoneNumber.php on line 5
+[08-Jan-2022 17:08:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Text' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Text.php on line 5
+[13-Jan-2022 23:29:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Address.php on line 5
+[13-Jan-2022 23:29:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Color' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Color.php on line 5
+[13-Jan-2022 23:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Company' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Company.php on line 5
+[13-Jan-2022 23:29:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\DateTime' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/DateTime.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/DateTime.php on line 5
+[13-Jan-2022 23:29:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Internet' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Internet.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Internet.php on line 9
+[13-Jan-2022 23:29:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Payment' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Payment.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Payment.php on line 9
+[13-Jan-2022 23:29:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Person.php on line 5
+[13-Jan-2022 23:30:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/PhoneNumber.php on line 5
+[13-Jan-2022 23:30:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Text' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/zh_TW/Text.php on line 5

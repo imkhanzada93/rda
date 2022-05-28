@@ -1,0 +1,176 @@
+[08-Jan-2022 04:16:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php on line 25
+[08-Jan-2022 04:16:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'phpDocumentor\Reflection\DocBlock\Tag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php on line 22
+[08-Jan-2022 04:16:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php on line 29
+[08-Jan-2022 04:16:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php on line 25
+[08-Jan-2022 04:16:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'phpDocumentor\Reflection\DocBlock\Tag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php on line 28
+[08-Jan-2022 04:16:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Generic.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Generic.php on line 27
+[08-Jan-2022 04:16:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'phpDocumentor\Reflection\DocBlock\Tag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php on line 32
+[08-Jan-2022 04:16:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php on line 25
+[08-Jan-2022 04:16:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php on line 39
+[08-Jan-2022 04:16:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php on line 33
+[08-Jan-2022 04:16:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php on line 33
+[08-Jan-2022 04:16:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyRead.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyRead.php on line 33
+[08-Jan-2022 04:16:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php on line 33
+[08-Jan-2022 04:17:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Return_.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Return_.php on line 26
+[08-Jan-2022 04:17:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php on line 33
+[08-Jan-2022 04:17:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php on line 25
+[08-Jan-2022 04:17:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php on line 25
+[08-Jan-2022 04:17:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php on line 22
+[08-Jan-2022 04:17:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Throws.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Throws.php on line 26
+[08-Jan-2022 04:17:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php on line 29
+[08-Jan-2022 04:17:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php on line 33
+[08-Jan-2022 04:17:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Version.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Version.php on line 25
+[12-Jan-2022 23:15:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php on line 25
+[12-Jan-2022 23:16:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'phpDocumentor\Reflection\DocBlock\Tag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php on line 22
+[12-Jan-2022 23:16:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php on line 29
+[12-Jan-2022 23:16:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php on line 25
+[12-Jan-2022 23:16:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'phpDocumentor\Reflection\DocBlock\Tag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php on line 28
+[12-Jan-2022 23:16:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Generic.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Generic.php on line 27
+[12-Jan-2022 23:16:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'phpDocumentor\Reflection\DocBlock\Tag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php on line 32
+[12-Jan-2022 23:16:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php on line 25
+[12-Jan-2022 23:17:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php on line 39
+[12-Jan-2022 23:17:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php on line 33
+[12-Jan-2022 23:17:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php on line 33
+[12-Jan-2022 23:17:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyRead.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyRead.php on line 33
+[12-Jan-2022 23:17:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php on line 33
+[12-Jan-2022 23:17:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Return_.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Return_.php on line 26
+[12-Jan-2022 23:17:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php on line 33
+[12-Jan-2022 23:17:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php on line 25
+[12-Jan-2022 23:18:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php on line 25
+[12-Jan-2022 23:18:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php on line 22
+[12-Jan-2022 23:18:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Throws.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Throws.php on line 26
+[12-Jan-2022 23:18:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php on line 29
+[12-Jan-2022 23:18:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\TagWithType' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php on line 33
+[12-Jan-2022 23:18:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\DocBlock\Tags\BaseTag' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Version.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Version.php on line 25

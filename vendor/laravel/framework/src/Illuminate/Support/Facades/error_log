@@ -1,0 +1,428 @@
+[08-Jan-2022 20:36:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 50
+[08-Jan-2022 20:36:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 18
+[08-Jan-2022 20:36:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 36
+[08-Jan-2022 20:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 33
+[08-Jan-2022 20:36:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 16
+[08-Jan-2022 20:36:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 30
+[08-Jan-2022 20:36:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 29
+[08-Jan-2022 20:37:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 15
+[08-Jan-2022 20:37:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 12
+[08-Jan-2022 20:37:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[08-Jan-2022 20:37:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 38
+[08-Jan-2022 20:37:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 88
+[08-Jan-2022 20:37:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 28
+[08-Jan-2022 20:37:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 51
+[08-Jan-2022 20:37:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 27
+[08-Jan-2022 20:37:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 13
+[08-Jan-2022 20:37:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 55
+[08-Jan-2022 20:37:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 15
+[08-Jan-2022 20:37:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 24
+[08-Jan-2022 20:37:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 34
+[08-Jan-2022 20:38:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 24
+[08-Jan-2022 20:38:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php on line 15
+[08-Jan-2022 20:38:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 19
+[08-Jan-2022 20:38:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 29
+[08-Jan-2022 20:38:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 18
+[08-Jan-2022 20:38:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 24
+[08-Jan-2022 20:38:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 13
+[08-Jan-2022 20:38:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 92
+[08-Jan-2022 20:38:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 25
+[08-Jan-2022 20:38:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 48
+[08-Jan-2022 20:38:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php on line 25
+[08-Jan-2022 20:38:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 34
+[08-Jan-2022 20:38:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 46
+[08-Jan-2022 20:38:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 27
+[08-Jan-2022 20:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 14
+[08-Jan-2022 20:39:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 18
+[11-Jan-2022 22:49:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 50
+[11-Jan-2022 22:49:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 18
+[11-Jan-2022 22:49:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 36
+[11-Jan-2022 22:49:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 33
+[11-Jan-2022 22:50:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 16
+[11-Jan-2022 22:50:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 30
+[11-Jan-2022 22:50:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 29
+[11-Jan-2022 22:50:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 15
+[11-Jan-2022 22:50:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 12
+[11-Jan-2022 22:50:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[11-Jan-2022 22:51:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 38
+[11-Jan-2022 22:51:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 88
+[11-Jan-2022 22:51:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 28
+[11-Jan-2022 22:51:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 51
+[11-Jan-2022 22:51:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 27
+[11-Jan-2022 22:52:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 13
+[11-Jan-2022 22:52:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 55
+[11-Jan-2022 22:52:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 15
+[11-Jan-2022 22:52:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 24
+[11-Jan-2022 22:52:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 34
+[11-Jan-2022 22:53:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 24
+[11-Jan-2022 22:53:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php on line 15
+[11-Jan-2022 22:53:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 19
+[11-Jan-2022 22:53:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 29
+[11-Jan-2022 22:53:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 18
+[11-Jan-2022 22:54:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 24
+[11-Jan-2022 22:54:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 13
+[11-Jan-2022 22:54:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 92
+[11-Jan-2022 22:54:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 25
+[11-Jan-2022 22:54:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 48
+[11-Jan-2022 22:54:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php on line 25
+[11-Jan-2022 22:54:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 34
+[11-Jan-2022 22:55:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 46
+[11-Jan-2022 22:55:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 14
+[11-Jan-2022 22:55:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 18
+[13-Jan-2022 23:05:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 50
+[13-Jan-2022 23:05:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 18
+[13-Jan-2022 23:06:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 36
+[13-Jan-2022 23:06:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 33
+[13-Jan-2022 23:06:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 16
+[13-Jan-2022 23:06:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 30
+[13-Jan-2022 23:06:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 29
+[13-Jan-2022 23:06:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 15
+[13-Jan-2022 23:06:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 12
+[13-Jan-2022 23:07:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[13-Jan-2022 23:07:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/DB.php on line 38
+[13-Jan-2022 23:07:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 88
+[13-Jan-2022 23:07:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 28
+[13-Jan-2022 23:07:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 51
+[13-Jan-2022 23:07:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 27
+[13-Jan-2022 23:08:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 13
+[13-Jan-2022 23:08:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 55
+[13-Jan-2022 23:08:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 15
+[13-Jan-2022 23:08:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 24
+[13-Jan-2022 23:08:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 34
+[13-Jan-2022 23:08:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 24
+[13-Jan-2022 23:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/ParallelTesting.php on line 15
+[13-Jan-2022 23:09:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 19
+[13-Jan-2022 23:09:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 29
+[13-Jan-2022 23:09:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/RateLimiter.php on line 18
+[13-Jan-2022 23:09:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 24
+[13-Jan-2022 23:09:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 13
+[13-Jan-2022 23:09:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 92
+[13-Jan-2022 23:10:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 25
+[13-Jan-2022 23:10:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 48
+[13-Jan-2022 23:10:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php on line 25
+[13-Jan-2022 23:10:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 34
+[13-Jan-2022 23:10:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 46
+[13-Jan-2022 23:10:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 27
+[13-Jan-2022 23:11:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 14
+[13-Jan-2022 23:11:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 18

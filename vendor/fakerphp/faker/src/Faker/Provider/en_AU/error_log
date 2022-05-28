@@ -1,0 +1,24 @@
+[09-Jan-2022 05:49:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\en_US\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/Address.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/Address.php on line 8
+[09-Jan-2022 05:49:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Internet' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/Internet.php on line 5
+[09-Jan-2022 05:50:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/PhoneNumber.php on line 5
+[13-Jan-2022 20:14:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\en_US\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/Address.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/Address.php on line 8
+[13-Jan-2022 20:14:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Internet' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/Internet.php on line 5
+[13-Jan-2022 20:15:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/en_AU/PhoneNumber.php on line 5

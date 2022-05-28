@@ -1,0 +1,88 @@
+[08-Jan-2022 19:30:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/AttributeEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/AttributeEmulator.php on line 7
+[08-Jan-2022 19:30:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/CoaleseEqualTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/CoaleseEqualTokenEmulator.php on line 7
+[08-Jan-2022 19:30:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\KeywordEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php on line 7
+[08-Jan-2022 19:30:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/FlexibleDocStringEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/FlexibleDocStringEmulator.php on line 7
+[08-Jan-2022 19:30:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\KeywordEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/FnTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/FnTokenEmulator.php on line 7
+[08-Jan-2022 19:30:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php on line 5
+[08-Jan-2022 19:30:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\KeywordEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php on line 7
+[08-Jan-2022 19:30:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NullsafeTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NullsafeTokenEmulator.php on line 7
+[08-Jan-2022 19:30:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NumericLiteralSeparatorEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NumericLiteralSeparatorEmulator.php on line 7
+[08-Jan-2022 19:30:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\KeywordEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyTokenEmulator.php on line 7
+[08-Jan-2022 19:30:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php on line 8
+[13-Jan-2022 08:03:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/AttributeEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/AttributeEmulator.php on line 7
+[13-Jan-2022 08:03:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/CoaleseEqualTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/CoaleseEqualTokenEmulator.php on line 7
+[13-Jan-2022 08:03:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\KeywordEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php on line 7
+[13-Jan-2022 08:03:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/FlexibleDocStringEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/FlexibleDocStringEmulator.php on line 7
+[13-Jan-2022 08:04:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\KeywordEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/FnTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/FnTokenEmulator.php on line 7
+[13-Jan-2022 08:04:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php on line 5
+[13-Jan-2022 08:04:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\KeywordEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php on line 7
+[13-Jan-2022 08:04:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NullsafeTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NullsafeTokenEmulator.php on line 7
+[13-Jan-2022 08:04:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NumericLiteralSeparatorEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NumericLiteralSeparatorEmulator.php on line 7
+[13-Jan-2022 08:04:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\KeywordEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyTokenEmulator.php on line 7
+[13-Jan-2022 08:04:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\TokenEmulator' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php on line 8

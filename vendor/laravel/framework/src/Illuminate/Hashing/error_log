@@ -1,0 +1,40 @@
+[08-Jan-2022 12:04:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Hashing\ArgonHasher' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php on line 7
+[08-Jan-2022 12:04:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Hashing\AbstractHasher' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php on line 8
+[08-Jan-2022 12:04:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Hashing\AbstractHasher' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 8
+[08-Jan-2022 12:04:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Manager' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php on line 8
+[08-Jan-2022 12:04:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 8
+[13-Jan-2022 01:06:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Hashing\ArgonHasher' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php on line 7
+[13-Jan-2022 01:06:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Hashing\AbstractHasher' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php on line 8
+[13-Jan-2022 01:06:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Hashing\AbstractHasher' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 8
+[13-Jan-2022 01:06:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Manager' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php on line 8
+[13-Jan-2022 01:06:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 8

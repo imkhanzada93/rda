@@ -1,0 +1,16 @@
+[09-Jan-2022 05:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Instantiator\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/InvalidArgumentException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/InvalidArgumentException.php on line 15
+[09-Jan-2022 05:29:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Instantiator\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/UnexpectedValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/UnexpectedValueException.php on line 14
+[13-Jan-2022 19:22:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Instantiator\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/InvalidArgumentException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/InvalidArgumentException.php on line 15
+[13-Jan-2022 19:23:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Instantiator\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/UnexpectedValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Exception/UnexpectedValueException.php on line 14

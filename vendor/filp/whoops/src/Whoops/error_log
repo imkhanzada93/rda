@@ -1,0 +1,8 @@
+[07-Jan-2022 11:27:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Whoops\RunInterface' not found in /home/bookvxos/public_html/vendor/filp/whoops/src/Whoops/Run.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 19
+[12-Jan-2022 14:27:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Whoops\RunInterface' not found in /home/bookvxos/public_html/vendor/filp/whoops/src/Whoops/Run.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/filp/whoops/src/Whoops/Run.php on line 19

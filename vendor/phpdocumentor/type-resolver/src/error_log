@@ -1,0 +1,8 @@
+[07-Jan-2022 07:13:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'phpDocumentor\Reflection\Type' not found in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[11-Jan-2022 18:43:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'phpDocumentor\Reflection\Type' not found in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16

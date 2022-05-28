@@ -1,0 +1,80 @@
+[08-Jan-2022 11:17:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[08-Jan-2022 11:17:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[08-Jan-2022 11:17:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[08-Jan-2022 11:17:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[08-Jan-2022 11:17:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[08-Jan-2022 11:17:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[08-Jan-2022 11:17:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[08-Jan-2022 11:17:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[08-Jan-2022 11:17:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[08-Jan-2022 11:17:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[13-Jan-2022 00:01:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[13-Jan-2022 00:01:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[13-Jan-2022 00:01:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[13-Jan-2022 00:01:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[13-Jan-2022 00:01:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[13-Jan-2022 00:05:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[13-Jan-2022 00:05:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[13-Jan-2022 00:05:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[13-Jan-2022 00:05:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[13-Jan-2022 00:05:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4

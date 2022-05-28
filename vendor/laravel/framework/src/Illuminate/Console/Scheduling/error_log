@@ -1,0 +1,34 @@
+[08-Jan-2022 16:15:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Console\Scheduling\EventMutex' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 7
+[08-Jan-2022 16:15:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Console\Scheduling\SchedulingMutex' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 8
+[08-Jan-2022 16:15:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Scheduling\Event' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 11
+[08-Jan-2022 16:16:11 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 21
+[08-Jan-2022 16:16:33 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 18
+[08-Jan-2022 16:16:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php on line 9
+[08-Jan-2022 16:16:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php on line 9
+[08-Jan-2022 16:17:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php on line 15
+[08-Jan-2022 16:17:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 7
+[08-Jan-2022 16:17:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 9

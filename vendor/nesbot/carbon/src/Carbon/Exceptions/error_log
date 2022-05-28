@@ -1,0 +1,216 @@
+[08-Jan-2022 03:32:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Carbon\Exceptions\UnitException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadComparisonUnitException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadComparisonUnitException.php on line 15
+[08-Jan-2022 03:32:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\BadMethodCallException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentConstructorException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentConstructorException.php on line 16
+[08-Jan-2022 03:32:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\BadMethodCallException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentSetterException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentSetterException.php on line 16
+[08-Jan-2022 03:32:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\Exception' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadMethodCallException.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadMethodCallException.php on line 13
+[08-Jan-2022 03:33:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\RuntimeException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/ImmutableException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/ImmutableException.php on line 16
+[08-Jan-2022 03:33:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\Exception' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidArgumentException.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidArgumentException.php on line 13
+[08-Jan-2022 03:33:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidCastException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidCastException.php on line 16
+[08-Jan-2022 03:33:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php on line 16
+[08-Jan-2022 03:33:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidFormatException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidFormatException.php on line 16
+[08-Jan-2022 03:33:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidIntervalException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidIntervalException.php on line 16
+[08-Jan-2022 03:33:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodDateException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodDateException.php on line 16
+[08-Jan-2022 03:33:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodParameterException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodParameterException.php on line 16
+[08-Jan-2022 03:33:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidTimeZoneException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidTimeZoneException.php on line 16
+[08-Jan-2022 03:33:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidTypeException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidTypeException.php on line 16
+[08-Jan-2022 03:33:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotACarbonClassException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotACarbonClassException.php on line 17
+[08-Jan-2022 03:33:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotAPeriodException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotAPeriodException.php on line 16
+[08-Jan-2022 03:33:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotLocaleAwareException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotLocaleAwareException.php on line 16
+[08-Jan-2022 03:33:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/OutOfRangeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/OutOfRangeException.php on line 19
+[08-Jan-2022 03:33:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/ParseErrorException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/ParseErrorException.php on line 16
+[08-Jan-2022 03:33:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\Exception' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/RuntimeException.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/RuntimeException.php on line 13
+[08-Jan-2022 03:33:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitException.php on line 16
+[08-Jan-2022 03:33:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Carbon\Exceptions\UnitException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitNotConfiguredException.php on line 15
+[08-Jan-2022 03:33:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownGetterException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownGetterException.php on line 16
+[08-Jan-2022 03:33:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\BadMethodCallException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownMethodException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownMethodException.php on line 16
+[08-Jan-2022 03:33:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\BadMethodCallException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownSetterException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownSetterException.php on line 16
+[08-Jan-2022 03:33:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Carbon\Exceptions\UnitException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownUnitException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownUnitException.php on line 15
+[08-Jan-2022 03:33:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\RuntimeException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnreachableException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnreachableException.php on line 16
+[13-Jan-2022 11:24:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Carbon\Exceptions\UnitException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadComparisonUnitException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadComparisonUnitException.php on line 15
+[13-Jan-2022 11:24:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\BadMethodCallException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentConstructorException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentConstructorException.php on line 16
+[13-Jan-2022 11:24:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\BadMethodCallException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentSetterException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentSetterException.php on line 16
+[13-Jan-2022 11:24:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\Exception' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadMethodCallException.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadMethodCallException.php on line 13
+[13-Jan-2022 11:24:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\RuntimeException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/ImmutableException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/ImmutableException.php on line 16
+[13-Jan-2022 11:24:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\Exception' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidArgumentException.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidArgumentException.php on line 13
+[13-Jan-2022 11:24:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidCastException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidCastException.php on line 16
+[13-Jan-2022 11:24:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php on line 16
+[13-Jan-2022 11:24:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidFormatException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidFormatException.php on line 16
+[13-Jan-2022 11:25:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidIntervalException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidIntervalException.php on line 16
+[13-Jan-2022 11:25:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodDateException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodDateException.php on line 16
+[13-Jan-2022 11:25:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodParameterException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodParameterException.php on line 16
+[13-Jan-2022 11:25:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidTimeZoneException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidTimeZoneException.php on line 16
+[13-Jan-2022 11:25:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidTypeException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidTypeException.php on line 16
+[13-Jan-2022 11:25:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotACarbonClassException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotACarbonClassException.php on line 17
+[13-Jan-2022 11:25:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotAPeriodException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotAPeriodException.php on line 16
+[13-Jan-2022 11:25:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotLocaleAwareException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotLocaleAwareException.php on line 16
+[13-Jan-2022 11:25:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/OutOfRangeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/OutOfRangeException.php on line 19
+[13-Jan-2022 11:25:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/ParseErrorException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/ParseErrorException.php on line 16
+[13-Jan-2022 11:25:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\Exception' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/RuntimeException.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/RuntimeException.php on line 13
+[13-Jan-2022 11:25:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitException.php on line 16
+[13-Jan-2022 11:25:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Carbon\Exceptions\UnitException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitNotConfiguredException.php on line 15
+[13-Jan-2022 11:25:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\InvalidArgumentException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownGetterException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownGetterException.php on line 16
+[13-Jan-2022 11:57:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\BadMethodCallException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownMethodException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownMethodException.php on line 16
+[13-Jan-2022 11:57:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\BadMethodCallException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownSetterException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownSetterException.php on line 16
+[13-Jan-2022 11:57:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Carbon\Exceptions\UnitException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownUnitException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownUnitException.php on line 15
+[13-Jan-2022 11:57:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Carbon\Exceptions\RuntimeException' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnreachableException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnreachableException.php on line 16

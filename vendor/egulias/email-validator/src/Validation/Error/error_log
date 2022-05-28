@@ -1,0 +1,16 @@
+[08-Jan-2022 11:34:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Exception\InvalidEmail' not found in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Validation/Error/RFCWarnings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Validation/Error/RFCWarnings.php on line 7
+[08-Jan-2022 11:34:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Exception\InvalidEmail' not found in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Validation/Error/SpoofEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Validation/Error/SpoofEmail.php on line 7
+[12-Jan-2022 23:57:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Exception\InvalidEmail' not found in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Validation/Error/RFCWarnings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Validation/Error/RFCWarnings.php on line 7
+[12-Jan-2022 23:57:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Exception\InvalidEmail' not found in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Validation/Error/SpoofEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Validation/Error/SpoofEmail.php on line 7

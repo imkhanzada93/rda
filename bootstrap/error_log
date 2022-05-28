@@ -1,0 +1,20 @@
+[05-Jan-2022 17:31:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bookvxos/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/bootstrap/app.php on line 14
+[09-Jan-2022 11:56:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bookvxos/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/bootstrap/app.php on line 14
+[09-Jan-2022 12:02:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bookvxos/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/bootstrap/app.php on line 14
+[10-Jan-2022 17:08:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bookvxos/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/bootstrap/app.php on line 14
+[11-Jan-2022 00:13:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/bookvxos/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/bootstrap/app.php on line 14

@@ -1,0 +1,24 @@
+[07-Jan-2022 11:14:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Util\Printer' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/DefaultResultPrinter.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/DefaultResultPrinter.php on line 47
+[07-Jan-2022 11:14:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\TestListener' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/ResultPrinter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/ResultPrinter.php on line 18
+[07-Jan-2022 11:14:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Runner\BaseTestRunner' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/TestRunner.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/TestRunner.php on line 88
+[12-Jan-2022 07:47:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Util\Printer' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/DefaultResultPrinter.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/DefaultResultPrinter.php on line 47
+[12-Jan-2022 07:47:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\TestListener' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/ResultPrinter.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/ResultPrinter.php on line 18
+[12-Jan-2022 07:47:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Runner\BaseTestRunner' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/TestRunner.php:88
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/TextUI/TestRunner.php on line 88

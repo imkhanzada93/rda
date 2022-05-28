@@ -1,0 +1,96 @@
+[08-Jan-2022 09:38:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 26
+[08-Jan-2022 09:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 17
+[08-Jan-2022 09:39:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 31
+[08-Jan-2022 09:39:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Monolog\Processor\MemoryProcessor' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 20
+[08-Jan-2022 09:39:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[08-Jan-2022 09:39:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Monolog\Processor\MemoryProcessor' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 20
+[08-Jan-2022 09:39:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 25
+[08-Jan-2022 09:39:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 19
+[08-Jan-2022 09:39:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 23
+[08-Jan-2022 09:39:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 19
+[08-Jan-2022 09:39:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 21
+[08-Jan-2022 09:39:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 19
+[13-Jan-2022 20:28:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 26
+[13-Jan-2022 20:29:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 17
+[13-Jan-2022 20:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 31
+[13-Jan-2022 20:29:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Monolog\Processor\MemoryProcessor' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 20
+[13-Jan-2022 20:29:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[13-Jan-2022 20:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Monolog\Processor\MemoryProcessor' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 20
+[13-Jan-2022 20:29:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 25
+[13-Jan-2022 20:29:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 19
+[13-Jan-2022 20:29:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 23
+[13-Jan-2022 20:30:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 19
+[13-Jan-2022 20:30:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 21
+[13-Jan-2022 20:30:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Monolog\Processor\ProcessorInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 19

@@ -1,0 +1,40 @@
+[08-Jan-2022 03:05:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/FallbackNodeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/FallbackNodeProvider.php on line 25
+[08-Jan-2022 03:06:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Collection\AbstractCollection' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/NodeProviderCollection.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/NodeProviderCollection.php on line 26
+[08-Jan-2022 03:06:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/RandomNodeProvider.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/RandomNodeProvider.php on line 36
+[08-Jan-2022 03:06:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/StaticNodeProvider.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/StaticNodeProvider.php on line 33
+[08-Jan-2022 03:06:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/SystemNodeProvider.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/SystemNodeProvider.php on line 45
+[12-Jan-2022 21:13:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/FallbackNodeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/FallbackNodeProvider.php on line 25
+[12-Jan-2022 21:13:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Collection\AbstractCollection' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/NodeProviderCollection.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/NodeProviderCollection.php on line 26
+[12-Jan-2022 21:13:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/RandomNodeProvider.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/RandomNodeProvider.php on line 36
+[12-Jan-2022 21:13:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/StaticNodeProvider.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/StaticNodeProvider.php on line 33
+[12-Jan-2022 21:13:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/SystemNodeProvider.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Node/SystemNodeProvider.php on line 45

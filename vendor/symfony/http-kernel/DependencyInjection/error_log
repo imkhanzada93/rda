@@ -1,0 +1,104 @@
+[07-Jan-2022 04:41:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 26
+[07-Jan-2022 04:41:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\DependencyInjection\Extension' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php on line 28
+[07-Jan-2022 04:41:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 27
+[07-Jan-2022 04:41:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Extension\Extension' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php on line 21
+[07-Jan-2022 04:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php on line 26
+[07-Jan-2022 04:41:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Fragment\FragmentHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php on line 23
+[07-Jan-2022 04:41:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php on line 24
+[07-Jan-2022 04:41:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[07-Jan-2022 04:41:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 34
+[07-Jan-2022 04:41:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[07-Jan-2022 04:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[07-Jan-2022 04:41:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php on line 24
+[07-Jan-2022 04:41:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\Service\ResetInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php on line 24
+[11-Jan-2022 23:06:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/AddAnnotatedClassesToCachePass.php on line 26
+[11-Jan-2022 23:06:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\DependencyInjection\Extension' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ConfigurableExtension.php on line 28
+[11-Jan-2022 23:06:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ControllerArgumentValueResolverPass.php on line 27
+[11-Jan-2022 23:07:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Extension\Extension' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/Extension.php on line 21
+[11-Jan-2022 23:07:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/FragmentRendererPass.php on line 26
+[11-Jan-2022 23:07:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Fragment\FragmentHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/LazyLoadingFragmentHandler.php on line 23
+[11-Jan-2022 23:07:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/LoggerPass.php on line 24
+[11-Jan-2022 23:07:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\DependencyInjection\Compiler\MergeExtensionConfigurationPass' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/MergeExtensionConfigurationPass.php on line 22
+[11-Jan-2022 23:07:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterControllerArgumentLocatorsPass.php on line 34
+[11-Jan-2022 23:07:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RegisterLocaleAwareServicesPass.php on line 24
+[11-Jan-2022 23:07:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/RemoveEmptyControllerArgumentLocatorsPass.php on line 22
+[11-Jan-2022 23:07:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ResettableServicePass.php on line 24
+[11-Jan-2022 23:07:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Contracts\Service\ResetInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/DependencyInjection/ServicesResetter.php on line 24

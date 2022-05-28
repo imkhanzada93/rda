@@ -1,0 +1,28 @@
+[08-Jan-2022 16:43:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cache\Events\CacheEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/CacheHit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/CacheHit.php on line 5
+[08-Jan-2022 16:43:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cache\Events\CacheEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/CacheMissed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/CacheMissed.php on line 5
+[08-Jan-2022 16:44:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cache\Events\CacheEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/KeyForgotten.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/KeyForgotten.php on line 5
+[08-Jan-2022 17:23:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cache\Events\CacheEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/CacheHit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/CacheHit.php on line 5
+[08-Jan-2022 17:23:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cache\Events\CacheEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/CacheMissed.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/CacheMissed.php on line 5
+[08-Jan-2022 17:23:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cache\Events\CacheEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/KeyForgotten.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/KeyForgotten.php on line 5
+[08-Jan-2022 17:23:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cache\Events\CacheEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/KeyWritten.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Cache/Events/KeyWritten.php on line 5

@@ -1,0 +1,24 @@
+[08-Jan-2022 11:33:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mockery\CountValidator\Exception' not found in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidCountException.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidCountException.php on line 26
+[08-Jan-2022 11:33:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mockery\Exception' not found in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidOrderException.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidOrderException.php on line 25
+[08-Jan-2022 11:33:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mockery\Exception' not found in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/NoMatchingExpectationException.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/NoMatchingExpectationException.php on line 25
+[13-Jan-2022 20:12:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mockery\CountValidator\Exception' not found in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidCountException.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidCountException.php on line 26
+[13-Jan-2022 20:12:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mockery\Exception' not found in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidOrderException.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/InvalidOrderException.php on line 25
+[13-Jan-2022 20:12:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Mockery\Exception' not found in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/NoMatchingExpectationException.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/mockery/mockery/library/Mockery/Exception/NoMatchingExpectationException.php on line 25

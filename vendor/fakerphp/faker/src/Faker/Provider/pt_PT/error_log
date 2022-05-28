@@ -1,0 +1,48 @@
+[08-Jan-2022 22:09:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Address.php on line 5
+[08-Jan-2022 22:10:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Company' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Company.php on line 5
+[08-Jan-2022 22:10:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Internet' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Internet.php on line 5
+[08-Jan-2022 22:10:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Payment' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Payment.php on line 5
+[08-Jan-2022 22:10:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Person.php on line 5
+[08-Jan-2022 22:10:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/PhoneNumber.php on line 5
+[13-Jan-2022 23:02:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Address.php on line 5
+[13-Jan-2022 23:02:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Company' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Company.php on line 5
+[13-Jan-2022 23:02:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Internet' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Internet.php on line 5
+[13-Jan-2022 23:02:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Payment' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Payment.php on line 5
+[13-Jan-2022 23:03:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/Person.php on line 5
+[13-Jan-2022 23:03:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/pt_PT/PhoneNumber.php on line 5

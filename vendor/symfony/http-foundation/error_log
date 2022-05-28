@@ -1,0 +1,80 @@
+[06-Jan-2022 20:28:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Response' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/BinaryFileResponse.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/BinaryFileResponse.php on line 26
+[06-Jan-2022 20:28:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\RequestMatcher' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/ExpressionRequestMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/ExpressionRequestMatcher.php on line 21
+[06-Jan-2022 20:29:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\ParameterBag' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/FileBag.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/FileBag.php on line 22
+[06-Jan-2022 20:29:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\ParameterBag' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/InputBag.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/InputBag.php on line 21
+[06-Jan-2022 20:30:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Response' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/JsonResponse.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/JsonResponse.php on line 25
+[06-Jan-2022 20:30:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Response' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/RedirectResponse.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/RedirectResponse.php on line 19
+[06-Jan-2022 20:30:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\RequestMatcherInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/RequestMatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/RequestMatcher.php on line 19
+[06-Jan-2022 20:31:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\HeaderBag' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/ResponseHeaderBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/ResponseHeaderBag.php on line 19
+[06-Jan-2022 20:31:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\ParameterBag' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/ServerBag.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/ServerBag.php on line 21
+[06-Jan-2022 20:31:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Response' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/StreamedResponse.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/StreamedResponse.php on line 27
+[11-Jan-2022 14:36:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Response' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/BinaryFileResponse.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/BinaryFileResponse.php on line 26
+[11-Jan-2022 14:36:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\RequestMatcher' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/ExpressionRequestMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/ExpressionRequestMatcher.php on line 21
+[11-Jan-2022 14:36:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\ParameterBag' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/FileBag.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/FileBag.php on line 22
+[11-Jan-2022 14:36:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\ParameterBag' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/InputBag.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/InputBag.php on line 21
+[11-Jan-2022 14:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Response' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/JsonResponse.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/JsonResponse.php on line 25
+[11-Jan-2022 14:36:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Response' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/RedirectResponse.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/RedirectResponse.php on line 19
+[11-Jan-2022 14:37:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\RequestMatcherInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/RequestMatcher.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/RequestMatcher.php on line 19
+[11-Jan-2022 14:37:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\HeaderBag' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/ResponseHeaderBag.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/ResponseHeaderBag.php on line 19
+[11-Jan-2022 14:37:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\ParameterBag' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/ServerBag.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/ServerBag.php on line 21
+[11-Jan-2022 14:37:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Response' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/StreamedResponse.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/StreamedResponse.php on line 27

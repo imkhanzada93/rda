@@ -1,0 +1,100 @@
+[07-Jan-2022 07:44:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Loader\LoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/ArrayLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/ArrayLoader.php on line 21
+[07-Jan-2022 07:44:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/CsvFileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/CsvFileLoader.php on line 21
+[07-Jan-2022 07:44:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\ArrayLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/FileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/FileLoader.php on line 21
+[07-Jan-2022 07:44:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\IcuResFileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IcuDatFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IcuDatFileLoader.php on line 24
+[07-Jan-2022 07:44:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Loader\LoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IcuResFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IcuResFileLoader.php on line 24
+[07-Jan-2022 07:44:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IniFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IniFileLoader.php on line 19
+[07-Jan-2022 07:44:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/JsonFileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/JsonFileLoader.php on line 21
+[07-Jan-2022 07:45:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/MoFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/MoFileLoader.php on line 19
+[07-Jan-2022 07:45:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/PhpFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/PhpFileLoader.php on line 19
+[07-Jan-2022 07:45:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/PoFileLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/PoFileLoader.php on line 18
+[07-Jan-2022 07:45:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Loader\LoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/QtFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/QtFileLoader.php on line 26
+[07-Jan-2022 07:45:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Loader\LoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/XliffFileLoader.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/XliffFileLoader.php on line 29
+[07-Jan-2022 07:45:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/YamlFileLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/YamlFileLoader.php on line 25
+[11-Jan-2022 21:54:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Loader\LoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/ArrayLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/ArrayLoader.php on line 21
+[11-Jan-2022 21:54:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/CsvFileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/CsvFileLoader.php on line 21
+[11-Jan-2022 21:54:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\ArrayLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/FileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/FileLoader.php on line 21
+[11-Jan-2022 21:54:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\IcuResFileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IcuDatFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IcuDatFileLoader.php on line 24
+[11-Jan-2022 21:55:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Loader\LoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IcuResFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IcuResFileLoader.php on line 24
+[11-Jan-2022 21:55:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IniFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/IniFileLoader.php on line 19
+[11-Jan-2022 21:55:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/JsonFileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/JsonFileLoader.php on line 21
+[11-Jan-2022 21:56:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/PhpFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/PhpFileLoader.php on line 19
+[11-Jan-2022 21:56:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/PoFileLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/PoFileLoader.php on line 18
+[11-Jan-2022 21:57:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Loader\LoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/QtFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/QtFileLoader.php on line 26
+[11-Jan-2022 21:57:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Loader\LoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/XliffFileLoader.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/XliffFileLoader.php on line 29
+[11-Jan-2022 21:57:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/translation/Loader/YamlFileLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Loader/YamlFileLoader.php on line 25

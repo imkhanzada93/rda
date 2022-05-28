@@ -1,0 +1,20 @@
+[06-Jan-2022 09:54:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/bookvxos/public_html/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/database/factories/UserFactory.php on line 9
+[10-Jan-2022 01:18:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/bookvxos/public_html/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/database/factories/UserFactory.php on line 9
+[11-Jan-2022 08:54:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/bookvxos/public_html/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/database/factories/UserFactory.php on line 9
+[14-Jan-2022 17:44:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/bookvxos/public_html/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/database/factories/UserFactory.php on line 9
+[16-Jan-2022 17:11:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/bookvxos/public_html/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/database/factories/UserFactory.php on line 9

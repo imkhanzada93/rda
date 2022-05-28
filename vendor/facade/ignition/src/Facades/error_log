@@ -1,0 +1,8 @@
+[07-Jan-2022 14:25:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Facades/Flare.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/ignition/src/Facades/Flare.php on line 16
+[12-Jan-2022 15:48:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Facades/Flare.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/ignition/src/Facades/Flare.php on line 16

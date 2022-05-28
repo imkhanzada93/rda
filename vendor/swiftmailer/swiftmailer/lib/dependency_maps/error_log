@@ -1,0 +1,32 @@
+[07-Jan-2022 14:37:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php on line 3
+[07-Jan-2022 14:37:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php on line 3
+[07-Jan-2022 14:37:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php on line 5
+[07-Jan-2022 14:37:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php on line 3
+[12-Jan-2022 21:26:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/cache_deps.php on line 3
+[12-Jan-2022 21:26:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/message_deps.php on line 3
+[12-Jan-2022 21:26:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/mime_deps.php on line 5
+[12-Jan-2022 21:27:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_DependencyContainer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/dependency_maps/transport_deps.php on line 3

@@ -1,0 +1,48 @@
+[08-Jan-2022 20:51:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/AnonymousFootnoteRefParser.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/AnonymousFootnoteRefParser.php on line 27
+[08-Jan-2022 20:51:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Parser\Block\AbstractBlockContinueParser' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteParser.php on line 25
+[08-Jan-2022 20:51:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteRefParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteRefParser.php on line 25
+[08-Jan-2022 20:51:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Block\BlockStartParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteStartParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteStartParser.php on line 24
+[11-Jan-2022 21:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/AnonymousFootnoteRefParser.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/AnonymousFootnoteRefParser.php on line 27
+[11-Jan-2022 21:13:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Parser\Block\AbstractBlockContinueParser' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteParser.php on line 25
+[11-Jan-2022 21:13:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteRefParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteRefParser.php on line 25
+[11-Jan-2022 21:13:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Block\BlockStartParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteStartParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteStartParser.php on line 24
+[14-Jan-2022 06:29:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/AnonymousFootnoteRefParser.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/AnonymousFootnoteRefParser.php on line 27
+[14-Jan-2022 06:30:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Parser\Block\AbstractBlockContinueParser' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteParser.php on line 25
+[14-Jan-2022 06:30:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteRefParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteRefParser.php on line 25
+[14-Jan-2022 06:30:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Block\BlockStartParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteStartParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Parser/FootnoteStartParser.php on line 24

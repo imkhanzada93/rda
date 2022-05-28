@@ -1,0 +1,2 @@
+[07-Jan-2022 14:05:41 America/New_York] PHP Fatal error:  Cannot declare class JsonException, because the name is already in use in /home/bookvxos/public_html/vendor/symfony/polyfill-php73/Resources/stubs/JsonException.php on line 0
+[12-Jan-2022 15:15:39 America/New_York] PHP Fatal error:  Cannot declare class JsonException, because the name is already in use in /home/bookvxos/public_html/vendor/symfony/polyfill-php73/Resources/stubs/JsonException.php on line 0

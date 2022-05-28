@@ -1,0 +1,8 @@
+[07-Jan-2022 07:39:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 31
+[11-Jan-2022 21:15:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation-contracts/Test/TranslatorTest.php on line 31

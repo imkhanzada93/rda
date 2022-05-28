@@ -1,0 +1,56 @@
+[08-Jan-2022 11:10:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArray.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArray.php on line 20
+[08-Jan-2022 11:10:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContaining.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContaining.php on line 15
+[08-Jan-2022 11:10:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInAnyOrder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInAnyOrder.php on line 14
+[08-Jan-2022 11:10:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInOrder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInOrder.php on line 14
+[08-Jan-2022 11:10:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKey.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKey.php on line 15
+[08-Jan-2022 11:10:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKeyValuePair.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKeyValuePair.php on line 16
+[08-Jan-2022 11:10:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\FeatureMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayWithSize.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayWithSize.php on line 16
+[13-Jan-2022 00:03:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArray.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArray.php on line 20
+[13-Jan-2022 00:03:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContaining.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContaining.php on line 15
+[13-Jan-2022 00:03:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInAnyOrder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInAnyOrder.php on line 14
+[13-Jan-2022 00:03:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInOrder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingInOrder.php on line 14
+[13-Jan-2022 07:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKey.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKey.php on line 15
+[13-Jan-2022 07:36:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKeyValuePair.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayContainingKeyValuePair.php on line 16
+[13-Jan-2022 07:37:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\FeatureMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayWithSize.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Arrays/IsArrayWithSize.php on line 16

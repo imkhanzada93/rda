@@ -1,0 +1,16 @@
+[07-Jan-2022 07:11:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SuperClosure\Analyzer\ClosureAnalyzer' not found in /home/bookvxos/public_html/vendor/opis/closure/src/Analyzer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/opis/closure/src/Analyzer.php on line 16
+[07-Jan-2022 07:11:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Opis\Closure\ISecurityProvider' not found in /home/bookvxos/public_html/vendor/opis/closure/src/SecurityProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/opis/closure/src/SecurityProvider.php on line 10
+[11-Jan-2022 18:34:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SuperClosure\Analyzer\ClosureAnalyzer' not found in /home/bookvxos/public_html/vendor/opis/closure/src/Analyzer.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/opis/closure/src/Analyzer.php on line 16
+[11-Jan-2022 18:35:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Opis\Closure\ISecurityProvider' not found in /home/bookvxos/public_html/vendor/opis/closure/src/SecurityProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/opis/closure/src/SecurityProvider.php on line 10

@@ -1,0 +1,1 @@
+<h1>Hello World</h1><?php /**PATH /home/bookvxos/public_htmll/fmd.bookmyhouse.net/resources/views/email/rda_account.blade.php ENDPATH**/ ?>

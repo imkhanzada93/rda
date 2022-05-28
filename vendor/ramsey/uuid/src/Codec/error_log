@@ -1,0 +1,40 @@
+[07-Jan-2022 11:33:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/GuidStringCodec.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/GuidStringCodec.php on line 30
+[07-Jan-2022 11:33:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/OrderedTimeCodec.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/OrderedTimeCodec.php on line 46
+[07-Jan-2022 11:33:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Codec\CodecInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/StringCodec.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/StringCodec.php on line 37
+[07-Jan-2022 11:33:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/TimestampFirstCombCodec.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/TimestampFirstCombCodec.php on line 51
+[07-Jan-2022 11:33:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/TimestampLastCombCodec.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/TimestampLastCombCodec.php on line 49
+[12-Jan-2022 07:20:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/GuidStringCodec.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/GuidStringCodec.php on line 30
+[12-Jan-2022 07:20:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/OrderedTimeCodec.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/OrderedTimeCodec.php on line 46
+[12-Jan-2022 07:20:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Codec\CodecInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/StringCodec.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/StringCodec.php on line 37
+[12-Jan-2022 07:20:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/TimestampFirstCombCodec.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/TimestampFirstCombCodec.php on line 51
+[12-Jan-2022 07:20:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/TimestampLastCombCodec.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Codec/TimestampLastCombCodec.php on line 49

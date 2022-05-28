@@ -1,0 +1,48 @@
+[08-Jan-2022 09:34:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\ConfigurationAwareInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsBuilder.php on line 27
+[08-Jan-2022 09:34:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\ConfigurableExtensionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsExtension.php on line 26
+[08-Jan-2022 09:34:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\TableOfContents\TableOfContentsGeneratorInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsGenerator.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsGenerator.php on line 33
+[08-Jan-2022 09:34:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Parser\Block\AbstractBlockContinueParser' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderParser.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderParser.php on line 27
+[08-Jan-2022 09:34:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderRenderer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderRenderer.php on line 21
+[08-Jan-2022 09:34:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsRenderer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsRenderer.php on line 21
+[13-Jan-2022 20:45:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\ConfigurationAwareInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsBuilder.php on line 27
+[13-Jan-2022 20:45:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\ConfigurableExtensionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsExtension.php on line 26
+[13-Jan-2022 20:45:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\TableOfContents\TableOfContentsGeneratorInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsGenerator.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsGenerator.php on line 33
+[13-Jan-2022 20:45:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Parser\Block\AbstractBlockContinueParser' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderParser.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderParser.php on line 27
+[13-Jan-2022 20:45:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderRenderer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderRenderer.php on line 21
+[13-Jan-2022 20:45:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsRenderer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsRenderer.php on line 21

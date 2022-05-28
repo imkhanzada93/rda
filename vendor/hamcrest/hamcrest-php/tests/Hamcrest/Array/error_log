@@ -1,0 +1,56 @@
+[08-Jan-2022 11:13:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingInAnyOrderTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingInAnyOrderTest.php on line 6
+[08-Jan-2022 11:14:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingInOrderTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingInOrderTest.php on line 6
+[08-Jan-2022 11:14:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyTest.php on line 6
+[08-Jan-2022 11:14:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyValuePairTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyValuePairTest.php on line 6
+[08-Jan-2022 11:14:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingTest.php on line 6
+[08-Jan-2022 11:14:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayTest.php on line 6
+[08-Jan-2022 11:14:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayWithSizeTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayWithSizeTest.php on line 6
+[13-Jan-2022 00:03:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingInAnyOrderTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingInAnyOrderTest.php on line 6
+[13-Jan-2022 00:03:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingInOrderTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingInOrderTest.php on line 6
+[13-Jan-2022 00:03:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyTest.php on line 6
+[13-Jan-2022 00:03:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyValuePairTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyValuePairTest.php on line 6
+[13-Jan-2022 00:03:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingTest.php on line 6
+[13-Jan-2022 00:03:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayTest.php on line 6
+[13-Jan-2022 00:03:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayWithSizeTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayWithSizeTest.php on line 6

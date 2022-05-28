@@ -1,0 +1,8 @@
+[09-Jan-2022 05:28:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7
+[13-Jan-2022 22:27:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Support\Renderable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7

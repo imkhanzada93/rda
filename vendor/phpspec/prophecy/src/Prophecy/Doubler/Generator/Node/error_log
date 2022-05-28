@@ -1,0 +1,32 @@
+[09-Jan-2022 15:21:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Doubler\Generator\Node\TypeNodeAbstract' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ArgumentTypeNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ArgumentTypeNode.php on line 7
+[09-Jan-2022 15:21:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Doubler\Generator\Node\TypeNodeAbstract' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ReturnTypeNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ReturnTypeNode.php on line 7
+[09-Jan-2022 15:21:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Doubler\Generator\Node\TypeNodeAbstract' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ArgumentTypeNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ArgumentTypeNode.php on line 7
+[09-Jan-2022 15:21:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Doubler\Generator\Node\TypeNodeAbstract' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ReturnTypeNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ReturnTypeNode.php on line 7
+[12-Jan-2022 16:55:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Doubler\Generator\Node\TypeNodeAbstract' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ArgumentTypeNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ArgumentTypeNode.php on line 7
+[12-Jan-2022 16:55:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Doubler\Generator\Node\TypeNodeAbstract' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ReturnTypeNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ReturnTypeNode.php on line 7
+[13-Jan-2022 21:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Doubler\Generator\Node\TypeNodeAbstract' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ArgumentTypeNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ArgumentTypeNode.php on line 7
+[13-Jan-2022 21:15:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Doubler\Generator\Node\TypeNodeAbstract' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ReturnTypeNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/Generator/Node/ReturnTypeNode.php on line 7

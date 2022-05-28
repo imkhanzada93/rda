@@ -1,0 +1,36 @@
+[08-Jan-2022 09:09:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Mail\Factory' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/MailManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/MailManager.php on line 28
+[08-Jan-2022 09:09:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/MailServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/MailServiceProvider.php on line 8
+[08-Jan-2022 09:09:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Mail\Mailable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Mailable.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Mailable.php on line 22
+[08-Jan-2022 09:09:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Mail\Mailer' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Mailer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Mailer.php on line 20
+[08-Jan-2022 09:09:27 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\ForwardsCalls' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Message.php on line 12
+[08-Jan-2022 09:09:37 America/New_York] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/SendQueuedMailable.php on line 10
+[13-Jan-2022 01:10:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Mail\Factory' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/MailManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/MailManager.php on line 28
+[13-Jan-2022 01:10:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/MailServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/MailServiceProvider.php on line 8
+[13-Jan-2022 01:10:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Mail\Mailable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Mailable.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Mailable.php on line 22
+[13-Jan-2022 01:10:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Mail\Mailer' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Mailer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Mailer.php on line 20
+[13-Jan-2022 01:11:08 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\ForwardsCalls' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Message.php on line 12
+[13-Jan-2022 01:11:24 America/New_York] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/SendQueuedMailable.php on line 10

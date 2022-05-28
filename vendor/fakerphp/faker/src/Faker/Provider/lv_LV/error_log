@@ -1,0 +1,48 @@
+[08-Jan-2022 22:07:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Address.php on line 5
+[08-Jan-2022 22:07:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Color' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Color.php on line 5
+[08-Jan-2022 22:07:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Internet' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Internet.php on line 5
+[08-Jan-2022 22:07:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Payment' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Payment.php on line 5
+[08-Jan-2022 22:07:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Person.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Person.php on line 8
+[08-Jan-2022 22:07:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/PhoneNumber.php on line 5
+[13-Jan-2022 22:54:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Address.php on line 5
+[13-Jan-2022 22:54:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Color' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Color.php on line 5
+[13-Jan-2022 22:54:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Internet' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Internet.php on line 5
+[13-Jan-2022 22:54:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Payment' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Payment.php on line 5
+[13-Jan-2022 22:55:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Person.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/Person.php on line 8
+[13-Jan-2022 22:55:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/lv_LV/PhoneNumber.php on line 5

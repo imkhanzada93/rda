@@ -1,0 +1,32 @@
+[08-Jan-2022 12:08:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Node' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[08-Jan-2022 12:08:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[08-Jan-2022 12:08:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[08-Jan-2022 12:08:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractStringContainer' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19
+[13-Jan-2022 20:46:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Node' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/AbstractInline.php on line 21
+[13-Jan-2022 20:46:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/AbstractStringContainer.php on line 21
+[13-Jan-2022 20:46:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/Newline.php on line 19
+[13-Jan-2022 20:47:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractStringContainer' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/Text.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Inline/Text.php on line 19

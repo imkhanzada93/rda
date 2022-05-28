@@ -1,0 +1,16 @@
+[09-Jan-2022 04:20:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[09-Jan-2022 04:20:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 17
+[11-Jan-2022 23:02:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[11-Jan-2022 23:02:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 17

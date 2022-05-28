@@ -1,0 +1,2 @@
+[09-Jan-2022 04:17:19 America/New_York] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/bookvxos/public_html/vendor/symfony/event-dispatcher/Attribute/AsEventListener.php on line 23
+[11-Jan-2022 23:05:19 America/New_York] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting variable (T_VARIABLE) in /home/bookvxos/public_html/vendor/symfony/event-dispatcher/Attribute/AsEventListener.php on line 23

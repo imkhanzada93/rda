@@ -1,0 +1,8 @@
+[09-Jan-2022 04:20:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\FileLocator' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/Config/FileLocator.php on line 22
+[11-Jan-2022 23:03:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\FileLocator' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/Config/FileLocator.php on line 22

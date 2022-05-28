@@ -1,0 +1,8 @@
+[09-Jan-2022 04:18:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/symfony/http-client-contracts/Test/HttpClientTestCase.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-client-contracts/Test/HttpClientTestCase.php on line 24
+[11-Jan-2022 23:00:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/symfony/http-client-contracts/Test/HttpClientTestCase.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-client-contracts/Test/HttpClientTestCase.php on line 24

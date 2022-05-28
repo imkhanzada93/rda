@@ -1,0 +1,10 @@
+[07-Jan-2022 04:44:21 America/New_York] PHP Notice:  Undefined variable: docVersion in /home/bookvxos/public_html/vendor/symfony/http-kernel/Resources/welcome.html.php on line 71
+[07-Jan-2022 04:44:21 America/New_York] PHP Notice:  Undefined variable: version in /home/bookvxos/public_html/vendor/symfony/http-kernel/Resources/welcome.html.php on line 80
+[07-Jan-2022 04:44:21 America/New_York] PHP Notice:  Undefined variable: projectDir in /home/bookvxos/public_html/vendor/symfony/http-kernel/Resources/welcome.html.php on line 88
+[07-Jan-2022 04:44:21 America/New_York] PHP Notice:  Undefined variable: docVersion in /home/bookvxos/public_html/vendor/symfony/http-kernel/Resources/welcome.html.php on line 101
+[07-Jan-2022 04:44:21 America/New_York] PHP Notice:  Undefined variable: docVersion in /home/bookvxos/public_html/vendor/symfony/http-kernel/Resources/welcome.html.php on line 108
+[11-Jan-2022 23:13:00 America/New_York] PHP Notice:  Undefined variable: docVersion in /home/bookvxos/public_html/vendor/symfony/http-kernel/Resources/welcome.html.php on line 71
+[11-Jan-2022 23:13:00 America/New_York] PHP Notice:  Undefined variable: version in /home/bookvxos/public_html/vendor/symfony/http-kernel/Resources/welcome.html.php on line 80
+[11-Jan-2022 23:13:00 America/New_York] PHP Notice:  Undefined variable: projectDir in /home/bookvxos/public_html/vendor/symfony/http-kernel/Resources/welcome.html.php on line 88
+[11-Jan-2022 23:13:00 America/New_York] PHP Notice:  Undefined variable: docVersion in /home/bookvxos/public_html/vendor/symfony/http-kernel/Resources/welcome.html.php on line 101
+[11-Jan-2022 23:13:00 America/New_York] PHP Notice:  Undefined variable: docVersion in /home/bookvxos/public_html/vendor/symfony/http-kernel/Resources/welcome.html.php on line 108

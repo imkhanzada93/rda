@@ -1,0 +1,24 @@
+[07-Jan-2022 04:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\Generator\UrlGenerator' not found in /home/bookvxos/public_html/vendor/symfony/routing/Generator/CompiledUrlGenerator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Generator/CompiledUrlGenerator.php on line 21
+[07-Jan-2022 04:49:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Generator\UrlGeneratorInterface' not found in /home/bookvxos/public_html/vendor/symfony/routing/Generator/UrlGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Generator/UrlGenerator.php on line 28
+[07-Jan-2022 04:49:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RequestContextAwareInterface' not found in /home/bookvxos/public_html/vendor/symfony/routing/Generator/UrlGeneratorInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Generator/UrlGeneratorInterface.php on line 32
+[11-Jan-2022 21:12:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\Generator\UrlGenerator' not found in /home/bookvxos/public_html/vendor/symfony/routing/Generator/CompiledUrlGenerator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Generator/CompiledUrlGenerator.php on line 21
+[11-Jan-2022 21:12:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Generator\UrlGeneratorInterface' not found in /home/bookvxos/public_html/vendor/symfony/routing/Generator/UrlGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Generator/UrlGenerator.php on line 28
+[11-Jan-2022 21:12:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\RequestContextAwareInterface' not found in /home/bookvxos/public_html/vendor/symfony/routing/Generator/UrlGeneratorInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Generator/UrlGeneratorInterface.php on line 32

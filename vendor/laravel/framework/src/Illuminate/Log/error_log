@@ -1,0 +1,24 @@
+[08-Jan-2022 12:05:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerInterface' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 21
+[08-Jan-2022 12:05:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php on line 7
+[08-Jan-2022 12:05:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerInterface' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 13
+[13-Jan-2022 01:09:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerInterface' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 21
+[13-Jan-2022 01:09:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php on line 7
+[13-Jan-2022 01:09:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerInterface' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 13

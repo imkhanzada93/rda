@@ -1,0 +1,20 @@
+[07-Jan-2022 04:22:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'FactoryFile' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php on line 7
+[07-Jan-2022 04:22:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'FactoryFile' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php on line 7
+[07-Jan-2022 04:23:17 America/New_York] PHP Warning:  require(/home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[07-Jan-2022 04:23:17 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[12-Jan-2022 01:01:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'FactoryFile' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php on line 7
+[12-Jan-2022 01:01:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'FactoryFile' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php on line 7
+[12-Jan-2022 01:01:51 America/New_York] PHP Warning:  require(/home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php): failed to open stream: No such file or directory in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[12-Jan-2022 01:01:51 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/generator/run.php on line 6

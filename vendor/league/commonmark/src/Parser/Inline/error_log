@@ -1,0 +1,8 @@
+[08-Jan-2022 11:28:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Parser/Inline/NewlineParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Parser/Inline/NewlineParser.php on line 23
+[13-Jan-2022 20:48:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Parser/Inline/NewlineParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Parser/Inline/NewlineParser.php on line 23

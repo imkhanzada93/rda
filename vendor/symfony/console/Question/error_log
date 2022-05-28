@@ -1,0 +1,16 @@
+[09-Jan-2022 04:14:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Question\Question' not found in /home/bookvxos/public_html/vendor/symfony/console/Question/ChoiceQuestion.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/Question/ChoiceQuestion.php on line 21
+[09-Jan-2022 04:14:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Question\Question' not found in /home/bookvxos/public_html/vendor/symfony/console/Question/ConfirmationQuestion.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/Question/ConfirmationQuestion.php on line 19
+[11-Jan-2022 22:58:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Question\Question' not found in /home/bookvxos/public_html/vendor/symfony/console/Question/ChoiceQuestion.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/Question/ChoiceQuestion.php on line 21
+[11-Jan-2022 22:58:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Question\Question' not found in /home/bookvxos/public_html/vendor/symfony/console/Question/ConfirmationQuestion.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/Question/ConfirmationQuestion.php on line 19

@@ -1,0 +1,16 @@
+[08-Jan-2022 04:43:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Prophecy\ProphecyInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Prophecy/ObjectProphecy.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Prophecy/ObjectProphecy.php on line 30
+[08-Jan-2022 04:43:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Prophecy\RevealerInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Prophecy/Revealer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Prophecy/Revealer.php on line 19
+[12-Jan-2022 23:25:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Prophecy\ProphecyInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Prophecy/ObjectProphecy.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Prophecy/ObjectProphecy.php on line 30
+[12-Jan-2022 23:25:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Prophecy\RevealerInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Prophecy/Revealer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Prophecy/Revealer.php on line 19

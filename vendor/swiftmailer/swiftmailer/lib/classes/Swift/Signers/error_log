@@ -1,0 +1,72 @@
+[08-Jan-2022 20:16:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php on line 16
+[08-Jan-2022 20:16:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signers_HeaderSigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php on line 16
+[08-Jan-2022 20:16:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signers_HeaderSigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php on line 16
+[08-Jan-2022 20:16:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php on line 16
+[08-Jan-2022 20:16:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php on line 16
+[08-Jan-2022 20:16:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_Signers_DKIMSigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php on line 19
+[08-Jan-2022 20:16:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signers_HeaderSigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php on line 16
+[08-Jan-2022 20:16:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signers_BodySigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php on line 18
+[08-Jan-2022 20:16:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signers_HeaderSigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php on line 16
+[08-Jan-2022 20:16:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php on line 16
+[08-Jan-2022 20:16:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_Signers_DKIMSigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php on line 19
+[08-Jan-2022 20:16:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signers_BodySigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php on line 18
+[13-Jan-2022 21:37:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/BodySigner.php on line 16
+[13-Jan-2022 21:37:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signers_HeaderSigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DKIMSigner.php on line 16
+[13-Jan-2022 21:37:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signers_HeaderSigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/DomainKeySigner.php on line 16
+[13-Jan-2022 21:37:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signer' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/HeaderSigner.php on line 16
+[13-Jan-2022 21:37:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_Signers_DKIMSigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/OpenDKIMSigner.php on line 19
+[13-Jan-2022 21:37:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Signers_BodySigner' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Signers/SMimeSigner.php on line 18

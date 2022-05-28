@@ -1,0 +1,104 @@
+[07-Jan-2022 15:09:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/AuthorElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/AuthorElement.php on line 12
+[07-Jan-2022 15:09:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ElementCollection' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/AuthorElementCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/AuthorElementCollection.php on line 12
+[07-Jan-2022 15:09:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/BundlesElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/BundlesElement.php on line 12
+[07-Jan-2022 15:09:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ComponentElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ComponentElement.php on line 12
+[07-Jan-2022 15:09:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ElementCollection' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ComponentElementCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ComponentElementCollection.php on line 12
+[07-Jan-2022 15:09:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ContainsElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ContainsElement.php on line 12
+[07-Jan-2022 15:09:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/CopyrightElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/CopyrightElement.php on line 12
+[07-Jan-2022 15:09:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtElement.php on line 12
+[07-Jan-2022 15:09:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ElementCollection' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtElementCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtElementCollection.php on line 12
+[07-Jan-2022 15:09:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtensionElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtensionElement.php on line 12
+[07-Jan-2022 15:09:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/LicenseElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/LicenseElement.php on line 12
+[07-Jan-2022 15:09:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/PhpElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/PhpElement.php on line 12
+[07-Jan-2022 15:09:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/RequiresElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/RequiresElement.php on line 12
+[12-Jan-2022 06:13:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/AuthorElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/AuthorElement.php on line 12
+[12-Jan-2022 06:13:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ElementCollection' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/AuthorElementCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/AuthorElementCollection.php on line 12
+[12-Jan-2022 06:13:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/BundlesElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/BundlesElement.php on line 12
+[12-Jan-2022 06:13:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ComponentElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ComponentElement.php on line 12
+[12-Jan-2022 06:13:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ElementCollection' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ComponentElementCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ComponentElementCollection.php on line 12
+[12-Jan-2022 06:13:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ContainsElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ContainsElement.php on line 12
+[12-Jan-2022 06:14:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/CopyrightElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/CopyrightElement.php on line 12
+[12-Jan-2022 06:14:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtElement.php on line 12
+[12-Jan-2022 06:14:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ElementCollection' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtElementCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtElementCollection.php on line 12
+[12-Jan-2022 06:14:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtensionElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/ExtensionElement.php on line 12
+[12-Jan-2022 06:14:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/LicenseElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/LicenseElement.php on line 12
+[12-Jan-2022 06:14:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/PhpElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/PhpElement.php on line 12
+[12-Jan-2022 06:14:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/RequiresElement.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phar-io/manifest/src/xml/RequiresElement.php on line 12

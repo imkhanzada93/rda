@@ -1,0 +1,24 @@
+[08-Jan-2022 04:41:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\Comparator' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/ClosureComparator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/ClosureComparator.php on line 22
+[08-Jan-2022 04:41:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\Factory' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/Factory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/Factory.php on line 21
+[08-Jan-2022 04:41:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/ProphecyComparator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/ProphecyComparator.php on line 17
+[12-Jan-2022 23:20:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\Comparator' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/ClosureComparator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/ClosureComparator.php on line 22
+[12-Jan-2022 23:20:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\Factory' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/Factory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/Factory.php on line 21
+[12-Jan-2022 23:20:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/ProphecyComparator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Comparator/ProphecyComparator.php on line 17

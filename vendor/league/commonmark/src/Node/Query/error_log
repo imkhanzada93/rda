@@ -1,0 +1,16 @@
+[08-Jan-2022 12:08:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Node\Query\ExpressionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[08-Jan-2022 12:08:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Node\Query\ExpressionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[13-Jan-2022 20:47:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Node\Query\ExpressionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[13-Jan-2022 20:47:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Node\Query\ExpressionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21

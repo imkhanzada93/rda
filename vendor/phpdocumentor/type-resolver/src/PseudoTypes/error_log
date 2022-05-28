@@ -1,0 +1,16 @@
+[07-Jan-2022 15:10:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\Types\Boolean' not found in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoTypes/False_.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoTypes/False_.php on line 26
+[07-Jan-2022 15:10:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\Types\Boolean' not found in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoTypes/True_.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoTypes/True_.php on line 26
+[12-Jan-2022 06:22:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\Types\Boolean' not found in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoTypes/False_.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoTypes/False_.php on line 26
+[12-Jan-2022 06:22:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'phpDocumentor\Reflection\Types\Boolean' not found in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoTypes/True_.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/type-resolver/src/PseudoTypes/True_.php on line 26

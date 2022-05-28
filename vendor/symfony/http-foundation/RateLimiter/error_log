@@ -1,0 +1,8 @@
+[09-Jan-2022 04:19:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\RateLimiter\RequestRateLimiterInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php on line 27
+[11-Jan-2022 23:01:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\RateLimiter\RequestRateLimiterInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php on line 27

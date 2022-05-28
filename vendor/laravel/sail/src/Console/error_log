@@ -1,0 +1,16 @@
+[07-Jan-2022 13:10:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/sail/src/Console/InstallCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/sail/src/Console/InstallCommand.php on line 7
+[07-Jan-2022 13:10:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/sail/src/Console/PublishCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/sail/src/Console/PublishCommand.php on line 7
+[12-Jan-2022 14:40:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/sail/src/Console/InstallCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/sail/src/Console/InstallCommand.php on line 7
+[12-Jan-2022 14:40:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/sail/src/Console/PublishCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/sail/src/Console/PublishCommand.php on line 7

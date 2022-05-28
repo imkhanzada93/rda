@@ -1,0 +1,16 @@
+[07-Jan-2022 14:09:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\Generator\Dumper\GeneratorDumper' not found in /home/bookvxos/public_html/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 23
+[07-Jan-2022 14:09:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface' not found in /home/bookvxos/public_html/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[12-Jan-2022 15:16:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\Generator\Dumper\GeneratorDumper' not found in /home/bookvxos/public_html/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 23
+[12-Jan-2022 15:16:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface' not found in /home/bookvxos/public_html/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21

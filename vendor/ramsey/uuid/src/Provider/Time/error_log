@@ -1,0 +1,16 @@
+[08-Jan-2022 03:06:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[08-Jan-2022 03:06:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[12-Jan-2022 21:14:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[12-Jan-2022 21:14:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25

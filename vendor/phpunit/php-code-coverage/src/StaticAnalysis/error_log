@@ -1,0 +1,56 @@
+[07-Jan-2022 11:35:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeCoverage\StaticAnalysis\Cache' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingCoveredFileAnalyser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingCoveredFileAnalyser.php on line 17
+[07-Jan-2022 11:35:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeCoverage\StaticAnalysis\Cache' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingUncoveredFileAnalyser.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingUncoveredFileAnalyser.php on line 15
+[07-Jan-2022 11:35:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CodeUnitFindingVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CodeUnitFindingVisitor.php on line 32
+[07-Jan-2022 11:35:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ExecutableLinesFindingVisitor.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ExecutableLinesFindingVisitor.php on line 40
+[07-Jan-2022 11:35:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/IgnoredLinesFindingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/IgnoredLinesFindingVisitor.php on line 27
+[07-Jan-2022 11:36:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\CodeCoverage\StaticAnalysis\CoveredFileAnalyser' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingCoveredFileAnalyser.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingCoveredFileAnalyser.php on line 33
+[07-Jan-2022 11:36:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\CodeCoverage\StaticAnalysis\UncoveredFileAnalyser' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingUncoveredFileAnalyser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingUncoveredFileAnalyser.php on line 20
+[12-Jan-2022 07:13:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CodeUnitFindingVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CodeUnitFindingVisitor.php on line 32
+[12-Jan-2022 07:13:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ExecutableLinesFindingVisitor.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ExecutableLinesFindingVisitor.php on line 40
+[12-Jan-2022 07:13:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/IgnoredLinesFindingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/IgnoredLinesFindingVisitor.php on line 27
+[12-Jan-2022 07:13:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\CodeCoverage\StaticAnalysis\CoveredFileAnalyser' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingCoveredFileAnalyser.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingCoveredFileAnalyser.php on line 33
+[12-Jan-2022 07:13:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\CodeCoverage\StaticAnalysis\UncoveredFileAnalyser' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingUncoveredFileAnalyser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingUncoveredFileAnalyser.php on line 20
+[12-Jan-2022 08:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeCoverage\StaticAnalysis\Cache' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingCoveredFileAnalyser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingCoveredFileAnalyser.php on line 17
+[12-Jan-2022 08:52:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeCoverage\StaticAnalysis\Cache' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingUncoveredFileAnalyser.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingUncoveredFileAnalyser.php on line 15

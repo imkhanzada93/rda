@@ -1,0 +1,72 @@
+[08-Jan-2022 22:33:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\ConnectionEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionBeginning.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionBeginning.php on line 5
+[08-Jan-2022 22:33:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\ConnectionEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionCommitted.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionCommitted.php on line 5
+[08-Jan-2022 22:33:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\ConnectionEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionRolledBack.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionRolledBack.php on line 5
+[09-Jan-2022 05:37:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/DatabaseRefreshed.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/DatabaseRefreshed.php on line 7
+[09-Jan-2022 05:37:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationEnded.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationEnded.php on line 5
+[09-Jan-2022 05:37:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationEvent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationEvent.php on line 8
+[09-Jan-2022 05:37:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationStarted.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationStarted.php on line 5
+[09-Jan-2022 05:37:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationsEnded.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationsEnded.php on line 7
+[09-Jan-2022 05:37:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationsStarted.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationsStarted.php on line 7
+[13-Jan-2022 22:29:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/DatabaseRefreshed.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/DatabaseRefreshed.php on line 7
+[13-Jan-2022 22:29:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationEnded.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationEnded.php on line 5
+[13-Jan-2022 22:30:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationEvent.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationEvent.php on line 8
+[13-Jan-2022 22:30:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationStarted.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationStarted.php on line 5
+[13-Jan-2022 22:30:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationsEnded.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationsEnded.php on line 7
+[13-Jan-2022 22:30:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Database\Events\MigrationEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationsStarted.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/MigrationsStarted.php on line 7
+[13-Jan-2022 22:30:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\ConnectionEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionBeginning.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionBeginning.php on line 5
+[13-Jan-2022 22:30:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\ConnectionEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionCommitted.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionCommitted.php on line 5
+[13-Jan-2022 22:30:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Events\ConnectionEvent' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionRolledBack.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Events/TransactionRolledBack.php on line 5

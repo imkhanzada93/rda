@@ -1,0 +1,48 @@
+[08-Jan-2022 22:06:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Address.php on line 5
+[08-Jan-2022 22:06:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Company' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Company.php on line 5
+[08-Jan-2022 22:06:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Internet' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Internet.php on line 5
+[08-Jan-2022 22:07:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Person.php on line 5
+[08-Jan-2022 22:07:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/PhoneNumber.php on line 5
+[08-Jan-2022 22:07:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Text' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Text.php on line 5
+[13-Jan-2022 22:50:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Address.php on line 5
+[13-Jan-2022 22:50:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Company' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Company.php on line 5
+[13-Jan-2022 22:50:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Internet' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Internet.php on line 5
+[13-Jan-2022 22:50:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Person.php on line 5
+[13-Jan-2022 22:51:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/PhoneNumber.php on line 5
+[13-Jan-2022 22:51:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Text' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ko_KR/Text.php on line 5

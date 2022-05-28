@@ -1,0 +1,72 @@
+[07-Jan-2022 11:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/IncompleteTestCase.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/IncompleteTestCase.php on line 15
+[07-Jan-2022 11:39:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/InvalidParameterGroupException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/InvalidParameterGroupException.php on line 15
+[07-Jan-2022 11:39:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/SkippedTestCase.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/SkippedTestCase.php on line 15
+[07-Jan-2022 11:39:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Assert' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/TestCase.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/TestCase.php on line 120
+[07-Jan-2022 11:39:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\Reorderable' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/TestSuite.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/TestSuite.php on line 51
+[07-Jan-2022 11:39:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/WarningTestCase.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/WarningTestCase.php on line 15
+[07-Jan-2022 15:13:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestSuite' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/DataProviderTestSuite.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/DataProviderTestSuite.php on line 18
+[07-Jan-2022 15:13:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/ErrorTestCase.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/ErrorTestCase.php on line 15
+[07-Jan-2022 15:13:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/ExceptionWrapper.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/ExceptionWrapper.php on line 29
+[12-Jan-2022 07:13:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestSuite' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/DataProviderTestSuite.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/DataProviderTestSuite.php on line 18
+[12-Jan-2022 07:13:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/ErrorTestCase.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/ErrorTestCase.php on line 15
+[12-Jan-2022 07:13:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/ExceptionWrapper.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/ExceptionWrapper.php on line 29
+[12-Jan-2022 07:13:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/IncompleteTestCase.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/IncompleteTestCase.php on line 15
+[12-Jan-2022 07:13:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/InvalidParameterGroupException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/InvalidParameterGroupException.php on line 15
+[12-Jan-2022 07:46:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/SkippedTestCase.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/SkippedTestCase.php on line 15
+[12-Jan-2022 07:46:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Assert' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/TestCase.php:120
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/TestCase.php on line 120
+[12-Jan-2022 07:46:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\Reorderable' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/TestSuite.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/TestSuite.php on line 51
+[12-Jan-2022 07:46:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/WarningTestCase.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/WarningTestCase.php on line 15

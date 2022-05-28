@@ -1,0 +1,40 @@
+[07-Jan-2022 13:22:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/AbstractEvent.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/AbstractEvent.php on line 30
+[07-Jan-2022 13:23:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Event\AbstractEvent' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentParsedEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentParsedEvent.php on line 21
+[07-Jan-2022 13:23:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Event\AbstractEvent' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentPreParsedEvent.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentPreParsedEvent.php on line 22
+[07-Jan-2022 13:23:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Event\AbstractEvent' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentPreRenderEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentPreRenderEvent.php on line 21
+[07-Jan-2022 13:23:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Event\AbstractEvent' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentRenderedEvent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentRenderedEvent.php on line 18
+[13-Jan-2022 10:10:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\EventDispatcher\StoppableEventInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/AbstractEvent.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/AbstractEvent.php on line 30
+[13-Jan-2022 10:10:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Event\AbstractEvent' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentParsedEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentParsedEvent.php on line 21
+[13-Jan-2022 10:10:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Event\AbstractEvent' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentPreParsedEvent.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentPreParsedEvent.php on line 22
+[13-Jan-2022 10:11:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Event\AbstractEvent' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentPreRenderEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentPreRenderEvent.php on line 21
+[13-Jan-2022 10:11:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Event\AbstractEvent' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentRenderedEvent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Event/DocumentRenderedEvent.php on line 18

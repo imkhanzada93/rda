@@ -1,0 +1,8 @@
+[07-Jan-2022 10:24:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\UuidInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Lazy/LazyUuidFromString.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Lazy/LazyUuidFromString.php on line 53
+[12-Jan-2022 07:22:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\UuidInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Lazy/LazyUuidFromString.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Lazy/LazyUuidFromString.php on line 53

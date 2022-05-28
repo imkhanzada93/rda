@@ -1,0 +1,12 @@
+[08-Jan-2022 22:12:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 9
+[08-Jan-2022 22:12:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 7
+[13-Jan-2022 22:51:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 9

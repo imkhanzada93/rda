@@ -1,0 +1,16 @@
+[07-Jan-2022 07:38:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\String\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php on line 14
+[07-Jan-2022 07:38:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\String\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/Exception/RuntimeException.php on line 14
+[11-Jan-2022 21:14:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\String\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/Exception/InvalidArgumentException.php on line 14
+[11-Jan-2022 21:14:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\String\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/Exception/RuntimeException.php on line 14

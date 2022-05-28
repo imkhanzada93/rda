@@ -1,0 +1,376 @@
+[08-Jan-2022 19:34:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php on line 7
+[08-Jan-2022 19:34:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php on line 7
+[08-Jan-2022 19:35:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php on line 8
+[08-Jan-2022 19:35:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php on line 7
+[08-Jan-2022 19:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php on line 10
+[08-Jan-2022 19:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php on line 8
+[08-Jan-2022 19:35:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt\ClassLike' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[08-Jan-2022 19:35:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php on line 7
+[08-Jan-2022 19:35:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[08-Jan-2022 19:35:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php on line 7
+[08-Jan-2022 19:35:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php on line 7
+[08-Jan-2022 19:35:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php on line 7
+[08-Jan-2022 19:35:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php on line 7
+[08-Jan-2022 19:35:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php on line 7
+[08-Jan-2022 19:35:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[08-Jan-2022 19:35:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php on line 8
+[08-Jan-2022 19:35:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt\ClassLike' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php on line 7
+[08-Jan-2022 19:35:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php on line 10
+[08-Jan-2022 19:35:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php on line 7
+[08-Jan-2022 19:35:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php on line 7
+[08-Jan-2022 19:35:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php on line 7
+[08-Jan-2022 19:36:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php on line 11
+[08-Jan-2022 19:36:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php on line 7
+[08-Jan-2022 19:36:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php on line 8
+[08-Jan-2022 19:36:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 8
+[08-Jan-2022 19:36:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php on line 7
+[08-Jan-2022 19:36:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[08-Jan-2022 19:36:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php on line 7
+[08-Jan-2022 19:36:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt\ClassLike' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php on line 7
+[08-Jan-2022 19:36:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php on line 8
+[08-Jan-2022 19:36:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php on line 7
+[08-Jan-2022 19:36:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php on line 8
+[08-Jan-2022 19:36:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 11
+[08-Jan-2022 19:36:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php on line 7
+[08-Jan-2022 19:36:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php on line 7
+[08-Jan-2022 19:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php on line 8
+[08-Jan-2022 19:36:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 7
+[08-Jan-2022 19:36:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[08-Jan-2022 19:36:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Throw_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Throw_.php on line 7
+[08-Jan-2022 19:36:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[08-Jan-2022 19:37:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[08-Jan-2022 19:37:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt\ClassLike' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php on line 7
+[08-Jan-2022 19:37:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[08-Jan-2022 19:37:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[08-Jan-2022 19:37:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php on line 8
+[08-Jan-2022 19:37:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 7
+[08-Jan-2022 19:37:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7
+[13-Jan-2022 09:22:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Break_.php on line 7
+[13-Jan-2022 09:22:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Case_.php on line 7
+[13-Jan-2022 09:22:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Catch_.php on line 8
+[13-Jan-2022 09:22:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassConst.php on line 7
+[13-Jan-2022 09:22:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassLike.php on line 10
+[13-Jan-2022 09:22:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ClassMethod.php on line 8
+[13-Jan-2022 09:22:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt\ClassLike' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Class_.php on line 8
+[13-Jan-2022 09:22:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Const_.php on line 7
+[13-Jan-2022 09:22:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Continue_.php on line 7
+[13-Jan-2022 09:22:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/DeclareDeclare.php on line 7
+[13-Jan-2022 09:22:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Declare_.php on line 7
+[13-Jan-2022 09:22:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Do_.php on line 7
+[13-Jan-2022 09:22:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Echo_.php on line 7
+[13-Jan-2022 09:22:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/ElseIf_.php on line 7
+[13-Jan-2022 09:22:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Else_.php on line 7
+[13-Jan-2022 09:22:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/EnumCase.php on line 8
+[13-Jan-2022 09:22:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt\ClassLike' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Enum_.php on line 7
+[13-Jan-2022 09:22:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Expression.php on line 10
+[13-Jan-2022 09:22:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Finally_.php on line 7
+[13-Jan-2022 09:22:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/For_.php on line 7
+[13-Jan-2022 09:22:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Foreach_.php on line 7
+[13-Jan-2022 09:22:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Function_.php on line 11
+[13-Jan-2022 09:22:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Global_.php on line 7
+[13-Jan-2022 09:22:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Goto_.php on line 8
+[13-Jan-2022 09:22:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/GroupUse.php on line 8
+[13-Jan-2022 09:22:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/HaltCompiler.php on line 7
+[13-Jan-2022 09:22:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/If_.php on line 7
+[13-Jan-2022 09:22:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/InlineHTML.php on line 7
+[13-Jan-2022 09:23:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt\ClassLike' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Interface_.php on line 7
+[13-Jan-2022 09:23:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Label.php on line 8
+[13-Jan-2022 09:23:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Namespace_.php on line 7
+[13-Jan-2022 09:23:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Nop.php on line 8
+[13-Jan-2022 09:23:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Property.php on line 11
+[13-Jan-2022 09:23:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/PropertyProperty.php on line 7
+[13-Jan-2022 09:23:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Return_.php on line 7
+[13-Jan-2022 09:23:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/StaticVar.php on line 8
+[13-Jan-2022 09:23:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Static_.php on line 7
+[13-Jan-2022 09:23:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Switch_.php on line 7
+[13-Jan-2022 09:23:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Throw_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Throw_.php on line 7
+[13-Jan-2022 09:23:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUse.php on line 7
+[13-Jan-2022 09:23:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation.php on line 7
+[13-Jan-2022 09:23:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt\ClassLike' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Trait_.php on line 7
+[13-Jan-2022 09:23:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TryCatch.php on line 7
+[13-Jan-2022 09:23:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Unset_.php on line 7
+[13-Jan-2022 09:23:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/UseUse.php on line 8
+[13-Jan-2022 09:23:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/Use_.php on line 7
+[13-Jan-2022 09:23:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Stmt' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/While_.php on line 7

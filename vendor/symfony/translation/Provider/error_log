@@ -1,0 +1,32 @@
+[07-Jan-2022 07:45:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Provider\ProviderFactoryInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Provider/AbstractProviderFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Provider/AbstractProviderFactory.php on line 16
+[07-Jan-2022 07:45:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Provider\ProviderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Provider/FilteringProvider.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Provider/FilteringProvider.php on line 24
+[07-Jan-2022 07:45:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Provider\ProviderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Provider/NullProvider.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Provider/NullProvider.php on line 22
+[07-Jan-2022 07:45:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Provider\AbstractProviderFactory' not found in /home/bookvxos/public_html/vendor/symfony/translation/Provider/NullProviderFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Provider/NullProviderFactory.php on line 21
+[11-Jan-2022 21:59:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Provider\ProviderFactoryInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Provider/AbstractProviderFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Provider/AbstractProviderFactory.php on line 16
+[11-Jan-2022 21:59:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Provider\ProviderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Provider/FilteringProvider.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Provider/FilteringProvider.php on line 24
+[11-Jan-2022 21:59:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Provider\ProviderInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Provider/NullProvider.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Provider/NullProvider.php on line 22
+[11-Jan-2022 22:00:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Provider\AbstractProviderFactory' not found in /home/bookvxos/public_html/vendor/symfony/translation/Provider/NullProviderFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Provider/NullProviderFactory.php on line 21

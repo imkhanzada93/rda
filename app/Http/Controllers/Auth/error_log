@@ -1,0 +1,48 @@
+[07-Jan-2022 07:01:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[07-Jan-2022 07:01:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[07-Jan-2022 07:01:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[07-Jan-2022 07:01:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[07-Jan-2022 07:01:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[07-Jan-2022 07:01:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9
+[11-Jan-2022 21:34:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/ConfirmPasswordController.php on line 9
+[11-Jan-2022 21:34:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[11-Jan-2022 21:34:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/LoginController.php on line 9
+[11-Jan-2022 21:34:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/RegisterController.php on line 12
+[11-Jan-2022 21:34:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/ResetPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/ResetPasswordController.php on line 9
+[11-Jan-2022 21:34:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/bookvxos/public_html/app/Http/Controllers/Auth/VerificationController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Controllers/Auth/VerificationController.php on line 9

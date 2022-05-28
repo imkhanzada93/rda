@@ -1,0 +1,8 @@
+[07-Jan-2022 04:27:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/laravel/sail/src/SailServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/sail/src/SailServiceProvider.php on line 10
+[12-Jan-2022 01:03:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/laravel/sail/src/SailServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/sail/src/SailServiceProvider.php on line 10

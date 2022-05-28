@@ -1,0 +1,8 @@
+[07-Jan-2022 14:36:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Exceptions/UnauthorizedException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Exceptions/UnauthorizedException.php on line 7
+[12-Jan-2022 21:24:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Exceptions/UnauthorizedException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Exceptions/UnauthorizedException.php on line 7

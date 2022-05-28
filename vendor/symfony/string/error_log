@@ -1,0 +1,48 @@
+[06-Jan-2022 22:13:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/bookvxos/public_html/vendor/symfony/string/AbstractString.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/AbstractString.php on line 30
+[06-Jan-2022 22:13:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractString' not found in /home/bookvxos/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[06-Jan-2022 22:13:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractString' not found in /home/bookvxos/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/ByteString.php on line 26
+[06-Jan-2022 22:13:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractUnicodeString' not found in /home/bookvxos/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/CodePointString.php on line 25
+[06-Jan-2022 22:13:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/bookvxos/public_html/vendor/symfony/string/LazyString.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/LazyString.php on line 19
+[06-Jan-2022 22:13:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractUnicodeString' not found in /home/bookvxos/public_html/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/UnicodeString.php on line 33
+[11-Jan-2022 13:53:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/bookvxos/public_html/vendor/symfony/string/AbstractString.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/AbstractString.php on line 30
+[11-Jan-2022 13:53:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractString' not found in /home/bookvxos/public_html/vendor/symfony/string/AbstractUnicodeString.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/AbstractUnicodeString.php on line 29
+[11-Jan-2022 13:53:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractString' not found in /home/bookvxos/public_html/vendor/symfony/string/ByteString.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/ByteString.php on line 26
+[11-Jan-2022 13:53:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractUnicodeString' not found in /home/bookvxos/public_html/vendor/symfony/string/CodePointString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/CodePointString.php on line 25
+[11-Jan-2022 13:54:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/bookvxos/public_html/vendor/symfony/string/LazyString.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/LazyString.php on line 19
+[11-Jan-2022 13:54:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\String\AbstractUnicodeString' not found in /home/bookvxos/public_html/vendor/symfony/string/UnicodeString.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/string/UnicodeString.php on line 33

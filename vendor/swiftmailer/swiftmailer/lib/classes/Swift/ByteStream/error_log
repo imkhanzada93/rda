@@ -1,0 +1,32 @@
+[08-Jan-2022 19:47:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_InputByteStream' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/AbstractFilterableInputStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/AbstractFilterableInputStream.php on line 16
+[08-Jan-2022 19:47:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_InputByteStream' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/ArrayByteStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/ArrayByteStream.php on line 16
+[08-Jan-2022 19:47:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_ByteStream_AbstractFilterableInputStream' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/FileByteStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/FileByteStream.php on line 16
+[08-Jan-2022 19:47:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_ByteStream_FileByteStream' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/TemporaryFileByteStream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/TemporaryFileByteStream.php on line 14
+[13-Jan-2022 21:25:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_InputByteStream' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/AbstractFilterableInputStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/AbstractFilterableInputStream.php on line 16
+[13-Jan-2022 21:25:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_InputByteStream' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/ArrayByteStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/ArrayByteStream.php on line 16
+[13-Jan-2022 21:25:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_ByteStream_AbstractFilterableInputStream' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/FileByteStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/FileByteStream.php on line 16
+[13-Jan-2022 21:25:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_ByteStream_FileByteStream' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/TemporaryFileByteStream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/TemporaryFileByteStream.php on line 14

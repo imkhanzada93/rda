@@ -1,0 +1,8 @@
+[07-Jan-2022 04:23:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\ContainerExceptionInterface' not found in /home/bookvxos/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php on line 8
+[11-Jan-2022 22:03:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\ContainerExceptionInterface' not found in /home/bookvxos/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psr/container/src/NotFoundExceptionInterface.php on line 8

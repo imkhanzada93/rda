@@ -1,0 +1,8 @@
+[09-Jan-2022 15:24:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_IoException' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Pop/Pop3Exception.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Pop/Pop3Exception.php on line 16
+[14-Jan-2022 05:02:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Swift_IoException' not found in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Pop/Pop3Exception.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Pop/Pop3Exception.php on line 16

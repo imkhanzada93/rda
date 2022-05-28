@@ -1,0 +1,48 @@
+[07-Jan-2022 04:48:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php on line 19
+[07-Jan-2022 04:48:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/LogicException.php on line 19
+[07-Jan-2022 04:48:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Exception\RuntimeException' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessFailedException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessFailedException.php on line 21
+[07-Jan-2022 04:48:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Exception\RuntimeException' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php on line 21
+[07-Jan-2022 04:48:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Exception\RuntimeException' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php on line 21
+[07-Jan-2022 04:48:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/RuntimeException.php on line 19
+[11-Jan-2022 21:11:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php on line 19
+[11-Jan-2022 21:11:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/LogicException.php on line 19
+[11-Jan-2022 21:11:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Exception\RuntimeException' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessFailedException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessFailedException.php on line 21
+[11-Jan-2022 21:11:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Exception\RuntimeException' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php on line 21
+[11-Jan-2022 21:11:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Process\Exception\RuntimeException' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php on line 21
+[11-Jan-2022 21:11:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Process\Exception\ExceptionInterface' not found in /home/bookvxos/public_html/vendor/symfony/process/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/process/Exception/RuntimeException.php on line 19

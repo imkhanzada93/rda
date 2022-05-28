@@ -1,0 +1,24 @@
+[09-Jan-2022 11:10:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 17
+[09-Jan-2022 11:10:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[09-Jan-2022 11:10:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpFoundation\Session\Attribute\trigger_deprecation() in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/NamespacedAttributeBag.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/NamespacedAttributeBag.php on line 14
+[12-Jan-2022 15:11:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\Attribute\AttributeBagInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/AttributeBag.php on line 17
+[12-Jan-2022 15:11:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpFoundation\Session\SessionBagInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/AttributeBagInterface.php on line 21
+[12-Jan-2022 15:11:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpFoundation\Session\Attribute\trigger_deprecation() in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/NamespacedAttributeBag.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Attribute/NamespacedAttributeBag.php on line 14

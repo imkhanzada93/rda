@@ -1,0 +1,24 @@
+[07-Jan-2022 07:40:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/bookvxos/public_html/vendor/symfony/translation/Command/TranslationPullCommand.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Command/TranslationPullCommand.php on line 31
+[07-Jan-2022 07:40:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/bookvxos/public_html/vendor/symfony/translation/Command/TranslationPushCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Command/TranslationPushCommand.php on line 30
+[07-Jan-2022 07:40:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/bookvxos/public_html/vendor/symfony/translation/Command/XliffLintCommand.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Command/XliffLintCommand.php on line 31
+[11-Jan-2022 21:16:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/bookvxos/public_html/vendor/symfony/translation/Command/TranslationPullCommand.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Command/TranslationPullCommand.php on line 31
+[11-Jan-2022 21:16:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/bookvxos/public_html/vendor/symfony/translation/Command/TranslationPushCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Command/TranslationPushCommand.php on line 30
+[11-Jan-2022 21:16:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/bookvxos/public_html/vendor/symfony/translation/Command/XliffLintCommand.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Command/XliffLintCommand.php on line 31

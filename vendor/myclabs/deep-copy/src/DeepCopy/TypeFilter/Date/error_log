@@ -1,0 +1,8 @@
+[08-Jan-2022 19:28:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/bookvxos/public_html/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13
+[13-Jan-2022 23:17:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\TypeFilter\TypeFilter' not found in /home/bookvxos/public_html/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/Date/DateIntervalFilter.php on line 13

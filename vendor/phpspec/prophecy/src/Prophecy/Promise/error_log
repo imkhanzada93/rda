@@ -1,0 +1,32 @@
+[08-Jan-2022 04:42:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Promise\PromiseInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/CallbackPromise.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/CallbackPromise.php on line 24
+[08-Jan-2022 04:42:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Promise\PromiseInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnArgumentPromise.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnArgumentPromise.php on line 23
+[08-Jan-2022 04:42:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Promise\PromiseInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnPromise.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnPromise.php on line 22
+[08-Jan-2022 04:42:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Promise\PromiseInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ThrowPromise.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ThrowPromise.php on line 25
+[12-Jan-2022 23:24:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Promise\PromiseInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/CallbackPromise.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/CallbackPromise.php on line 24
+[12-Jan-2022 23:24:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Promise\PromiseInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnArgumentPromise.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnArgumentPromise.php on line 23
+[12-Jan-2022 23:24:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Promise\PromiseInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnPromise.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ReturnPromise.php on line 22
+[12-Jan-2022 23:24:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Promise\PromiseInterface' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ThrowPromise.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Promise/ThrowPromise.php on line 25

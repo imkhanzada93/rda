@@ -1,0 +1,8 @@
+[07-Jan-2022 06:21:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/bookvxos/public_html/vendor/asm89/stack-cors/src/Cors.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/asm89/stack-cors/src/Cors.php on line 18
+[11-Jan-2022 21:43:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/bookvxos/public_html/vendor/asm89/stack-cors/src/Cors.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/asm89/stack-cors/src/Cors.php on line 18

@@ -1,0 +1,40 @@
+[07-Jan-2022 04:45:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/AbstractMultipartPart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/AbstractMultipartPart.php on line 19
+[07-Jan-2022 04:45:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\TextPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/DataPart.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/DataPart.php on line 21
+[07-Jan-2022 04:45:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\DataPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/MessagePart.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/MessagePart.php on line 22
+[07-Jan-2022 04:46:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/SMimePart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/SMimePart.php on line 19
+[07-Jan-2022 04:46:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/TextPart.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/TextPart.php on line 24
+[11-Jan-2022 21:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/AbstractMultipartPart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/AbstractMultipartPart.php on line 19
+[11-Jan-2022 21:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\TextPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/DataPart.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/DataPart.php on line 21
+[11-Jan-2022 21:09:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\DataPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/MessagePart.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/MessagePart.php on line 22
+[11-Jan-2022 21:09:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/SMimePart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/SMimePart.php on line 19
+[11-Jan-2022 21:09:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/TextPart.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/TextPart.php on line 24

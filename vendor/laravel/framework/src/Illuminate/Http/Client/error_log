@@ -1,0 +1,26 @@
+[09-Jan-2022 05:59:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Client\HttpClientException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[09-Jan-2022 05:59:56 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 54
+[09-Jan-2022 06:00:09 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 20
+[09-Jan-2022 06:00:28 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 11
+[09-Jan-2022 06:00:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Client\HttpClientException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 5
+[09-Jan-2022 06:00:40 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 10
+[09-Jan-2022 06:00:45 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 8
+[13-Jan-2022 22:31:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Client\HttpClientException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[13-Jan-2022 22:31:26 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 54
+[13-Jan-2022 22:31:29 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 20
+[13-Jan-2022 22:31:33 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 11
+[13-Jan-2022 22:31:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Client\HttpClientException' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 5
+[13-Jan-2022 22:31:37 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 10
+[13-Jan-2022 22:31:38 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 8

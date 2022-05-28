@@ -1,0 +1,16 @@
+[07-Jan-2022 13:20:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Delimiter\DelimiterInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[07-Jan-2022 13:20:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[12-Jan-2022 14:46:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Delimiter\DelimiterInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[13-Jan-2022 10:04:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20

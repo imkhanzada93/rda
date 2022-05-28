@@ -1,0 +1,24 @@
+[07-Jan-2022 14:20:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facade\FlareClient\Truncation\TruncationStrategy' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/AbstractTruncationStrategy.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/AbstractTruncationStrategy.php on line 5
+[07-Jan-2022 14:20:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Truncation\AbstractTruncationStrategy' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/TrimContextItemsStrategy.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/TrimContextItemsStrategy.php on line 5
+[07-Jan-2022 14:20:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Truncation\AbstractTruncationStrategy' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/TrimStringsStrategy.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/TrimStringsStrategy.php on line 5
+[12-Jan-2022 15:45:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facade\FlareClient\Truncation\TruncationStrategy' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/AbstractTruncationStrategy.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/AbstractTruncationStrategy.php on line 5
+[12-Jan-2022 15:45:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Truncation\AbstractTruncationStrategy' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/TrimContextItemsStrategy.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/TrimContextItemsStrategy.php on line 5
+[12-Jan-2022 15:45:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Truncation\AbstractTruncationStrategy' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/TrimStringsStrategy.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Truncation/TrimStringsStrategy.php on line 5

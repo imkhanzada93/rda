@@ -1,0 +1,16 @@
+[07-Jan-2022 18:16:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Output\RenderedContentInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[07-Jan-2022 18:16:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Output/RenderedContentInterface.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Output/RenderedContentInterface.php on line 18
+[13-Jan-2022 10:35:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Output\RenderedContentInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[13-Jan-2022 10:35:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stringable' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Output/RenderedContentInterface.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Output/RenderedContentInterface.php on line 18

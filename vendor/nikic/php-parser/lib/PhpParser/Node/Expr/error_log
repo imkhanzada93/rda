@@ -1,0 +1,376 @@
+[08-Jan-2022 19:31:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php on line 7
+[08-Jan-2022 19:31:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayItem.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayItem.php on line 7
+[08-Jan-2022 19:31:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Array_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Array_.php on line 7
+[08-Jan-2022 19:31:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrowFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrowFunction.php on line 9
+[08-Jan-2022 19:31:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Assign.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Assign.php on line 7
+[08-Jan-2022 19:31:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp.php on line 7
+[08-Jan-2022 19:31:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php on line 7
+[08-Jan-2022 19:31:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp.php on line 7
+[08-Jan-2022 19:31:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BitwiseNot.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BitwiseNot.php on line 7
+[08-Jan-2022 19:31:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BooleanNot.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BooleanNot.php on line 7
+[08-Jan-2022 19:31:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast.php on line 7
+[08-Jan-2022 19:31:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClassConstFetch.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClassConstFetch.php on line 9
+[08-Jan-2022 19:31:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Clone_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Clone_.php on line 7
+[08-Jan-2022 19:31:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Closure.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Closure.php on line 9
+[08-Jan-2022 19:31:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClosureUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClosureUse.php on line 7
+[08-Jan-2022 19:31:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php on line 8
+[08-Jan-2022 19:31:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Empty_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Empty_.php on line 7
+[08-Jan-2022 19:31:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Error.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Error.php on line 13
+[08-Jan-2022 19:31:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php on line 7
+[08-Jan-2022 19:32:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Eval_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Eval_.php on line 7
+[08-Jan-2022 19:32:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Exit_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Exit_.php on line 7
+[08-Jan-2022 19:32:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/FuncCall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/FuncCall.php on line 8
+[08-Jan-2022 19:32:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Include_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Include_.php on line 7
+[08-Jan-2022 19:32:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Instanceof_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Instanceof_.php on line 8
+[08-Jan-2022 19:32:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Isset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Isset_.php on line 7
+[08-Jan-2022 19:32:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/List_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/List_.php on line 7
+[08-Jan-2022 19:32:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Match_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Match_.php on line 8
+[08-Jan-2022 19:32:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php on line 9
+[08-Jan-2022 19:32:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/New_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/New_.php on line 8
+[08-Jan-2022 19:32:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafeMethodCall.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafeMethodCall.php on line 9
+[08-Jan-2022 19:32:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafePropertyFetch.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafePropertyFetch.php on line 8
+[08-Jan-2022 19:32:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostDec.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostDec.php on line 7
+[08-Jan-2022 19:32:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostInc.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostInc.php on line 7
+[08-Jan-2022 19:32:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreDec.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreDec.php on line 7
+[08-Jan-2022 19:32:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreInc.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreInc.php on line 7
+[08-Jan-2022 19:32:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Print_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Print_.php on line 7
+[08-Jan-2022 19:32:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PropertyFetch.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PropertyFetch.php on line 8
+[08-Jan-2022 19:32:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ShellExec.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ShellExec.php on line 7
+[08-Jan-2022 19:32:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticCall.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticCall.php on line 9
+[08-Jan-2022 19:33:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticPropertyFetch.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticPropertyFetch.php on line 9
+[08-Jan-2022 19:33:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Ternary.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Ternary.php on line 7
+[08-Jan-2022 19:33:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Throw_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Throw_.php on line 7
+[08-Jan-2022 19:33:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryMinus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryMinus.php on line 7
+[08-Jan-2022 19:33:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryPlus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryPlus.php on line 7
+[08-Jan-2022 19:33:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Variable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Variable.php on line 7
+[08-Jan-2022 19:33:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php on line 7
+[08-Jan-2022 19:33:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Yield_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Yield_.php on line 7
+[13-Jan-2022 08:05:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php on line 7
+[13-Jan-2022 08:05:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayItem.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayItem.php on line 7
+[13-Jan-2022 08:05:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Array_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Array_.php on line 7
+[13-Jan-2022 08:05:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrowFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrowFunction.php on line 9
+[13-Jan-2022 08:06:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Assign.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Assign.php on line 7
+[13-Jan-2022 08:06:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp.php on line 7
+[13-Jan-2022 08:06:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php on line 7
+[13-Jan-2022 08:06:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp.php on line 7
+[13-Jan-2022 08:06:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BitwiseNot.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BitwiseNot.php on line 7
+[13-Jan-2022 08:06:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BooleanNot.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BooleanNot.php on line 7
+[13-Jan-2022 08:06:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast.php on line 7
+[13-Jan-2022 08:06:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClassConstFetch.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClassConstFetch.php on line 9
+[13-Jan-2022 08:06:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Clone_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Clone_.php on line 7
+[13-Jan-2022 08:07:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Closure.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Closure.php on line 9
+[13-Jan-2022 08:07:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClosureUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ClosureUse.php on line 7
+[13-Jan-2022 08:07:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php on line 8
+[13-Jan-2022 08:07:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Empty_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Empty_.php on line 7
+[13-Jan-2022 08:07:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Error.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Error.php on line 13
+[13-Jan-2022 08:07:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php on line 7
+[13-Jan-2022 08:07:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Eval_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Eval_.php on line 7
+[13-Jan-2022 08:07:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Exit_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Exit_.php on line 7
+[13-Jan-2022 08:08:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/FuncCall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/FuncCall.php on line 8
+[13-Jan-2022 08:08:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Include_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Include_.php on line 7
+[13-Jan-2022 08:08:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Instanceof_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Instanceof_.php on line 8
+[13-Jan-2022 08:08:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Isset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Isset_.php on line 7
+[13-Jan-2022 09:20:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/List_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/List_.php on line 7
+[13-Jan-2022 09:20:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Match_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Match_.php on line 8
+[13-Jan-2022 09:20:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php on line 9
+[13-Jan-2022 09:20:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/New_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/New_.php on line 8
+[13-Jan-2022 09:20:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafeMethodCall.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafeMethodCall.php on line 9
+[13-Jan-2022 09:20:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafePropertyFetch.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafePropertyFetch.php on line 8
+[13-Jan-2022 09:20:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostDec.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostDec.php on line 7
+[13-Jan-2022 09:20:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostInc.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PostInc.php on line 7
+[13-Jan-2022 09:20:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreDec.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreDec.php on line 7
+[13-Jan-2022 09:20:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreInc.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreInc.php on line 7
+[13-Jan-2022 09:20:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Print_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Print_.php on line 7
+[13-Jan-2022 09:20:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PropertyFetch.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PropertyFetch.php on line 8
+[13-Jan-2022 09:20:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ShellExec.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ShellExec.php on line 7
+[13-Jan-2022 09:20:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticCall.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticCall.php on line 9
+[13-Jan-2022 09:20:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticPropertyFetch.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/StaticPropertyFetch.php on line 9
+[13-Jan-2022 09:20:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Ternary.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Ternary.php on line 7
+[13-Jan-2022 09:20:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Throw_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Throw_.php on line 7
+[13-Jan-2022 09:20:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryMinus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryMinus.php on line 7
+[13-Jan-2022 09:20:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryPlus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryPlus.php on line 7
+[13-Jan-2022 09:21:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Variable.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Variable.php on line 7
+[13-Jan-2022 09:21:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php on line 7
+[13-Jan-2022 09:21:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Yield_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Yield_.php on line 7

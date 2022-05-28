@@ -1,0 +1,24 @@
+[08-Jan-2022 12:00:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Container\Container' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 17
+[08-Jan-2022 12:00:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Container\ContextualBindingBuilder' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[08-Jan-2022 12:01:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\NotFoundExceptionInterface' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8
+[13-Jan-2022 07:58:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Container\Container' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 17
+[13-Jan-2022 07:58:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Container\ContextualBindingBuilder' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[13-Jan-2022 07:58:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Container\NotFoundExceptionInterface' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Container/EntryNotFoundException.php on line 8

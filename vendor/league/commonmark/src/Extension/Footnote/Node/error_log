@@ -1,0 +1,44 @@
+[08-Jan-2022 20:51:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[08-Jan-2022 20:51:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[08-Jan-2022 20:51:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[08-Jan-2022 20:51:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[11-Jan-2022 21:13:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[11-Jan-2022 21:13:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[11-Jan-2022 21:13:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[11-Jan-2022 21:13:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[14-Jan-2022 06:27:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[14-Jan-2022 06:27:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[14-Jan-2022 06:28:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21

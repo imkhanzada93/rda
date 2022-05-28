@@ -1,0 +1,56 @@
+[09-Jan-2022 20:53:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Cache\Marshaller\MarshallerInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[09-Jan-2022 20:53:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[09-Jan-2022 20:53:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 22
+[09-Jan-2022 20:54:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[09-Jan-2022 20:54:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 41
+[09-Jan-2022 20:54:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 24
+[09-Jan-2022 20:54:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[13-Jan-2022 14:31:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Cache\Marshaller\MarshallerInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[13-Jan-2022 14:31:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[13-Jan-2022 14:31:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 22
+[13-Jan-2022 14:31:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[13-Jan-2022 14:31:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 41
+[13-Jan-2022 14:31:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 24
+[13-Jan-2022 14:32:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler' not found in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19

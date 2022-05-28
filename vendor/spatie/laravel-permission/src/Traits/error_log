@@ -1,0 +1,2 @@
+[07-Jan-2022 14:36:58 America/New_York] PHP Fatal error:  Trait 'Spatie\Permission\Traits\HasPermissions' not found in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Traits/HasRoles.php on line 11
+[12-Jan-2022 21:26:02 America/New_York] PHP Fatal error:  Trait 'Spatie\Permission\Traits\HasPermissions' not found in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/Traits/HasRoles.php on line 11

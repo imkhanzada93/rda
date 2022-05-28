@@ -1,0 +1,48 @@
+[08-Jan-2022 12:05:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/File.php on line 7
+[08-Jan-2022 12:05:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\JsonResponse' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php on line 12
+[08-Jan-2022 12:05:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\RedirectResponse' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php on line 15
+[08-Jan-2022 12:05:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Request' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 20
+[08-Jan-2022 12:05:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Response' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php on line 15
+[08-Jan-2022 12:05:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\File\UploadedFile' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php on line 13
+[13-Jan-2022 01:07:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\File\File' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/File.php on line 7
+[13-Jan-2022 01:07:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\JsonResponse' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php on line 12
+[13-Jan-2022 01:08:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\RedirectResponse' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php on line 15
+[13-Jan-2022 01:08:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Request' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 20
+[13-Jan-2022 01:08:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\Response' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/Response.php on line 15
+[13-Jan-2022 01:08:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpFoundation\File\UploadedFile' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php on line 13

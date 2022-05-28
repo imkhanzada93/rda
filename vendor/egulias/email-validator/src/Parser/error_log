@@ -1,0 +1,16 @@
+[07-Jan-2022 14:13:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Parser\Parser' not found in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Parser/DomainPart.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Parser/DomainPart.php on line 35
+[07-Jan-2022 14:13:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Parser\Parser' not found in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Parser/LocalPart.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Parser/LocalPart.php on line 15
+[12-Jan-2022 15:40:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Parser\Parser' not found in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Parser/DomainPart.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Parser/DomainPart.php on line 35
+[12-Jan-2022 15:40:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Parser\Parser' not found in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Parser/LocalPart.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/egulias/email-validator/src/Parser/LocalPart.php on line 15

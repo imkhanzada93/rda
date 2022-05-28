@@ -1,0 +1,8 @@
+[09-Jan-2022 05:58:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Cookie\Factory' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php on line 5
+[14-Jan-2022 03:09:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Cookie\Factory' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php on line 5

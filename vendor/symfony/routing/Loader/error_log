@@ -1,0 +1,88 @@
+[07-Jan-2022 04:49:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Loader\LoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 73
+[07-Jan-2022 04:49:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\Loader\AnnotationFileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 23
+[07-Jan-2022 04:50:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 25
+[07-Jan-2022 04:50:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\Loader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[07-Jan-2022 04:50:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\Loader\ObjectLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[07-Jan-2022 04:50:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[07-Jan-2022 07:36:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[07-Jan-2022 07:36:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\Loader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[07-Jan-2022 07:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[07-Jan-2022 07:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[07-Jan-2022 07:36:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30
+[11-Jan-2022 21:13:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Config\Loader\LoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationClassLoader.php on line 73
+[11-Jan-2022 21:13:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\Loader\AnnotationFileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 23
+[11-Jan-2022 21:13:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/AnnotationFileLoader.php on line 25
+[11-Jan-2022 21:13:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\Loader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ClosureLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ClosureLoader.php on line 24
+[11-Jan-2022 21:13:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Routing\Loader\ObjectLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ContainerLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ContainerLoader.php on line 21
+[11-Jan-2022 21:13:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/DirectoryLoader.php on line 18
+[11-Jan-2022 21:13:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/GlobFileLoader.php on line 22
+[11-Jan-2022 21:13:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\Loader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ObjectLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/ObjectLoader.php on line 23
+[11-Jan-2022 21:13:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/PhpFileLoader.php on line 28
+[11-Jan-2022 21:13:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/XmlFileLoader.php on line 28
+[11-Jan-2022 21:13:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Config\Loader\FileLoader' not found in /home/bookvxos/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/routing/Loader/YamlFileLoader.php on line 30

@@ -1,0 +1,16 @@
+[07-Jan-2022 15:13:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeCoverage\Node\AbstractNode' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/Node/Directory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/Node/Directory.php on line 21
+[07-Jan-2022 15:13:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeCoverage\Node\AbstractNode' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/Node/File.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/Node/File.php on line 21
+[12-Jan-2022 07:12:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeCoverage\Node\AbstractNode' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/Node/Directory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/Node/Directory.php on line 21
+[12-Jan-2022 07:12:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\CodeCoverage\Node\AbstractNode' not found in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/Node/File.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/php-code-coverage/src/Node/File.php on line 21

@@ -1,0 +1,144 @@
+[08-Jan-2022 11:11:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\DiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AllOf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AllOf.php on line 16
+[08-Jan-2022 11:11:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\Core\ShortcutCombination' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AnyOf.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AnyOf.php on line 15
+[08-Jan-2022 11:11:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/CombinableMatcher.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/CombinableMatcher.php on line 12
+[08-Jan-2022 11:11:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/DescribedAs.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/DescribedAs.php on line 14
+[08-Jan-2022 11:11:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Every.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Every.php on line 12
+[08-Jan-2022 11:11:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\FeatureMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/HasToString.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/HasToString.php on line 15
+[08-Jan-2022 11:11:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Is.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Is.php on line 19
+[08-Jan-2022 11:11:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsAnything.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsAnything.php on line 13
+[08-Jan-2022 11:11:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsCollectionContaining.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsCollectionContaining.php on line 15
+[08-Jan-2022 11:11:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsEqual.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsEqual.php on line 14
+[08-Jan-2022 11:11:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\Core\IsSame' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsIdentical.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsIdentical.php on line 13
+[08-Jan-2022 11:11:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\DiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsInstanceOf.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsInstanceOf.php on line 13
+[08-Jan-2022 11:11:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNot.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNot.php on line 15
+[08-Jan-2022 11:11:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNull.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNull.php on line 13
+[08-Jan-2022 11:11:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsSame.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsSame.php on line 14
+[08-Jan-2022 11:11:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsTypeOf.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsTypeOf.php on line 13
+[08-Jan-2022 11:11:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Set.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Set.php on line 22
+[08-Jan-2022 11:11:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/ShortcutCombination.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/ShortcutCombination.php on line 12
+[13-Jan-2022 07:39:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\DiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AllOf.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AllOf.php on line 16
+[13-Jan-2022 07:40:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\Core\ShortcutCombination' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AnyOf.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/AnyOf.php on line 15
+[13-Jan-2022 07:40:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/CombinableMatcher.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/CombinableMatcher.php on line 12
+[13-Jan-2022 07:40:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/DescribedAs.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/DescribedAs.php on line 14
+[13-Jan-2022 07:40:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeDiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Every.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Every.php on line 12
+[13-Jan-2022 07:41:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\FeatureMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/HasToString.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/HasToString.php on line 15
+[13-Jan-2022 07:41:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Is.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Is.php on line 19
+[13-Jan-2022 07:41:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsAnything.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsAnything.php on line 13
+[13-Jan-2022 07:41:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\TypeSafeMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsCollectionContaining.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsCollectionContaining.php on line 15
+[13-Jan-2022 07:41:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsEqual.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsEqual.php on line 14
+[13-Jan-2022 07:42:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\Core\IsSame' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsIdentical.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsIdentical.php on line 13
+[13-Jan-2022 07:42:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\DiagnosingMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsInstanceOf.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsInstanceOf.php on line 13
+[13-Jan-2022 07:42:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNot.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNot.php on line 15
+[13-Jan-2022 07:42:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNull.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsNull.php on line 13
+[13-Jan-2022 07:42:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsSame.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsSame.php on line 14
+[13-Jan-2022 07:43:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsTypeOf.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/IsTypeOf.php on line 13
+[13-Jan-2022 07:43:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Set.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/Set.php on line 22
+[13-Jan-2022 07:43:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/ShortcutCombination.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Core/ShortcutCombination.php on line 12

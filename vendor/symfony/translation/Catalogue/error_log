@@ -1,0 +1,24 @@
+[07-Jan-2022 07:39:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Catalogue\OperationInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[07-Jan-2022 07:39:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Catalogue\AbstractOperation' not found in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[07-Jan-2022 07:39:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Catalogue\AbstractOperation' not found in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[11-Jan-2022 21:15:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Catalogue\OperationInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[11-Jan-2022 21:15:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Catalogue\AbstractOperation' not found in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[11-Jan-2022 21:15:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Catalogue\AbstractOperation' not found in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26

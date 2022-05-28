@@ -1,0 +1,12 @@
+[08-Jan-2022 20:55:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Output\RenderedContent' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Output/RenderedContentWithFrontMatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Output/RenderedContentWithFrontMatter.php on line 23
+[11-Jan-2022 21:14:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Output\RenderedContent' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Output/RenderedContentWithFrontMatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Output/RenderedContentWithFrontMatter.php on line 23
+[14-Jan-2022 03:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Output\RenderedContent' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Output/RenderedContentWithFrontMatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/FrontMatter/Output/RenderedContentWithFrontMatter.php on line 23

@@ -1,0 +1,32 @@
+[08-Jan-2022 19:19:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\es_ES\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php on line 5
+[08-Jan-2022 19:19:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Company' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php on line 5
+[08-Jan-2022 19:19:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php on line 5
+[08-Jan-2022 19:19:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php on line 5
+[13-Jan-2022 21:42:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\es_ES\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php on line 5
+[13-Jan-2022 21:42:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Company' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php on line 5
+[13-Jan-2022 21:42:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php on line 5
+[13-Jan-2022 21:43:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php on line 5

@@ -1,0 +1,8 @@
+[07-Jan-2022 11:27:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\Reflection\ReflectionClassConstant' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/Reflection/ReflectionConstant.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/Reflection/ReflectionConstant.php on line 19
+[12-Jan-2022 07:52:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\Reflection\ReflectionClassConstant' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/Reflection/ReflectionConstant.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/Reflection/ReflectionConstant.php on line 19

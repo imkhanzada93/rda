@@ -1,0 +1,72 @@
+[07-Jan-2022 10:20:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[07-Jan-2022 10:20:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\DceSecurityGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[07-Jan-2022 10:21:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\NameGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[07-Jan-2022 10:21:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\TimeGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[07-Jan-2022 10:21:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\NameGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[07-Jan-2022 10:21:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 24
+[07-Jan-2022 10:21:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\TimeGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 25
+[07-Jan-2022 10:22:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[07-Jan-2022 10:22:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 26
+[12-Jan-2022 07:21:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[12-Jan-2022 07:21:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\DceSecurityGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[12-Jan-2022 07:21:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\NameGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[12-Jan-2022 07:21:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\TimeGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[12-Jan-2022 07:21:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\NameGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[12-Jan-2022 07:21:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 24
+[12-Jan-2022 07:21:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\TimeGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 25
+[12-Jan-2022 07:21:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[12-Jan-2022 07:21:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Ramsey\Uuid\Generator\RandomGeneratorInterface' not found in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 26

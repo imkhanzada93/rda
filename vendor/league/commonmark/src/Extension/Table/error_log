@@ -1,0 +1,88 @@
+[08-Jan-2022 09:33:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/Table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/Table.php on line 20
+[08-Jan-2022 09:33:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableCell.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableCell.php on line 20
+[08-Jan-2022 09:33:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableCellRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableCellRenderer.php on line 24
+[08-Jan-2022 09:33:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\ExtensionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableExtension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableExtension.php on line 21
+[08-Jan-2022 09:33:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Parser\Block\AbstractBlockContinueParser' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableParser.php on line 26
+[08-Jan-2022 09:33:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRenderer.php on line 24
+[08-Jan-2022 09:33:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRow.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRow.php on line 20
+[08-Jan-2022 09:33:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRowRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRowRenderer.php on line 24
+[08-Jan-2022 09:34:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableSection.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableSection.php on line 20
+[08-Jan-2022 09:34:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableSectionRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableSectionRenderer.php on line 24
+[08-Jan-2022 09:34:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Block\BlockStartParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableStartParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableStartParser.php on line 24
+[13-Jan-2022 20:44:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/Table.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/Table.php on line 20
+[13-Jan-2022 20:44:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableCell.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableCell.php on line 20
+[13-Jan-2022 20:44:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableCellRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableCellRenderer.php on line 24
+[13-Jan-2022 20:44:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\ExtensionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableExtension.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableExtension.php on line 21
+[13-Jan-2022 20:44:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Parser\Block\AbstractBlockContinueParser' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableParser.php on line 26
+[13-Jan-2022 20:44:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRenderer.php on line 24
+[13-Jan-2022 20:44:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRow.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRow.php on line 20
+[13-Jan-2022 20:44:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRowRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableRowRenderer.php on line 24
+[13-Jan-2022 20:44:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableSection.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableSection.php on line 20
+[13-Jan-2022 20:44:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableSectionRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableSectionRenderer.php on line 24
+[13-Jan-2022 20:44:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Block\BlockStartParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableStartParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/Table/TableStartParser.php on line 24

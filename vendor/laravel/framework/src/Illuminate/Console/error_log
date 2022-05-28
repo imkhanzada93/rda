@@ -1,0 +1,40 @@
+[08-Jan-2022 11:22:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Application' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 25
+[08-Jan-2022 11:22:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[08-Jan-2022 11:22:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 10
+[08-Jan-2022 11:22:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 9
+[08-Jan-2022 11:22:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Style\SymfonyStyle' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 9
+[13-Jan-2022 07:56:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Application' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 25
+[13-Jan-2022 07:56:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Output\ConsoleOutput' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[13-Jan-2022 07:56:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 10
+[13-Jan-2022 07:57:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 9
+[13-Jan-2022 07:57:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Style\SymfonyStyle' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 9

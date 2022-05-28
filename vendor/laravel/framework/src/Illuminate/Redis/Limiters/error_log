@@ -1,0 +1,4 @@
+[08-Jan-2022 22:12:35 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\InteractsWithTime' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Redis/Limiters/ConcurrencyLimiterBuilder.php on line 8
+[08-Jan-2022 22:12:38 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\InteractsWithTime' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Redis/Limiters/DurationLimiterBuilder.php on line 8
+[13-Jan-2022 22:49:44 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\InteractsWithTime' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Redis/Limiters/ConcurrencyLimiterBuilder.php on line 8
+[13-Jan-2022 22:50:11 America/New_York] PHP Fatal error:  Trait 'Illuminate\Support\InteractsWithTime' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Redis/Limiters/DurationLimiterBuilder.php on line 8

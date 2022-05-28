@@ -1,0 +1,280 @@
+[05-Jan-2022 17:31:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/app.php on line 16
+[05-Jan-2022 17:32:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/broadcasting.php on line 18
+[05-Jan-2022 17:32:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/cache.php on line 18
+[05-Jan-2022 17:32:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/database.php on line 18
+[05-Jan-2022 17:32:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/filesystems.php on line 16
+[05-Jan-2022 17:32:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/hashing.php on line 32
+[05-Jan-2022 17:32:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/logging.php on line 20
+[05-Jan-2022 17:33:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/mail.php on line 16
+[05-Jan-2022 17:33:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/queue.php on line 16
+[05-Jan-2022 17:33:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/services.php on line 18
+[05-Jan-2022 17:33:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/session.php on line 21
+[05-Jan-2022 17:33:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bookvxos/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/view.php on line 17
+[05-Jan-2022 19:27:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/app.php on line 16
+[05-Jan-2022 19:27:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/mail.php on line 16
+[05-Jan-2022 19:27:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bookvxos/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/view.php on line 17
+[05-Jan-2022 19:27:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/cache.php on line 18
+[07-Jan-2022 15:46:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/app.php on line 16
+[07-Jan-2022 15:46:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/mail.php on line 16
+[07-Jan-2022 15:46:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/cache.php on line 18
+[09-Jan-2022 11:25:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/services.php on line 18
+[10-Jan-2022 17:12:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/app.php on line 16
+[10-Jan-2022 17:13:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/broadcasting.php on line 18
+[10-Jan-2022 17:13:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/cache.php on line 18
+[10-Jan-2022 17:14:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/database.php on line 18
+[10-Jan-2022 17:15:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/filesystems.php on line 16
+[10-Jan-2022 17:16:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/hashing.php on line 32
+[10-Jan-2022 17:16:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/logging.php on line 20
+[10-Jan-2022 17:17:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/mail.php on line 16
+[10-Jan-2022 17:17:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/queue.php on line 16
+[10-Jan-2022 17:18:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/services.php on line 18
+[10-Jan-2022 17:18:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/session.php on line 21
+[10-Jan-2022 17:19:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bookvxos/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/view.php on line 17
+[12-Jan-2022 15:10:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/app.php on line 16
+[12-Jan-2022 15:10:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/mail.php on line 16
+[12-Jan-2022 15:10:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bookvxos/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/view.php on line 17
+[12-Jan-2022 15:10:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/cache.php on line 18
+[14-Jan-2022 17:50:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/app.php on line 16
+[14-Jan-2022 17:50:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/mail.php on line 16
+[14-Jan-2022 17:50:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bookvxos/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/view.php on line 17
+[14-Jan-2022 17:50:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/cache.php on line 18
+[19-Jan-2022 19:54:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/app.php on line 16
+[19-Jan-2022 19:54:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/mail.php on line 16
+[19-Jan-2022 19:54:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bookvxos/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/view.php on line 17
+[19-Jan-2022 19:54:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/cache.php on line 18
+[21-Jan-2022 16:24:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/broadcasting.php on line 18
+[22-Jan-2022 01:34:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/filesystems.php on line 16
+[22-Jan-2022 06:04:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/broadcasting.php on line 18
+[22-Jan-2022 23:19:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/database.php on line 18
+[22-Jan-2022 23:20:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/filesystems.php on line 16
+[22-Jan-2022 23:20:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/logging.php on line 20
+[22-Jan-2022 23:28:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/database.php on line 18
+[23-Jan-2022 00:47:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/hashing.php on line 32
+[23-Jan-2022 11:43:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/cache.php on line 18
+[23-Jan-2022 11:45:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/hashing.php on line 32
+[23-Jan-2022 11:46:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/logging.php on line 20
+[23-Jan-2022 23:35:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/app.php on line 16
+[23-Jan-2022 23:35:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/mail.php on line 16
+[23-Jan-2022 23:36:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bookvxos/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/view.php on line 17
+[23-Jan-2022 23:36:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/cache.php on line 18
+[24-Jan-2022 01:14:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/cache.php on line 18
+[24-Jan-2022 03:22:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/mail.php on line 16
+[24-Jan-2022 15:33:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/app.php on line 16
+[24-Jan-2022 15:36:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/app.php on line 16
+[24-Jan-2022 15:38:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/mail.php on line 16
+[24-Jan-2022 15:39:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/queue.php on line 16
+[24-Jan-2022 15:40:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/queue.php on line 16
+[24-Jan-2022 15:41:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/services.php on line 18
+[25-Jan-2022 01:01:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/services.php on line 18
+[25-Jan-2022 01:09:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/bookvxos/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/session.php on line 21
+[25-Jan-2022 01:36:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/bookvxos/public_html/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/config/view.php on line 17

@@ -1,0 +1,232 @@
+[07-Jan-2022 11:19:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php on line 22
+[07-Jan-2022 11:19:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php on line 24
+[07-Jan-2022 11:19:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php on line 27
+[07-Jan-2022 11:20:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php on line 26
+[07-Jan-2022 11:20:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php on line 19
+[07-Jan-2022 11:20:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php on line 22
+[07-Jan-2022 11:20:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ExitPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ExitPass.php on line 20
+[07-Jan-2022 11:20:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php on line 21
+[07-Jan-2022 11:20:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php on line 19
+[07-Jan-2022 11:20:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php on line 29
+[07-Jan-2022 11:20:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php on line 28
+[07-Jan-2022 11:20:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/InstanceOfPass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/InstanceOfPass.php on line 29
+[07-Jan-2022 11:20:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/IssetPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/IssetPass.php on line 26
+[07-Jan-2022 11:20:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php on line 32
+[07-Jan-2022 11:20:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php on line 21
+[07-Jan-2022 11:20:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ListPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ListPass.php on line 30
+[07-Jan-2022 11:20:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php on line 29
+[07-Jan-2022 11:20:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php on line 24
+[07-Jan-2022 11:20:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php on line 22
+[07-Jan-2022 11:20:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php on line 29
+[07-Jan-2022 11:21:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/PassableByReferencePass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/PassableByReferencePass.php on line 28
+[07-Jan-2022 11:21:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/RequirePass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/RequirePass.php on line 26
+[07-Jan-2022 11:21:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php on line 26
+[07-Jan-2022 11:21:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php on line 30
+[07-Jan-2022 11:21:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php on line 33
+[07-Jan-2022 11:21:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\NamespaceAwarePass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php on line 36
+[07-Jan-2022 11:21:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\NamespaceAwarePass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidConstantPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidConstantPass.php on line 32
+[07-Jan-2022 11:21:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php on line 34
+[07-Jan-2022 11:21:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\NamespaceAwarePass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php on line 31
+[12-Jan-2022 07:49:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php on line 22
+[12-Jan-2022 07:49:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php on line 24
+[12-Jan-2022 07:49:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php on line 27
+[12-Jan-2022 07:49:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php on line 26
+[12-Jan-2022 07:49:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeVisitorAbstract' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php on line 19
+[12-Jan-2022 07:49:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php on line 22
+[12-Jan-2022 07:49:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ExitPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ExitPass.php on line 20
+[12-Jan-2022 07:49:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php on line 21
+[12-Jan-2022 07:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php on line 19
+[12-Jan-2022 07:49:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php on line 29
+[12-Jan-2022 07:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php on line 28
+[12-Jan-2022 07:49:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/InstanceOfPass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/InstanceOfPass.php on line 29
+[12-Jan-2022 07:49:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/IssetPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/IssetPass.php on line 26
+[12-Jan-2022 07:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php on line 32
+[12-Jan-2022 07:49:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php on line 21
+[12-Jan-2022 07:49:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ListPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ListPass.php on line 30
+[12-Jan-2022 07:49:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php on line 29
+[12-Jan-2022 07:49:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php on line 24
+[12-Jan-2022 07:49:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php on line 22
+[12-Jan-2022 07:49:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php on line 29
+[12-Jan-2022 07:49:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/PassableByReferencePass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/PassableByReferencePass.php on line 28
+[12-Jan-2022 07:49:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/RequirePass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/RequirePass.php on line 26
+[12-Jan-2022 07:50:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php on line 26
+[12-Jan-2022 07:50:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php on line 30
+[12-Jan-2022 07:50:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php on line 33
+[12-Jan-2022 07:50:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\NamespaceAwarePass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php on line 36
+[12-Jan-2022 07:50:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\NamespaceAwarePass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidConstantPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidConstantPass.php on line 32
+[12-Jan-2022 07:50:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\CodeCleanerPass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php on line 34
+[12-Jan-2022 07:50:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\CodeCleaner\NamespaceAwarePass' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php on line 31

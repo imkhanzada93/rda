@@ -1,0 +1,8 @@
+[07-Jan-2022 13:25:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Input\MarkdownInputInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18
+[13-Jan-2022 10:24:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Input\MarkdownInputInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18

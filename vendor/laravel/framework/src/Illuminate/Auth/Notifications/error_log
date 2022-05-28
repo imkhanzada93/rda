@@ -1,0 +1,16 @@
+[08-Jan-2022 16:38:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Notifications/ResetPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Notifications/ResetPassword.php on line 9
+[08-Jan-2022 16:39:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Notifications/VerifyEmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Notifications/VerifyEmail.php on line 12
+[08-Jan-2022 17:20:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Notifications/ResetPassword.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Notifications/ResetPassword.php on line 9
+[08-Jan-2022 17:20:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Notification' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Notifications/VerifyEmail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/Notifications/VerifyEmail.php on line 12

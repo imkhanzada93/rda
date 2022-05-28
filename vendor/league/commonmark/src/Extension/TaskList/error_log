@@ -1,0 +1,32 @@
+[08-Jan-2022 09:35:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\ExtensionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListExtension.php on line 19
+[08-Jan-2022 09:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarker.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarker.php on line 18
+[08-Jan-2022 09:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarkerParser.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarkerParser.php on line 22
+[08-Jan-2022 12:08:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarkerRenderer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarkerRenderer.php on line 22
+[13-Jan-2022 20:46:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Extension\ExtensionInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListExtension.php on line 19
+[13-Jan-2022 20:46:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Inline\AbstractInline' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarker.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarker.php on line 18
+[13-Jan-2022 20:46:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Parser\Inline\InlineParserInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarkerParser.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarkerParser.php on line 22
+[13-Jan-2022 20:46:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarkerRenderer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TaskList/TaskListItemMarkerRenderer.php on line 22

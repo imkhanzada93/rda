@@ -1,0 +1,16 @@
+[07-Jan-2022 11:15:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Util/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Util/Exception.php on line 17
+[07-Jan-2022 11:15:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Util/InvalidDataSetException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Util/InvalidDataSetException.php on line 17
+[12-Jan-2022 07:47:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Util/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Util/Exception.php on line 17
+[12-Jan-2022 07:48:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Util/InvalidDataSetException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Util/InvalidDataSetException.php on line 17

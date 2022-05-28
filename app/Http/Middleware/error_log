@@ -1,0 +1,56 @@
+[06-Jan-2022 18:10:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/bookvxos/public_html/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/Authenticate.php on line 8
+[06-Jan-2022 18:11:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/bookvxos/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[06-Jan-2022 18:11:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home/bookvxos/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[06-Jan-2022 18:11:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/bookvxos/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[06-Jan-2022 18:11:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/bookvxos/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[06-Jan-2022 18:11:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/bookvxos/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[06-Jan-2022 18:11:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/bookvxos/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[11-Jan-2022 15:27:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/bookvxos/public_html/app/Http/Middleware/Authenticate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/Authenticate.php on line 8
+[11-Jan-2022 15:27:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/bookvxos/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[11-Jan-2022 15:27:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home/bookvxos/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[11-Jan-2022 15:28:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/bookvxos/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[11-Jan-2022 15:28:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/bookvxos/public_html/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/TrustHosts.php on line 7
+[11-Jan-2022 15:28:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/bookvxos/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[11-Jan-2022 15:28:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/bookvxos/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7

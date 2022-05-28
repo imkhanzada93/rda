@@ -1,0 +1,10 @@
+[09-Jan-2022 05:36:36 America/New_York] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Notifications/Messages/BroadcastMessage.php on line 7
+[09-Jan-2022 05:36:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Messages\SimpleMessage' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php on line 11
+[13-Jan-2022 22:34:16 America/New_York] PHP Fatal error:  Trait 'Illuminate\Bus\Queueable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Notifications/Messages/BroadcastMessage.php on line 7
+[13-Jan-2022 22:34:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Notifications\Messages\SimpleMessage' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php on line 11

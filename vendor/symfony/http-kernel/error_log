@@ -1,0 +1,40 @@
+[06-Jan-2022 20:34:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[06-Jan-2022 20:34:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[06-Jan-2022 20:34:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[06-Jan-2022 20:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\KernelInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/Kernel.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/Kernel.php on line 58
+[06-Jan-2022 20:35:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/KernelInterface.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/KernelInterface.php on line 29
+[11-Jan-2022 14:38:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[11-Jan-2022 14:38:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[11-Jan-2022 14:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\BrowserKit\AbstractBrowser' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[11-Jan-2022 14:39:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\KernelInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/Kernel.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/Kernel.php on line 58
+[11-Jan-2022 14:39:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home/bookvxos/public_html/vendor/symfony/http-kernel/KernelInterface.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/http-kernel/KernelInterface.php on line 29

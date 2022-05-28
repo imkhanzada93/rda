@@ -1,0 +1,40 @@
+[09-Jan-2022 05:31:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Transport\Transport' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/ArrayTransport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/ArrayTransport.php on line 8
+[09-Jan-2022 05:33:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Transport\Transport' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/LogTransport.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/LogTransport.php on line 9
+[09-Jan-2022 05:33:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Transport\Transport' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/MailgunTransport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/MailgunTransport.php on line 8
+[09-Jan-2022 05:33:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Transport\Transport' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/SesTransport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/SesTransport.php on line 8
+[09-Jan-2022 05:33:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Transport' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/Transport.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/Transport.php on line 10
+[13-Jan-2022 22:33:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Transport\Transport' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/ArrayTransport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/ArrayTransport.php on line 8
+[13-Jan-2022 22:33:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Transport\Transport' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/LogTransport.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/LogTransport.php on line 9
+[13-Jan-2022 22:33:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Transport\Transport' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/MailgunTransport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/MailgunTransport.php on line 8
+[13-Jan-2022 22:33:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Transport\Transport' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/SesTransport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/SesTransport.php on line 8
+[13-Jan-2022 22:33:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Swift_Transport' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/Transport.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Mail/Transport/Transport.php on line 10

@@ -1,0 +1,16 @@
+[07-Jan-2022 14:32:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\Type\Exception' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/exception/LogicException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/exception/LogicException.php on line 12
+[07-Jan-2022 14:32:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\Type\Exception' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/exception/RuntimeException.php on line 12
+[12-Jan-2022 21:18:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\Type\Exception' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/exception/LogicException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/exception/LogicException.php on line 12
+[12-Jan-2022 21:19:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\Type\Exception' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/exception/RuntimeException.php on line 12

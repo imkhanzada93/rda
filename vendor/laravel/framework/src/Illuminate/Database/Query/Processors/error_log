@@ -1,0 +1,32 @@
+[09-Jan-2022 12:27:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Query\Processors\Processor' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/MySqlProcessor.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/MySqlProcessor.php on line 5
+[09-Jan-2022 12:28:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Query\Processors\Processor' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/PostgresProcessor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/PostgresProcessor.php on line 7
+[09-Jan-2022 12:28:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Query\Processors\Processor' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SQLiteProcessor.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SQLiteProcessor.php on line 5
+[09-Jan-2022 12:28:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Query\Processors\Processor' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SqlServerProcessor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SqlServerProcessor.php on line 9
+[14-Jan-2022 10:11:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Query\Processors\Processor' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/MySqlProcessor.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/MySqlProcessor.php on line 5
+[14-Jan-2022 10:11:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Query\Processors\Processor' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/PostgresProcessor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/PostgresProcessor.php on line 7
+[14-Jan-2022 10:11:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Query\Processors\Processor' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SQLiteProcessor.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SQLiteProcessor.php on line 5
+[14-Jan-2022 10:11:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Query\Processors\Processor' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SqlServerProcessor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SqlServerProcessor.php on line 9

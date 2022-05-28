@@ -1,0 +1,16 @@
+[07-Jan-2022 05:55:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\CommandLoader\CommandLoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 22
+[07-Jan-2022 05:55:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\CommandLoader\CommandLoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 21
+[11-Jan-2022 22:50:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\CommandLoader\CommandLoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 22
+[11-Jan-2022 22:50:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Console\CommandLoader\CommandLoaderInterface' not found in /home/bookvxos/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 21

@@ -1,0 +1,16 @@
+[07-Jan-2022 11:26:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\InputArgument' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/Input/CodeArgument.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/Input/CodeArgument.php on line 30
+[07-Jan-2022 11:26:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\StringInput' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/Input/ShellInput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/Input/ShellInput.php on line 20
+[12-Jan-2022 07:51:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\InputArgument' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/Input/CodeArgument.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/Input/CodeArgument.php on line 30
+[12-Jan-2022 07:51:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Input\StringInput' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/Input/ShellInput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/Input/ShellInput.php on line 20

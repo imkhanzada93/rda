@@ -1,0 +1,352 @@
+[09-Jan-2022 05:46:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/CastMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/CastMakeCommand.php on line 7
+[09-Jan-2022 05:46:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ChannelMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ChannelMakeCommand.php on line 7
+[09-Jan-2022 05:46:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ClearCompiledCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ClearCompiledCommand.php on line 7
+[09-Jan-2022 05:46:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ClosureCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ClosureCommand.php on line 11
+[09-Jan-2022 05:46:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ComponentMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ComponentMakeCommand.php on line 10
+[09-Jan-2022 05:47:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigCacheCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigCacheCommand.php on line 11
+[09-Jan-2022 05:47:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigClearCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigClearCommand.php on line 8
+[09-Jan-2022 05:47:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConsoleMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConsoleMakeCommand.php on line 9
+[09-Jan-2022 05:47:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/DownCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/DownCommand.php on line 11
+[09-Jan-2022 05:47:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EnvironmentCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EnvironmentCommand.php on line 7
+[09-Jan-2022 05:47:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventCacheCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventCacheCommand.php on line 8
+[09-Jan-2022 05:47:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventClearCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventClearCommand.php on line 8
+[09-Jan-2022 05:48:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventGenerateCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventGenerateCommand.php on line 9
+[09-Jan-2022 05:48:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventListCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventListCommand.php on line 9
+[09-Jan-2022 05:48:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventMakeCommand.php on line 7
+[09-Jan-2022 05:48:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ExceptionMakeCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ExceptionMakeCommand.php on line 8
+[09-Jan-2022 05:48:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/JobMakeCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/JobMakeCommand.php on line 8
+[09-Jan-2022 05:48:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Console\Kernel' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php on line 20
+[09-Jan-2022 05:48:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/KeyGenerateCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/KeyGenerateCommand.php on line 9
+[09-Jan-2022 05:49:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ListenerMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ListenerMakeCommand.php on line 9
+[09-Jan-2022 05:49:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/MailMakeCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/MailMakeCommand.php on line 8
+[09-Jan-2022 05:49:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ModelMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ModelMakeCommand.php on line 9
+[09-Jan-2022 05:49:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/NotificationMakeCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/NotificationMakeCommand.php on line 8
+[09-Jan-2022 05:49:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ObserverMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ObserverMakeCommand.php on line 9
+[09-Jan-2022 05:49:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeClearCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeClearCommand.php on line 7
+[09-Jan-2022 05:49:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php on line 7
+[09-Jan-2022 05:50:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/PackageDiscoverCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/PackageDiscoverCommand.php on line 8
+[09-Jan-2022 05:50:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/PolicyMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/PolicyMakeCommand.php on line 10
+[09-Jan-2022 05:50:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ProviderMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ProviderMakeCommand.php on line 7
+[09-Jan-2022 05:50:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/QueuedCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/QueuedCommand.php on line 10
+[09-Jan-2022 05:50:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RequestMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RequestMakeCommand.php on line 7
+[09-Jan-2022 05:50:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ResourceMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ResourceMakeCommand.php on line 9
+[09-Jan-2022 05:50:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteCacheCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteCacheCommand.php on line 10
+[09-Jan-2022 05:51:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteClearCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteClearCommand.php on line 8
+[09-Jan-2022 05:51:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteListCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteListCommand.php on line 13
+[09-Jan-2022 05:51:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RuleMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RuleMakeCommand.php on line 7
+[09-Jan-2022 05:51:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ServeCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ServeCommand.php on line 11
+[09-Jan-2022 05:51:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/StorageLinkCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/StorageLinkCommand.php on line 7
+[09-Jan-2022 05:51:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/StubPublishCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/StubPublishCommand.php on line 8
+[09-Jan-2022 05:51:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/TestMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/TestMakeCommand.php on line 9
+[09-Jan-2022 05:52:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/UpCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/UpCommand.php on line 8
+[09-Jan-2022 05:52:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/VendorPublishCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/VendorPublishCommand.php on line 14
+[09-Jan-2022 05:52:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ViewCacheCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ViewCacheCommand.php on line 10
+[09-Jan-2022 05:52:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ViewClearCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ViewClearCommand.php on line 9
+[13-Jan-2022 22:06:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/CastMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/CastMakeCommand.php on line 7
+[13-Jan-2022 22:06:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ChannelMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ChannelMakeCommand.php on line 7
+[13-Jan-2022 22:06:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ClearCompiledCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ClearCompiledCommand.php on line 7
+[13-Jan-2022 22:06:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ClosureCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ClosureCommand.php on line 11
+[13-Jan-2022 22:06:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ComponentMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ComponentMakeCommand.php on line 10
+[13-Jan-2022 22:07:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigCacheCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigCacheCommand.php on line 11
+[13-Jan-2022 22:07:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigClearCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigClearCommand.php on line 8
+[13-Jan-2022 22:07:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConsoleMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConsoleMakeCommand.php on line 9
+[13-Jan-2022 22:07:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/DownCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/DownCommand.php on line 11
+[13-Jan-2022 22:07:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EnvironmentCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EnvironmentCommand.php on line 7
+[13-Jan-2022 22:07:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventCacheCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventCacheCommand.php on line 8
+[13-Jan-2022 22:07:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventClearCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventClearCommand.php on line 8
+[13-Jan-2022 22:07:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventGenerateCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventGenerateCommand.php on line 9
+[13-Jan-2022 22:07:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventListCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventListCommand.php on line 9
+[13-Jan-2022 22:07:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/EventMakeCommand.php on line 7
+[13-Jan-2022 22:07:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ExceptionMakeCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ExceptionMakeCommand.php on line 8
+[13-Jan-2022 22:07:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/JobMakeCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/JobMakeCommand.php on line 8
+[13-Jan-2022 22:08:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Console\Kernel' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php on line 20
+[13-Jan-2022 22:08:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/KeyGenerateCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/KeyGenerateCommand.php on line 9
+[13-Jan-2022 22:08:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ListenerMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ListenerMakeCommand.php on line 9
+[13-Jan-2022 22:08:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/MailMakeCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/MailMakeCommand.php on line 8
+[13-Jan-2022 22:08:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ModelMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ModelMakeCommand.php on line 9
+[13-Jan-2022 22:08:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/NotificationMakeCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/NotificationMakeCommand.php on line 8
+[13-Jan-2022 22:08:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ObserverMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ObserverMakeCommand.php on line 9
+[13-Jan-2022 22:08:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeClearCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeClearCommand.php on line 7
+[13-Jan-2022 22:08:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/OptimizeCommand.php on line 7
+[13-Jan-2022 22:08:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/PackageDiscoverCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/PackageDiscoverCommand.php on line 8
+[13-Jan-2022 22:09:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/PolicyMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/PolicyMakeCommand.php on line 10
+[13-Jan-2022 22:09:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ProviderMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ProviderMakeCommand.php on line 7
+[13-Jan-2022 22:09:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Queue\ShouldQueue' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/QueuedCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/QueuedCommand.php on line 10
+[13-Jan-2022 22:09:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RequestMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RequestMakeCommand.php on line 7
+[13-Jan-2022 22:09:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ResourceMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ResourceMakeCommand.php on line 9
+[13-Jan-2022 22:09:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteCacheCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteCacheCommand.php on line 10
+[13-Jan-2022 22:09:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteClearCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteClearCommand.php on line 8
+[13-Jan-2022 22:09:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteListCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RouteListCommand.php on line 13
+[13-Jan-2022 22:09:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RuleMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/RuleMakeCommand.php on line 7
+[13-Jan-2022 22:10:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ServeCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ServeCommand.php on line 11
+[13-Jan-2022 22:10:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/StorageLinkCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/StorageLinkCommand.php on line 7
+[13-Jan-2022 22:10:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/StubPublishCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/StubPublishCommand.php on line 8
+[13-Jan-2022 22:10:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/TestMakeCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/TestMakeCommand.php on line 9
+[13-Jan-2022 22:10:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/UpCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/UpCommand.php on line 8
+[13-Jan-2022 22:10:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/VendorPublishCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/VendorPublishCommand.php on line 14
+[13-Jan-2022 22:10:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ViewCacheCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ViewCacheCommand.php on line 10
+[13-Jan-2022 22:11:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ViewClearCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Console/ViewClearCommand.php on line 9

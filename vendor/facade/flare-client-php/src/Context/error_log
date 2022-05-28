@@ -1,0 +1,24 @@
+[07-Jan-2022 14:16:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facade\FlareClient\Context\ContextInterface' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/ConsoleContext.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/ConsoleContext.php on line 5
+[07-Jan-2022 14:16:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facade\FlareClient\Context\ContextDetectorInterface' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/ContextContextDetector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/ContextContextDetector.php on line 5
+[07-Jan-2022 14:16:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facade\FlareClient\Context\ContextInterface' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/RequestContext.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/RequestContext.php on line 12
+[12-Jan-2022 15:42:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facade\FlareClient\Context\ContextInterface' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/ConsoleContext.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/ConsoleContext.php on line 5
+[12-Jan-2022 15:42:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facade\FlareClient\Context\ContextDetectorInterface' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/ContextContextDetector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/ContextContextDetector.php on line 5
+[12-Jan-2022 15:42:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facade\FlareClient\Context\ContextInterface' not found in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/RequestContext.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/flare-client-php/src/Context/RequestContext.php on line 12

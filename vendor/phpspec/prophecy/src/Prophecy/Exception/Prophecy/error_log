@@ -1,0 +1,24 @@
+[08-Jan-2022 19:35:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Exception\Prophecy\ObjectProphecyException' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/MethodProphecyException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/MethodProphecyException.php on line 16
+[08-Jan-2022 19:35:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Exception\Prophecy\ProphecyException' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/ObjectProphecyException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/ObjectProphecyException.php on line 16
+[08-Jan-2022 19:36:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Exception\Exception' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/ProphecyException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/ProphecyException.php on line 16
+[13-Jan-2022 08:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Exception\Prophecy\ObjectProphecyException' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/MethodProphecyException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/MethodProphecyException.php on line 16
+[13-Jan-2022 08:52:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Exception\Prophecy\ProphecyException' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/ObjectProphecyException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/ObjectProphecyException.php on line 16
+[13-Jan-2022 08:52:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Prophecy\Exception\Exception' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/ProphecyException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Exception/Prophecy/ProphecyException.php on line 16

@@ -1,0 +1,64 @@
+[09-Jan-2022 13:33:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Class_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Class_.php on line 7
+[09-Jan-2022 13:33:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Dir.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Dir.php on line 7
+[09-Jan-2022 13:33:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/File.php on line 7
+[09-Jan-2022 13:33:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Function_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Function_.php on line 7
+[09-Jan-2022 13:33:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Line.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Line.php on line 7
+[09-Jan-2022 13:33:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Method.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Method.php on line 7
+[09-Jan-2022 13:33:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Namespace_.php on line 7
+[09-Jan-2022 13:33:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Trait_.php on line 7
+[13-Jan-2022 21:13:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Class_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Class_.php on line 7
+[13-Jan-2022 21:13:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Dir.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Dir.php on line 7
+[13-Jan-2022 21:13:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/File.php on line 7
+[13-Jan-2022 21:13:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Function_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Function_.php on line 7
+[13-Jan-2022 21:13:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Line.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Line.php on line 7
+[13-Jan-2022 21:13:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Method.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Method.php on line 7
+[13-Jan-2022 21:14:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Namespace_.php on line 7
+[13-Jan-2022 21:14:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar\MagicConst' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Trait_.php on line 7

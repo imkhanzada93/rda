@@ -1,0 +1,24 @@
+[07-Jan-2022 13:31:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\Exception\ConfigurationExceptionInterface' not found in /home/bookvxos/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[07-Jan-2022 13:31:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\Exception\ConfigurationExceptionInterface' not found in /home/bookvxos/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[07-Jan-2022 13:31:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\Config\Exception\InvalidConfigurationException' not found in /home/bookvxos/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18
+[13-Jan-2022 10:51:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\Exception\ConfigurationExceptionInterface' not found in /home/bookvxos/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[13-Jan-2022 10:51:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\Exception\ConfigurationExceptionInterface' not found in /home/bookvxos/public_html/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[13-Jan-2022 10:51:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\Config\Exception\InvalidConfigurationException' not found in /home/bookvxos/public_html/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/Exception/ValidationException.php on line 18

@@ -1,0 +1,24 @@
+[08-Jan-2022 20:56:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Extension\CommonMark\Node\Block\ListBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[08-Jan-2022 20:56:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[11-Jan-2022 21:14:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Extension\CommonMark\Node\Block\ListBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[11-Jan-2022 21:14:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[14-Jan-2022 04:01:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Extension\CommonMark\Node\Block\ListBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[14-Jan-2022 04:02:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Node\Block\AbstractBlock' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18

@@ -1,0 +1,32 @@
+[08-Jan-2022 04:45:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Error\Error' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Deprecated.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Deprecated.php on line 15
+[08-Jan-2022 04:45:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Error.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Error.php on line 17
+[08-Jan-2022 04:45:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Error\Error' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Notice.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Notice.php on line 15
+[08-Jan-2022 04:45:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Error\Error' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Warning.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Warning.php on line 15
+[12-Jan-2022 19:25:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Error\Error' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Deprecated.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Deprecated.php on line 15
+[12-Jan-2022 19:25:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Error.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Error.php on line 17
+[12-Jan-2022 19:25:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Error\Error' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Notice.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Notice.php on line 15
+[12-Jan-2022 19:25:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Error\Error' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Warning.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Error/Warning.php on line 15

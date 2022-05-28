@@ -1,0 +1,24 @@
+[08-Jan-2022 22:08:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Address' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/Address.php on line 5
+[08-Jan-2022 22:08:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Company' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/Company.php on line 5
+[08-Jan-2022 22:08:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Miscellaneous' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/Miscellaneous.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/Miscellaneous.php on line 5
+[08-Jan-2022 22:08:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Payment' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/Payment.php on line 5
+[08-Jan-2022 22:08:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\Person' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/Person.php on line 7
+[08-Jan-2022 22:08:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Faker\Provider\PhoneNumber' not found in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/fakerphp/faker/src/Faker/Provider/ms_MY/PhoneNumber.php on line 5

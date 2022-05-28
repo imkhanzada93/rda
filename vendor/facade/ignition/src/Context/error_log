@@ -1,0 +1,24 @@
+[07-Jan-2022 14:23:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Context\ConsoleContext' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelConsoleContext.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelConsoleContext.php on line 7
+[07-Jan-2022 14:23:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facade\FlareClient\Context\ContextDetectorInterface' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelContextDetector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelContextDetector.php on line 9
+[07-Jan-2022 14:23:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Context\RequestContext' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelRequestContext.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelRequestContext.php on line 9
+[12-Jan-2022 15:47:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Context\ConsoleContext' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelConsoleContext.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelConsoleContext.php on line 7
+[12-Jan-2022 15:47:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facade\FlareClient\Context\ContextDetectorInterface' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelContextDetector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelContextDetector.php on line 9
+[12-Jan-2022 15:47:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Context\RequestContext' not found in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelRequestContext.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/facade/ignition/src/Context/LaravelRequestContext.php on line 9

@@ -1,0 +1,56 @@
+[07-Jan-2022 11:33:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/AbstractMatcherTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/AbstractMatcherTest.php on line 9
+[07-Jan-2022 11:33:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/BaseMatcherTest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/BaseMatcherTest.php on line 5
+[07-Jan-2022 11:33:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\FeatureMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/FeatureMatcherTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/FeatureMatcherTest.php on line 18
+[07-Jan-2022 11:33:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/InvokedMatcherTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/InvokedMatcherTest.php on line 6
+[07-Jan-2022 11:33:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/MatcherAssertTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/MatcherAssertTest.php on line 6
+[07-Jan-2022 11:33:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Hamcrest\SelfDescribing' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/StringDescriptionTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/StringDescriptionTest.php on line 6
+[07-Jan-2022 11:33:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/UtilTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/UtilTest.php on line 6
+[12-Jan-2022 14:35:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/AbstractMatcherTest.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/AbstractMatcherTest.php on line 9
+[12-Jan-2022 14:35:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/BaseMatcherTest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/BaseMatcherTest.php on line 5
+[12-Jan-2022 14:36:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\FeatureMatcher' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/FeatureMatcherTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/FeatureMatcherTest.php on line 18
+[12-Jan-2022 14:36:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\BaseMatcherTest' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/InvokedMatcherTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/InvokedMatcherTest.php on line 6
+[12-Jan-2022 14:36:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/MatcherAssertTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/MatcherAssertTest.php on line 6
+[12-Jan-2022 14:36:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Hamcrest\SelfDescribing' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/StringDescriptionTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/StringDescriptionTest.php on line 6
+[12-Jan-2022 14:36:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/UtilTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/hamcrest/hamcrest-php/tests/Hamcrest/UtilTest.php on line 6

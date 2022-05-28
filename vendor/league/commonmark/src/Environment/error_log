@@ -1,0 +1,24 @@
+[07-Jan-2022 13:21:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Environment\EnvironmentInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/Environment.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/Environment.php on line 45
+[07-Jan-2022 13:22:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\ConfigurationProviderInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 27
+[07-Jan-2022 13:22:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\ConfigurationProviderInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[13-Jan-2022 10:07:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Environment\EnvironmentInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/Environment.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/Environment.php on line 45
+[13-Jan-2022 10:08:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\ConfigurationProviderInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 27
+[13-Jan-2022 10:08:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\ConfigurationProviderInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26

@@ -1,0 +1,184 @@
+[08-Jan-2022 19:40:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php on line 15
+[08-Jan-2022 19:40:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php on line 17
+[08-Jan-2022 19:41:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php on line 17
+[08-Jan-2022 19:41:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ClassAlreadyExistsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ClassAlreadyExistsException.php on line 17
+[08-Jan-2022 19:41:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ClassIsFinalException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ClassIsFinalException.php on line 17
+[08-Jan-2022 19:41:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ConfigurableMethodsAlreadyInitializedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ConfigurableMethodsAlreadyInitializedException.php on line 15
+[08-Jan-2022 19:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/DuplicateMethodException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/DuplicateMethodException.php on line 17
+[08-Jan-2022 19:41:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php on line 17
+[08-Jan-2022 19:41:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/InvalidMethodNameException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/InvalidMethodNameException.php on line 17
+[08-Jan-2022 19:41:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php on line 17
+[08-Jan-2022 19:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php on line 17
+[08-Jan-2022 19:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php on line 17
+[08-Jan-2022 19:41:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php on line 15
+[08-Jan-2022 19:41:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php on line 15
+[08-Jan-2022 19:41:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php on line 15
+[08-Jan-2022 19:41:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/OriginalConstructorInvocationRequiredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/OriginalConstructorInvocationRequiredException.php on line 15
+[08-Jan-2022 19:41:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php on line 17
+[08-Jan-2022 19:41:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php on line 15
+[08-Jan-2022 19:41:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php on line 15
+[08-Jan-2022 19:41:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/SoapExtensionNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/SoapExtensionNotAvailableException.php on line 15
+[08-Jan-2022 19:41:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownClassException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownClassException.php on line 17
+[08-Jan-2022 19:41:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownTraitException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownTraitException.php on line 17
+[08-Jan-2022 19:41:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownTypeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownTypeException.php on line 17
+[13-Jan-2022 04:40:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php on line 15
+[13-Jan-2022 04:40:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php on line 17
+[13-Jan-2022 04:40:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php on line 17
+[13-Jan-2022 04:40:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ClassAlreadyExistsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ClassAlreadyExistsException.php on line 17
+[13-Jan-2022 04:40:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ClassIsFinalException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ClassIsFinalException.php on line 17
+[13-Jan-2022 04:40:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ConfigurableMethodsAlreadyInitializedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ConfigurableMethodsAlreadyInitializedException.php on line 15
+[13-Jan-2022 04:40:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/DuplicateMethodException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/DuplicateMethodException.php on line 17
+[13-Jan-2022 04:40:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php on line 17
+[13-Jan-2022 04:40:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/InvalidMethodNameException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/InvalidMethodNameException.php on line 17
+[13-Jan-2022 04:40:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php on line 17
+[13-Jan-2022 04:40:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php on line 17
+[13-Jan-2022 04:40:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php on line 17
+[13-Jan-2022 04:40:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php on line 15
+[13-Jan-2022 04:40:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php on line 15
+[13-Jan-2022 04:40:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php on line 15
+[13-Jan-2022 04:40:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/OriginalConstructorInvocationRequiredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/OriginalConstructorInvocationRequiredException.php on line 15
+[13-Jan-2022 04:40:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php on line 17
+[13-Jan-2022 04:40:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php on line 15
+[13-Jan-2022 04:40:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php on line 15
+[13-Jan-2022 04:41:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/SoapExtensionNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/SoapExtensionNotAvailableException.php on line 15
+[13-Jan-2022 04:41:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownClassException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownClassException.php on line 17
+[13-Jan-2022 04:41:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownTraitException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownTraitException.php on line 17
+[13-Jan-2022 04:41:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Exception' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownTypeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/UnknownTypeException.php on line 17

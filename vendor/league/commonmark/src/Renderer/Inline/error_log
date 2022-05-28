@@ -1,0 +1,16 @@
+[08-Jan-2022 11:29:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Renderer/Inline/NewlineRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Renderer/Inline/NewlineRenderer.php on line 27
+[08-Jan-2022 11:29:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Renderer/Inline/TextRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Renderer/Inline/TextRenderer.php on line 26
+[13-Jan-2022 20:05:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Renderer/Inline/NewlineRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Renderer/Inline/NewlineRenderer.php on line 27
+[13-Jan-2022 20:05:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\CommonMark\Renderer\NodeRendererInterface' not found in /home/bookvxos/public_html/vendor/league/commonmark/src/Renderer/Inline/TextRenderer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/commonmark/src/Renderer/Inline/TextRenderer.php on line 26

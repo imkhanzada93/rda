@@ -1,0 +1,20 @@
+[06-Jan-2022 09:53:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/bookvxos/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Kernel.php on line 7
+[11-Jan-2022 08:52:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/bookvxos/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Kernel.php on line 7
+[22-Jan-2022 20:22:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/bookvxos/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Kernel.php on line 7
+[22-Jan-2022 22:20:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/bookvxos/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Kernel.php on line 7
+[23-Jan-2022 11:27:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/bookvxos/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/app/Http/Kernel.php on line 7

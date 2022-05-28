@@ -1,0 +1,96 @@
+[07-Jan-2022 05:51:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/CallableType.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/CallableType.php on line 26
+[07-Jan-2022 05:51:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/FalseType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/FalseType.php on line 12
+[07-Jan-2022 05:51:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/GenericObjectType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/GenericObjectType.php on line 12
+[07-Jan-2022 05:51:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/IterableType.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/IterableType.php on line 18
+[07-Jan-2022 05:51:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/MixedType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/MixedType.php on line 12
+[07-Jan-2022 05:51:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/NullType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/NullType.php on line 12
+[07-Jan-2022 05:51:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/ObjectType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/ObjectType.php on line 15
+[07-Jan-2022 05:51:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/SimpleType.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/SimpleType.php on line 14
+[07-Jan-2022 05:51:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/StaticType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/StaticType.php on line 12
+[07-Jan-2022 05:52:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/UnionType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/UnionType.php on line 16
+[07-Jan-2022 05:52:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/UnknownType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/UnknownType.php on line 12
+[07-Jan-2022 05:52:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/VoidType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/VoidType.php on line 12
+[12-Jan-2022 07:26:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/CallableType.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/CallableType.php on line 26
+[12-Jan-2022 07:26:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/FalseType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/FalseType.php on line 12
+[12-Jan-2022 07:26:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/GenericObjectType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/GenericObjectType.php on line 12
+[12-Jan-2022 07:26:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/IterableType.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/IterableType.php on line 18
+[12-Jan-2022 07:26:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/MixedType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/MixedType.php on line 12
+[12-Jan-2022 07:26:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/NullType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/NullType.php on line 12
+[12-Jan-2022 07:26:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/ObjectType.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/ObjectType.php on line 15
+[12-Jan-2022 07:26:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/SimpleType.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/SimpleType.php on line 14
+[12-Jan-2022 07:26:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/StaticType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/StaticType.php on line 12
+[12-Jan-2022 07:26:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/UnionType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/UnionType.php on line 16
+[12-Jan-2022 07:26:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/UnknownType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/UnknownType.php on line 12
+[12-Jan-2022 07:26:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Type\Type' not found in /home/bookvxos/public_html/vendor/sebastian/type/src/VoidType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/type/src/VoidType.php on line 12

@@ -1,0 +1,8 @@
+[07-Jan-2022 13:44:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Logger.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Logger.php on line 33
+[13-Jan-2022 11:09:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerInterface' not found in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Logger.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/monolog/monolog/src/Monolog/Logger.php on line 33

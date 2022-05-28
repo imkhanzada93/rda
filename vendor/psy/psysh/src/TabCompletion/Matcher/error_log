@@ -1,0 +1,136 @@
+[08-Jan-2022 03:04:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[08-Jan-2022 03:05:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[08-Jan-2022 03:05:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[08-Jan-2022 04:52:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[08-Jan-2022 04:52:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[08-Jan-2022 04:52:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[08-Jan-2022 04:52:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[08-Jan-2022 04:52:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[08-Jan-2022 04:52:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[08-Jan-2022 04:52:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[08-Jan-2022 04:52:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[08-Jan-2022 04:52:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[08-Jan-2022 04:52:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[08-Jan-2022 04:52:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[08-Jan-2022 04:53:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[08-Jan-2022 04:53:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[08-Jan-2022 04:53:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[12-Jan-2022 21:06:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[12-Jan-2022 21:06:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[12-Jan-2022 21:06:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[12-Jan-2022 21:06:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[12-Jan-2022 21:06:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[12-Jan-2022 21:06:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[12-Jan-2022 21:06:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[12-Jan-2022 21:06:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[12-Jan-2022 21:07:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[12-Jan-2022 21:07:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[12-Jan-2022 21:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[12-Jan-2022 21:07:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[12-Jan-2022 21:07:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[12-Jan-2022 21:07:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[12-Jan-2022 21:07:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[12-Jan-2022 21:07:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[12-Jan-2022 21:07:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Psy\TabCompletion\Matcher\AbstractContextAwareMatcher' not found in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21

@@ -1,0 +1,8 @@
+[08-Jan-2022 04:05:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php on line 16
+[13-Jan-2022 06:22:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php on line 16

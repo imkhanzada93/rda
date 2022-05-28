@@ -1,0 +1,16 @@
+[07-Jan-2022 07:43:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Extractor\ExtractorInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[07-Jan-2022 07:43:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Extractor\AbstractFileExtractor' not found in /home/bookvxos/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 22
+[11-Jan-2022 21:49:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Symfony\Component\Translation\Extractor\ExtractorInterface' not found in /home/bookvxos/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[11-Jan-2022 21:49:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Extractor\AbstractFileExtractor' not found in /home/bookvxos/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/translation/Extractor/PhpExtractor.php on line 22

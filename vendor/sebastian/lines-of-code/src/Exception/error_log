@@ -1,0 +1,24 @@
+[07-Jan-2022 15:14:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\LinesOfCode\Exception' not found in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[07-Jan-2022 15:14:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\LinesOfCode\Exception' not found in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[07-Jan-2022 15:14:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\LinesOfCode\Exception' not found in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[12-Jan-2022 21:18:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\LinesOfCode\Exception' not found in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[12-Jan-2022 21:18:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\LinesOfCode\Exception' not found in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[12-Jan-2022 21:18:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'SebastianBergmann\LinesOfCode\Exception' not found in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12

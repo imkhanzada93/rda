@@ -1,0 +1,8 @@
+[07-Jan-2022 07:13:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'phpDocumentor\Reflection\DocBlockFactoryInterface' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 35
+[11-Jan-2022 18:41:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'phpDocumentor\Reflection\DocBlockFactoryInterface' not found in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 35

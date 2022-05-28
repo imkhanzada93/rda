@@ -1,0 +1,8 @@
+[08-Jan-2022 11:34:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Instantiator\InstantiatorInterface' not found in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php on line 21
+[13-Jan-2022 08:31:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Doctrine\Instantiator\InstantiatorInterface' not found in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/doctrine/instantiator/src/Doctrine/Instantiator/Instantiator.php on line 21

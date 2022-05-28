@@ -1,0 +1,8 @@
+[08-Jan-2022 04:41:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Doubler\Doubler' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/CachedDoubler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/CachedDoubler.php on line 22
+[12-Jan-2022 23:20:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Prophecy\Doubler\Doubler' not found in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/CachedDoubler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpspec/prophecy/src/Prophecy/Doubler/CachedDoubler.php on line 22

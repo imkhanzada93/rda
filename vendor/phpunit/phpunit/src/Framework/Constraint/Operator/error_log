@@ -1,0 +1,56 @@
+[08-Jan-2022 19:38:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Operator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 19
+[08-Jan-2022 19:38:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\BinaryOperator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[08-Jan-2022 19:38:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\UnaryOperator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 21
+[08-Jan-2022 19:38:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\BinaryOperator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[08-Jan-2022 19:38:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\BinaryOperator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 18
+[08-Jan-2022 19:38:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[08-Jan-2022 19:38:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Operator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[13-Jan-2022 04:36:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Operator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 19
+[13-Jan-2022 04:36:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\BinaryOperator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[13-Jan-2022 04:36:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\UnaryOperator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 21
+[13-Jan-2022 04:36:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\BinaryOperator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[13-Jan-2022 04:36:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\BinaryOperator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 18
+[13-Jan-2022 04:37:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[13-Jan-2022 04:37:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Operator' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17

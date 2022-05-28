@@ -1,0 +1,8 @@
+[09-Jan-2022 05:33:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Doctrine\DBAL\Types\Type' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php on line 9
+[13-Jan-2022 22:29:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Doctrine\DBAL\Types\Type' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php on line 9

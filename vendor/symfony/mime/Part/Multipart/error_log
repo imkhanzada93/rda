@@ -1,0 +1,40 @@
+[07-Jan-2022 14:39:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractMultipartPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/AlternativePart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/AlternativePart.php on line 19
+[07-Jan-2022 14:39:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractMultipartPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/DigestPart.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/DigestPart.php on line 20
+[07-Jan-2022 14:39:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractMultipartPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/FormDataPart.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/FormDataPart.php on line 24
+[07-Jan-2022 14:39:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractMultipartPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/MixedPart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/MixedPart.php on line 19
+[07-Jan-2022 14:40:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractMultipartPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/RelatedPart.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/RelatedPart.php on line 20
+[12-Jan-2022 15:12:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractMultipartPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/AlternativePart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/AlternativePart.php on line 19
+[12-Jan-2022 15:12:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractMultipartPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/DigestPart.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/DigestPart.php on line 20
+[12-Jan-2022 15:12:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractMultipartPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/FormDataPart.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/FormDataPart.php on line 24
+[12-Jan-2022 15:12:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractMultipartPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/MixedPart.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/MixedPart.php on line 19
+[12-Jan-2022 15:12:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Mime\Part\AbstractMultipartPart' not found in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/RelatedPart.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/symfony/mime/Part/Multipart/RelatedPart.php on line 20

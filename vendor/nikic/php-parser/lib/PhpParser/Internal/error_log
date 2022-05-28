@@ -1,0 +1,8 @@
+[08-Jan-2022 04:11:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php on line 18
+[12-Jan-2022 23:05:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php on line 18

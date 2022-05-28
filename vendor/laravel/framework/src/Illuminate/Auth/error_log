@@ -1,0 +1,64 @@
+[08-Jan-2022 11:18:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\Factory' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php on line 9
+[08-Jan-2022 11:18:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php on line 13
+[08-Jan-2022 11:18:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\UserProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/DatabaseUserProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/DatabaseUserProvider.php on line 12
+[08-Jan-2022 11:18:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\UserProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php on line 11
+[08-Jan-2022 11:18:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\Authenticatable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/GenericUser.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/GenericUser.php on line 7
+[08-Jan-2022 11:19:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\Guard' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/RequestGuard.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/RequestGuard.php on line 10
+[08-Jan-2022 11:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\StatefulGuard' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php on line 29
+[08-Jan-2022 11:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\Guard' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/TokenGuard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/TokenGuard.php on line 9
+[13-Jan-2022 00:02:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\Factory' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php on line 9
+[13-Jan-2022 00:02:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/AuthServiceProvider.php on line 13
+[13-Jan-2022 00:02:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\UserProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/DatabaseUserProvider.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/DatabaseUserProvider.php on line 12
+[13-Jan-2022 00:02:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\UserProvider' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php on line 11
+[13-Jan-2022 00:02:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\Authenticatable' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/GenericUser.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/GenericUser.php on line 7
+[13-Jan-2022 00:02:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\Guard' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/RequestGuard.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/RequestGuard.php on line 10
+[13-Jan-2022 00:02:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\StatefulGuard' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/SessionGuard.php on line 29
+[13-Jan-2022 00:02:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Auth\Guard' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/TokenGuard.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Auth/TokenGuard.php on line 9

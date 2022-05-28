@@ -1,0 +1,24 @@
+[07-Jan-2022 07:02:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\ConfigurationBuilderInterface' not found in /home/bookvxos/public_html/vendor/league/config/src/Configuration.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/Configuration.php on line 27
+[07-Jan-2022 07:03:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\MutableConfigurationInterface' not found in /home/bookvxos/public_html/vendor/league/config/src/ConfigurationBuilderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/ConfigurationBuilderInterface.php on line 19
+[07-Jan-2022 07:03:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\ConfigurationInterface' not found in /home/bookvxos/public_html/vendor/league/config/src/ReadOnlyConfiguration.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/ReadOnlyConfiguration.php on line 19
+[12-Jan-2022 08:31:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\ConfigurationBuilderInterface' not found in /home/bookvxos/public_html/vendor/league/config/src/Configuration.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/Configuration.php on line 27
+[12-Jan-2022 08:31:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\MutableConfigurationInterface' not found in /home/bookvxos/public_html/vendor/league/config/src/ConfigurationBuilderInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/ConfigurationBuilderInterface.php on line 19
+[12-Jan-2022 08:31:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'League\Config\ConfigurationInterface' not found in /home/bookvxos/public_html/vendor/league/config/src/ReadOnlyConfiguration.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/league/config/src/ReadOnlyConfiguration.php on line 19

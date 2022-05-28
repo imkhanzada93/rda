@@ -1,0 +1,40 @@
+[08-Jan-2022 04:47:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\SelfDescribing' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Invocation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Invocation.php on line 30
+[08-Jan-2022 04:47:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MethodNameConstraint.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MethodNameConstraint.php on line 20
+[08-Jan-2022 04:47:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\MockType' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockClass.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockClass.php on line 18
+[08-Jan-2022 04:47:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\Stub' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockObject.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockObject.php on line 20
+[08-Jan-2022 04:47:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\MockType' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockTrait.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockTrait.php on line 17
+[12-Jan-2022 19:30:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\SelfDescribing' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Invocation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/Invocation.php on line 30
+[12-Jan-2022 19:30:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MethodNameConstraint.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MethodNameConstraint.php on line 20
+[12-Jan-2022 19:30:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\MockType' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockClass.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockClass.php on line 18
+[12-Jan-2022 19:31:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\Stub' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockObject.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockObject.php on line 20
+[12-Jan-2022 19:31:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'PHPUnit\Framework\MockObject\MockType' not found in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockTrait.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/phpunit/phpunit/src/Framework/MockObject/MockTrait.php on line 17

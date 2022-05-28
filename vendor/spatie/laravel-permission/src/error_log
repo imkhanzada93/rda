@@ -1,0 +1,8 @@
+[07-Jan-2022 05:53:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/PermissionServiceProvider.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/PermissionServiceProvider.php on line 13
+[11-Jan-2022 22:45:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/PermissionServiceProvider.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/spatie/laravel-permission/src/PermissionServiceProvider.php on line 13

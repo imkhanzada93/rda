@@ -1,0 +1,4 @@
+[09-Jan-2022 03:30:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Illuminate\Contracts\Broadcasting\ShouldBroadcast' not found in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Broadcasting/ShouldBroadcastNow.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bookvxos/public_html/vendor/laravel/framework/src/Illuminate/Contracts/Broadcasting/ShouldBroadcastNow.php on line 5
