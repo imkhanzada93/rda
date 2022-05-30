@@ -113,12 +113,11 @@
 				<div class="row">
 					<div class="col-lg-12">
 						<p class="inr">
-							Welcome to the Roshan Digital Account Insurance Marketplace. We are pleased to announce an unprecedented Insurance Plan that is custom built to completely suit your needs.
+							Welcome to Insure Karo, an unprecedented Marketplace for Overseas Pakistanis. Whether you are looking for coverage for your parents or your spouse and children, we have a product to help you keep your family safe and secure.
 						</p>
 						<p class="inr">
-							Whether you are looking for coverage for your parents or your spouse and children, we have a product to help you keep your family safe and secure.
+							Our state-of-the-art product offers coverage that includes Hospitalization Enhancement, Pre-Existing Medical Coverage, Hepatitis B &amp; C Coverage, Specialist Investigation for Outpatients and much more.
 						</p>
-						<p class="inr">Our state-of-the-art product offers coverage that includes Hospitalization Enhancement, Pre-Existing Medical Coverage, Hepatitis B & C Coverage, Specialist Investigation for Outpatients and much more.</p>
 					</div>
 				</div>
 			</div>
