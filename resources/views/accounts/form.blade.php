@@ -212,7 +212,7 @@
                                  @foreach(get_list('plan_categories') as $key => $plan_category)
                                  <div class="col-md-2">
                                     <div class="button-bx">
-                                       <input type="radio" class="btn-check" id="btncheckPC{{ $key }}" autocomplete="off" value="{{ $plan_category->id }}" name="plan" @if($key == 0) checked @endif>
+                                       <input type="radio" class="btn-check" id="btncheckPC{{ $key }}" autocomplete="off" value="{{ $plan_category->id }}" name="plan" @if($key == 0) checked @endif onchange="change_plan({{ $plan_category->id }})">
                                        <label class="btn btn-cstm add" for="btncheckPC{{ $key }}">
                                           <img src="{{ asset('storage/'.$plan_category->image) }}">
                                           <h3>{{ $plan_category->name }}</h3>
@@ -222,7 +222,7 @@
                                  @endforeach                                        
                                  <div class="col-md-12 mt-5">
                                     @foreach(get_list('plan_categories') as $key => $plan_category)
-                                    <div class="list-box" id="{{ $plan_category->id }}" style="display: @if($key == 0)  inherit;@else none; @endif">
+                                    <div class="list-box" id="plan_detail{{ $plan_category->id }}" style="display: @if($key == 0)  inherit;@else none; @endif">
                                        <div class="mb-5">
                                           <h1 class="text-center">{{ $plan_category->name }}</h1>
                                        </div>
@@ -243,8 +243,8 @@
                                                             @endforeach
                                                          </ul>
                                                          <div class="">
-                                                            <input type="radio" class="btn-check" id="plan_{{ $plan->id }}" amount="{{ $plan->amount }}" value="{{ $plan->id }}" autocomplete="off" name="plan" @if($plan_key == 0) checked @endif>
-                                                            <label onclick="changeAmt()" class="btn btn-next btn btn-primary" for="plan_{{ $plan->id }}">
+                                                            <input type="radio" class="btn-check" id="plan_{{ $plan->id }}" amount="{{ $plan->amount }}" value="{{ $plan->id }}" onchange="changeAmt()" autocomplete="off" name="plan" @if($plan_key == 0) checked @endif>
+                                                            <label class="btn btn-next btn btn-primary" for="plan_{{ $plan->id }}">
                                                                   Select
                                                             </label>
                                                          </div>                                                      
@@ -809,9 +809,16 @@
 			
 			function changeAmt() {
 			var plan_amount = $('input[name="plan"]:checked').attr('amount');
+         alert(plan_amount)
 			$('#plan_amount').text(plan_amount);
 			$('#total_amount').text(plan_amount);
 			}
+
+         function change_plan(display_id){
+            $('.list-box').css('display', 'none');
+            console.log(display_id)
+            $('#plan_detail'+display_id).css('display', 'inherit');
+         }
 		</script>
 	</body>
 </html>
