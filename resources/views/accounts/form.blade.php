@@ -76,32 +76,32 @@
     </script>
     <style>
         .btn-next i {
-			position: relative;
-			top: 3px;
+            position: relative;
+            top: 3px;
         }
         a.btn-next {
-			color: #fff;
-			background-color: #e52b2a;
-			border-color: #e52b2a;
-			text-decoration: none;
-			height: 45px;
-			display: block;
-			padding: 7px;
-			font-size: 18px;
-			border-radius: 7px;
-			margin: 0px auto;
+   			color: #fff;
+   			background-color: #e52b2a;
+   			border-color: #e52b2a;
+   			text-decoration: none;
+   			height: 45px;
+   			display: block;
+   			padding: 7px;
+   			font-size: 18px;
+   			border-radius: 7px;
+   			margin: 0px auto;
         }
         .nxt-sc {
-			padding-top: 55px;
-			display: flex;
-			align-items: center;
-			justify-content: space-evenly;
-			width: 30%;
-			margin: 0px auto;
+   			padding-top: 55px;
+   			display: flex;
+   			align-items: center;
+   			justify-content: space-evenly;
+   			width: 30%;
+   			margin: 0px auto;
         }
         .plans {
-			align-items: center;
-			justify-content: center;
+   			align-items: center;
+   			justify-content: center;
         }
     </style>
 </head>
@@ -652,8 +652,6 @@
 					customTxt.innerHTML = "No file chosen, yet.";
 				}
 			});
-			
-			
 		</script>
 		<script type="text/javascript">
 			var realFileBtn_2 = document.getElementById("real-file_2");
@@ -671,8 +669,6 @@
 					customTxt_2.innerHTML = "No file chosen, yet.";
 				}
 			});
-			
-			
 		</script>
 		<script type="text/javascript">
 			var realFileBtn_3 = document.getElementById("real-file_3");
@@ -690,8 +686,6 @@
 					customTxt_3.innerHTML = "No file chosen, yet.";
 				}
 			});
-			
-			
 		</script>
 		<script type="text/javascript">
 			var realFileBtn_4 = document.getElementById("real-file_4");
@@ -709,16 +703,14 @@
 					customTxt_4.innerHTML = "No file chosen, yet.";
 				}
 			});
-			
-			
 		</script>
 		<script type="text/javascript">
 			$( "#nxt" ).click(function() {
-			$( "#pills-home-tab" ).click();
+			   $( "#pills-home-tab" ).click();
 			});
 			
 			$( "#back" ).click(function() {
-			$( "#pills-profile-tab" ).click();
+			   $( "#pills-profile-tab" ).click();
 			});
 				
 			$( "#nxt_2" ).click(function() {
@@ -726,7 +718,7 @@
 			});
 			
 			$( "#back_3" ).click(function() {
-			$( "#pills-home-tab" ).click();
+			   $( "#pills-home-tab" ).click();
 			});
 			
 			$( "#nxt_3" ).click(function() {
@@ -734,20 +726,20 @@
 			});    
 			
 			$( "#nxt_4" ).click(function() {
-			$.ajax({
-				url: "{{ url('client/store') }}",
-				type: 'POST',
-				data: {
-					full_name: $('input[name="full_name"]').val(),
-					cnic: $('input[name="cnic"]').val(),
-					rda_account_number: $('input[name="rda_account_number"]').val(),
-					email: $('input[name="email"]').val(),
-					_token: $('input[name="_token"]').val()
-				},
-				success: function (result) {
-					console.log(result)
-				}
-			})
+   			$.ajax({
+   				url: "{{ url('client/store') }}",
+   				type: 'POST',
+   				data: {
+   					full_name: $('input[name="full_name"]').val(),
+   					cnic: $('input[name="cnic"]').val(),
+   					rda_account_number: $('input[name="rda_account_number"]').val(),
+   					email: $('input[name="email"]').val(),
+   					_token: $('input[name="_token"]').val()
+   				},
+   				success: function (result) {
+   					console.log(result)
+   				}
+   			})
 				$( "#pills-step5-tab" ).click();
 			});
 			
@@ -770,48 +762,46 @@
 				var forms = document.querySelectorAll('.needs-validation')
 				
 				// Loop over them and prevent submission
-				Array.prototype.slice.call(forms)
-				.forEach(function (form) {
-				form.addEventListener('submit', function (event) {
-				if (!form.checkValidity()) {
-				event.preventDefault()
-				event.stopPropagation()
-				}
-				
-				form.classList.add('was-validated')
-				}, false)
+				Array.prototype.slice.call(forms).forEach(function (form) {
+   				form.addEventListener('submit', function (event) {
+      				if (!form.checkValidity()) {
+         				event.preventDefault()
+         				event.stopPropagation()
+      				}
+      				
+      				form.classList.add('was-validated')
+   				}, false)
 				})
 			})()
 		</script>
 		<script>
 			$(document).ready(function() {
-			$('#coupon_btn').click(function() {
-			var total_amount = $('#total_amount').text();
-			$.ajax({
-				url: "{{ url('coupon/validate-coupon') }}",
-				type: 'POST',
-				data: {
-					coupon: $('#coupon').val(),
-					total_amount: total_amount,
-					_token: $('input[name="_token"]').val()
-				},
-				success: function (result) {
-					var response = JSON.parse(result);
-					$('#coupon_msg').text(response.message)
-					if(response.code == 1){
-						$('#discount_amount').text(response.discount);
-						$('#total_amount').text(response.total_amount);
-					}
-				}
-			})
-			})
+   			$('#coupon_btn').click(function() {
+      			var total_amount = $('#total_amount').text();
+      			$.ajax({
+      				url: "{{ url('coupon/validate-coupon') }}",
+      				type: 'POST',
+      				data: {
+      					coupon: $('#coupon').val(),
+      					total_amount: total_amount,
+      					_token: $('input[name="_token"]').val()
+      				},
+      				success: function (result) {
+      					var response = JSON.parse(result);
+      					$('#coupon_msg').text(response.message)
+      					if(response.code == 1){
+      						$('#discount_amount').text(response.discount);
+      						$('#total_amount').text(response.total_amount);
+      					}
+      				}
+      			})
+   			})
 			})
 			
 			function changeAmt() {
-			var plan_amount = $('input[name="plan"]:checked').attr('amount');
-         alert(plan_amount)
-			$('#plan_amount').text(plan_amount);
-			$('#total_amount').text(plan_amount);
+   			var plan_amount = $('input[name="plan"]:checked').attr('amount');
+   			$('#plan_amount').text(plan_amount);
+   			$('#total_amount').text(plan_amount);
 			}
 
          function change_plan(display_id){
