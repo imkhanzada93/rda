@@ -647,56 +647,6 @@
 			});
 		</script>
 		<script type="text/javascript">
-			// $( "#nxt" ).click(function() {
-			//    $( "#pills-insurance-type-tab" ).click();
-			// });
-			
-			// $( "#back" ).click(function() {
-			//    $( "#pills-insurance-company-tab" ).click();
-			// });
-				
-			// $( "#nxt_2" ).click(function() {
-			// 	$( "#pills-plan-tab" ).click();
-			// });
-			
-			// $( "#back_3" ).click(function() {
-			//    $( "#pills-insurance-type-tab" ).click();
-			// });
-			
-			// $( "#nxt_3" ).click(function() {
-			// 	$( "#pills-account-info-tab" ).click();
-			// });    
-			
-			// $( "#nxt_4" ).click(function() {
-   		// 	$.ajax({
-   		// 		url: "{{ url('client/store') }}",
-   		// 		type: 'POST',
-   		// 		data: {
-   		// 			full_name: $('input[name="full_name"]').val(),
-   		// 			cnic: $('input[name="cnic"]').val(),
-   		// 			rda_account_number: $('input[name="rda_account_number"]').val(),
-   		// 			email: $('input[name="email"]').val(),
-   		// 			_token: $('input[name="_token"]').val()
-   		// 		},
-   		// 		success: function (result) {
-   		// 			console.log(result)
-   		// 		}
-   		// 	})
-			// 	$( "#pills-document-tab" ).click();
-			// });
-			
-			// $( "#back_4" ).click(function() {
-			// 	$( "#pills-plan-tab" ).click();
-			// });  
-			
-			// $( "#nxt_6" ).click(function() {
-			// 	$( "#pills-confirmation-tab" ).click();
-			// });
-			
-			// $( "#back_6" ).click(function() {
-			// 	$( "#pills-account-info-tab" ).click();
-			// });
-
 			// Example starter JavaScript for disabling form submissions if there are invalid fields
 			(function () {
 				'use strict'
@@ -719,6 +669,44 @@
 
          function change_tab(param) {
             $( "#" + param).click();
+
+            if(param == 'pills-insurance-type-tab'){
+               $.ajax({
+                  url: "{{ url('client/store') }}",
+                  type: 'POST',
+                  data: {
+                     full_name: $('input[name="full_name"]').val(),
+                     cnic: $('input[name="cnic"]').val(),
+                     rda_account_number: $('input[name="rda_account_number"]').val(),
+                     email: $('input[name="email"]').val(),
+                     _token: $('input[name="_token"]').val()
+                  },
+                  success: function (result) {
+                     console.log(result)
+                  }
+               })
+            }
+
+            if(param == 'pills-confirmation-tab'){
+               $('#span_full_name').text($('input[name="full_name"]').val())
+               $('#span_cnic').text($('input[name="cnic"]').val())
+               $('#span_rda_account_number').text($('input[name="rda_account_number"]').val())
+               $('#span_email').text($('input[name="email"]').val())
+               $('#span_b1_full_name').text($('input[name="b1_full_name"]').val())
+               $('#span_b1_dob').text($('input[name="b1_dob"]').val())
+               $('#span_b1_relation').text($('input[name="b1_relation"]').val())
+               $('#span_b1_cnic').text($('input[name="b1_cnic"]').val())
+               $('#span_b1_contact').text($('input[name="b1_contact"]').val())
+               $('#span_b1_email').text($('input[name="b1_email"]').val())
+               $('#span_b1_age').text($('input[name="b1_age"]').val())
+               $('#span_b2_full_name').text($('input[name="b2_full_name"]').val())
+               $('#span_b2_dob').text($('input[name="b2_dob"]').val())
+               $('#span_b2_relation').text($('input[name="b2_relation"]').val())
+               $('#span_b2_cnic').text($('input[name="b2_cnic"]').val())
+               $('#span_b2_contact').text($('input[name="b2_contact"]').val())
+               $('#span_b2_email').text($('input[name="b2_email"]').val())
+               $('#span_b2_age').text($('input[name="b2_age"]').val())
+            }
          }
 		</script>
 		<script>
@@ -763,48 +751,6 @@
                 var demovalue = $(this).val();
                 $(".myDiv").hide();
                 $("#show"+demovalue).show();
-            });
-        
-            $('input[type="text"]').keyup(function(){
-                 $('#span_full_name').text($('input[name="full_name"]').val())
-                 $('#span_cnic').text($('input[name="cnic"]').val())
-                 $('#span_rda_account_number').text($('input[name="rda_account_number"]').val())
-                 $('#span_email').text($('input[name="email"]').val())
-                 $('#span_b1_full_name').text($('input[name="b1_full_name"]').val())
-                 $('#span_b1_dob').text($('input[name="b1_dob"]').val())
-                 $('#span_b1_relation').text($('input[name="b1_relation"]').val())
-                 $('#span_b1_cnic').text($('input[name="b1_cnic"]').val())
-                 $('#span_b1_contact').text($('input[name="b1_contact"]').val())
-                 $('#span_b1_email').text($('input[name="b1_email"]').val())
-                 $('#span_b1_age').text($('input[name="b1_age"]').val())
-                 $('#span_b2_full_name').text($('input[name="b2_full_name"]').val())
-                 $('#span_b2_dob').text($('input[name="b2_dob"]').val())
-                 $('#span_b2_relation').text($('input[name="b2_relation"]').val())
-                 $('#span_b2_cnic').text($('input[name="b2_cnic"]').val())
-                 $('#span_b2_contact').text($('input[name="b2_contact"]').val())
-                 $('#span_b2_email').text($('input[name="b2_email"]').val())
-                 $('#span_b2_age').text($('input[name="b2_age"]').val())
-            });
-            
-            $('input[type="date"]').change(function(){
-                 $('#span_full_name').text($('input[name="full_name"]').val())
-                 $('#span_cnic').text($('input[name="cnic"]').val())
-                 $('#span_rda_account_number').text($('input[name="rda_account_number"]').val())
-                 $('#span_email').text($('input[name="email"]').val())
-                 $('#span_b1_full_name').text($('input[name="b1_full_name"]').val())
-                 $('#span_b1_dob').text($('input[name="b1_dob"]').val())
-                 $('#span_b1_relation').text($('input[name="b1_relation"]').val())
-                 $('#span_b1_cnic').text($('input[name="b1_cnic"]').val())
-                 $('#span_b1_contact').text($('input[name="b1_contact"]').val())
-                 $('#span_b1_email').text($('input[name="b1_email"]').val())
-                 $('#span_b1_age').text($('input[name="b1_age"]').val())
-                 $('#span_b2_full_name').text($('input[name="b2_full_name"]').val())
-                 $('#span_b2_dob').text($('input[name="b2_dob"]').val())
-                 $('#span_b2_relation').text($('input[name="b2_relation"]').val())
-                 $('#span_b2_cnic').text($('input[name="b2_cnic"]').val())
-                 $('#span_b2_contact').text($('input[name="b2_contact"]').val())
-                 $('#span_b2_email').text($('input[name="b2_email"]').val())
-                 $('#span_b2_age').text($('input[name="b2_age"]').val())
             });
          });
       </script>
