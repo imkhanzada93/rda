@@ -672,113 +672,131 @@
                var error = 0;
                if($('input[name="full_name"]').val() == ''){
                   $('input[name="full_name"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="full_name"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="cnic"]').val() == ''){
                   $('input[name="cnic"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="cnic"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="rda_account_number"]').val() == ''){
                   $('input[name="rda_account_number"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="rda_account_number"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="email"]').val() == ''){
                   $('input[name="email"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="email"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b1_full_name"]').val() == ''){
                   $('input[name="b1_full_name"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b1_full_name"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b1_dob"]').val() == ''){
                   $('input[name="b1_dob"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b1_dob"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b1_relation"]').val() == ''){
                   $('input[name="b1_relation"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b1_relation"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b1_cnic"]').val() == ''){
                   $('input[name="b1_cnic"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b1_cnic"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b1_contact"]').val() == ''){
                   $('input[name="b1_contact"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b1_contact"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b1_email"]').val() == ''){
                   $('input[name="b1_email"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b1_email"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b1_age"]').val() == ''){
                   $('input[name="b1_age"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b1_age"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b2_full_name"]').val() == ''){
                   $('input[name="b2_full_name"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b2_full_name"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b2_dob"]').val() == ''){
                   $('input[name="b2_dob"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b2_dob"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b2_relation"]').val() == ''){
                   $('input[name="b2_relation"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b2_relation"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b2_cnic"]').val() == ''){
                   $('input[name="b2_cnic"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b2_cnic"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b2_contact"]').val() == ''){
                   $('input[name="b2_contact"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b2_contact"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b2_email"]').val() == ''){
                   $('input[name="b2_email"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b2_email"]').removeClass('is-invalid');
+                  error -= 1;
                }
                if($('input[name="b2_age"]').val() == ''){
                   $('input[name="b2_age"]').addClass('is-invalid');
-                  error = 1;
+                  error += 1;
                }else{
                   $('input[name="b2_age"]').removeClass('is-invalid');
+                  error -= 1;
                }
-               if(error == 1){
+               if(error <= 0){
                   return false;
                }
 
