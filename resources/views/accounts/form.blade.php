@@ -332,7 +332,7 @@
                                                 @enderror
                                           </div>
                                        </div>
-                                       <div class="row mb-3" hidden>
+                                       <div class="row mb-3">
                                           <div class="col-2">
                                                 <label>CNIC Number:</label>
                                           </div>
@@ -354,7 +354,7 @@
                                                 @enderror
                                           </div>
                                        </div>
-                                       <div class="row mb-3">
+                                       <div class="row mb-3" hidden>
                                           <div class="col-2">
                                                 <label>Email Address:</label>
                                           </div>
