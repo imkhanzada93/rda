@@ -157,8 +157,7 @@
                                        </div>
                                        <div class="col-md-12">
                                           <div class="text-center nxt-sc">
-                                                <a href="javascript:;" class="btn-next" id="back_3"><i class="ri-arrow-left-line"></i> Back</a>
-                                                <a href="javascript:;" class="btn-next" id="nxt_3">Next <i class="ri-arrow-right-line"></i></a>
+                                                <a href="javascript:;" class="btn-next" onclick="change_tab('pills-account-info-tab')">Next <i class="ri-arrow-right-line"></i></a>
                                           </div>
                                        </div>
                                     </div>
@@ -379,8 +378,8 @@
                                        </div>
                                        <div class="col-12 text-center">
                                           <div class="text-center nxt-sc">
-                                                <a href="javascript:;" class="btn-next" id="back_4"><i class="ri-arrow-left-line"></i> Back</a>
-                                                <a href="javascript:;" class="btn-next" id="nxt_4">Next <i class="ri-arrow-right-line"></i></a>
+                                                <a href="javascript:;" class="btn-next" onclick="change_tab('pills-plan-tab')"><i class="ri-arrow-left-line"></i> Back</a>
+                                                <a href="javascript:;" class="btn-next" onclick="change_tab('pills-insurance-type-tab')">Next <i class="ri-arrow-right-line"></i></a>
                                           </div>
                                        </div>
                                     </div>
@@ -406,8 +405,8 @@
                                     @endforeach
                                     <div class="col-md-12">
                                        <div class="text-center nxt-sc">
-                                          <a href="javascript:;" class="btn-next"  id="back"><i class="ri-arrow-left-line"></i> Back</a>
-                                          <a href="javascript:;" class="btn-next" id="nxt_2">Next <i class="ri-arrow-right-line"></i></a>
+                                             <a href="javascript:;" class="btn-next" onclick="change_tab('pills-account-info-tab')"><i class="ri-arrow-left-line"></i> Back</a>
+                                             <a href="javascript:;" class="btn-next" onclick="change_tab('pills-insurance-company-tab')">Next <i class="ri-arrow-right-line"></i></a>
                                        </div>
                                     </div>
                               </div>
@@ -432,7 +431,8 @@
                                     @endforeach
                                     <div class="col-md-12">
                                        <div class="text-center nxt-sc">
-                                          <a href="javascript:;" id="nxt" class="btn-next">Next <i class="ri-arrow-right-line"></i></a>
+                                          <a href="javascript:;" class="btn-next" onclick="change_tab('pills-insurance-type-tab')"><i class="ri-arrow-left-line"></i> Back</a>
+                                          <a href="javascript:;" class="btn-next" onclick="change_tab('pills-document-tab')">Next <i class="ri-arrow-right-line"></i></a>
                                        </div>
                                     </div>
                               </div>
@@ -482,8 +482,8 @@
                                           <div class="row">
                                                 <div class="col-md-12">
                                                    <div class="text-center nxt-sc">
-                                                      <a href="javascript:;" class="btn-next" id="back_6"><i class="ri-arrow-left-line"></i> Back</a>
-                                                      <a href="javascript:;" class="btn-next" id="nxt_6">Next <i class="ri-arrow-right-line"></i></a>
+                                                      <a href="javascript:;" class="btn-next" onclick="change_tab('pills-insurance-company-tab')"><i class="ri-arrow-left-line"></i> Back</a>
+                                                      <a href="javascript:;" class="btn-next" onclick="change_tab('pills-confirmation-tab')">Next <i class="ri-arrow-right-line"></i></a>
                                                    </div>
                                                 </div>
                                           </div>
@@ -555,7 +555,8 @@
                                                 <p>Discount Amount <span id="discount_amount">0</span></p>
                                                 <p>Total Amount <span id="total_amount">0</span></p>
                                           </div>
-                                          <div class="col-12 text-center">
+                                          <div class="col-12 text-center">                                             
+                                                <a href="javascript:;" class="btn-next" onclick="change_tab('pills-document-tab')"><i class="ri-arrow-left-line"></i> Back</a>
                                                 <button class="btn btn-primary btn-lg" type="submit" id="submit">SUBMIT</button>
                                           </div>
                                        </div>
@@ -646,55 +647,55 @@
 			});
 		</script>
 		<script type="text/javascript">
-			$( "#nxt" ).click(function() {
-			   $( "#pills-insurance-type-tab" ).click();
-			});
+			// $( "#nxt" ).click(function() {
+			//    $( "#pills-insurance-type-tab" ).click();
+			// });
 			
-			$( "#back" ).click(function() {
-			   $( "#pills-insurance-company-tab" ).click();
-			});
+			// $( "#back" ).click(function() {
+			//    $( "#pills-insurance-company-tab" ).click();
+			// });
 				
-			$( "#nxt_2" ).click(function() {
-				$( "#pills-plan-tab" ).click();
-			});
+			// $( "#nxt_2" ).click(function() {
+			// 	$( "#pills-plan-tab" ).click();
+			// });
 			
-			$( "#back_3" ).click(function() {
-			   $( "#pills-insurance-type-tab" ).click();
-			});
+			// $( "#back_3" ).click(function() {
+			//    $( "#pills-insurance-type-tab" ).click();
+			// });
 			
-			$( "#nxt_3" ).click(function() {
-				$( "#pills-account-info-tab" ).click();
-			});    
+			// $( "#nxt_3" ).click(function() {
+			// 	$( "#pills-account-info-tab" ).click();
+			// });    
 			
-			$( "#nxt_4" ).click(function() {
-   			$.ajax({
-   				url: "{{ url('client/store') }}",
-   				type: 'POST',
-   				data: {
-   					full_name: $('input[name="full_name"]').val(),
-   					cnic: $('input[name="cnic"]').val(),
-   					rda_account_number: $('input[name="rda_account_number"]').val(),
-   					email: $('input[name="email"]').val(),
-   					_token: $('input[name="_token"]').val()
-   				},
-   				success: function (result) {
-   					console.log(result)
-   				}
-   			})
-				$( "#pills-document-tab" ).click();
-			});
+			// $( "#nxt_4" ).click(function() {
+   		// 	$.ajax({
+   		// 		url: "{{ url('client/store') }}",
+   		// 		type: 'POST',
+   		// 		data: {
+   		// 			full_name: $('input[name="full_name"]').val(),
+   		// 			cnic: $('input[name="cnic"]').val(),
+   		// 			rda_account_number: $('input[name="rda_account_number"]').val(),
+   		// 			email: $('input[name="email"]').val(),
+   		// 			_token: $('input[name="_token"]').val()
+   		// 		},
+   		// 		success: function (result) {
+   		// 			console.log(result)
+   		// 		}
+   		// 	})
+			// 	$( "#pills-document-tab" ).click();
+			// });
 			
-			$( "#back_4" ).click(function() {
-				$( "#pills-plan-tab" ).click();
-			});  
+			// $( "#back_4" ).click(function() {
+			// 	$( "#pills-plan-tab" ).click();
+			// });  
 			
-			$( "#nxt_6" ).click(function() {
-				$( "#pills-confirmation-tab" ).click();
-			});
+			// $( "#nxt_6" ).click(function() {
+			// 	$( "#pills-confirmation-tab" ).click();
+			// });
 			
-			$( "#back_6" ).click(function() {
-				$( "#pills-account-info-tab" ).click();
-			});
+			// $( "#back_6" ).click(function() {
+			// 	$( "#pills-account-info-tab" ).click();
+			// });
 
 			// Example starter JavaScript for disabling form submissions if there are invalid fields
 			(function () {
@@ -715,6 +716,10 @@
    				}, false)
 				})
 			})()
+
+         function change_tab(param) {
+            $( "#" + param).click();
+         }
 		</script>
 		<script>
 			$(document).ready(function() {
