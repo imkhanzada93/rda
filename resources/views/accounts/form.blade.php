@@ -86,10 +86,13 @@
                   <button class="nav-link" id="pills-insurance-company-tab" data-bs-toggle="pill" data-bs-target="#pills-insurance-company" type="button" role="tab" aria-controls="pills-insurance-company" aria-selected="false">Step 4<i class="ri-arrow-right-s-line"></i></button>
                </li>
                <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="pills-document-tab" data-bs-toggle="pill" data-bs-target="#pills-document" type="button" role="tab" aria-controls="pills-document" aria-selected="false">Step 5<i class="ri-arrow-right-s-line"></i></button>
+                  <button class="nav-link" id="pills-account-beneficiary-tab" data-bs-toggle="pill" data-bs-target="#pills-account-beneficiary" type="button" role="tab" aria-controls="pills-account-beneficiary" aria-selected="false">Step 5<i class="ri-arrow-right-s-line"></i></button>
                </li>
                <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="pills-confirmation-tab" data-bs-toggle="pill" data-bs-target="#pills-confirmation" type="button" role="tab" aria-controls="pills-confirmation" aria-selected="false">Step 6<i class="ri-arrow-right-s-line"></i></button>
+                  <button class="nav-link" id="pills-document-tab" data-bs-toggle="pill" data-bs-target="#pills-document" type="button" role="tab" aria-controls="pills-document" aria-selected="false">Step 6<i class="ri-arrow-right-s-line"></i></button>
+               </li>
+               <li class="nav-item" role="presentation">
+                  <button class="nav-link" id="pills-confirmation-tab" data-bs-toggle="pill" data-bs-target="#pills-confirmation" type="button" role="tab" aria-controls="pills-confirmation" aria-selected="false">Step 7<i class="ri-arrow-right-s-line"></i></button>
                </li>
             </ul>
          </div>
@@ -214,6 +217,70 @@
                                                 @enderror
                                           </div>
                                        </div>
+                                       <div class="col-12 text-center">
+                                          <div class="text-center nxt-sc">
+                                                <a href="javascript:;" class="btn-next" onclick="change_tab('pills-plan-tab')"><i class="ri-arrow-left-line"></i> Back</a>
+                                                <a href="javascript:;" class="btn-next" onclick="change_tab('pills-insurance-type-tab')">Next <i class="ri-arrow-right-line"></i></a>
+                                          </div>
+                                       </div>
+                                    </div>
+                              </div>
+                           </div>
+                           <div class="tab-pane fade" id="pills-insurance-type" role="tabpanel" aria-labelledby="pills-insurance-type-tab">
+                              <div class="tb-hd">
+                                    <h3>
+                                       Please select your insurance type below:
+                                    </h3>
+                                    <div class="br-line"></div>
+                              </div>
+                              <div class="row justify-content-center">
+                                    @foreach(get_list('insurance_types') as $key => $insurance_type)
+                                    <div class="col-md-2">
+                                       <div class="button-bx">
+                                          <input type="radio" class="btn-check" id="btncheckB{{ $key }}" name="insurance_type" value="{{ $insurance_type->id }}" autocomplete="off" @if($key == 0) checked @endif>
+                                          <label class="btn btn-cstm" for="btncheckB{{ $key }}">
+                                          <img src="{{ asset('storage/'.$insurance_type->image) }}">
+                                          </label>
+                                       </div>
+                                    </div>
+                                    @endforeach
+                                    <div class="col-md-12">
+                                       <div class="text-center nxt-sc">
+                                             <a href="javascript:;" class="btn-next" onclick="change_tab('pills-account-info-tab')"><i class="ri-arrow-left-line"></i> Back</a>
+                                             <a href="javascript:;" class="btn-next" onclick="change_tab('pills-insurance-company-tab')">Next <i class="ri-arrow-right-line"></i></a>
+                                       </div>
+                                    </div>
+                              </div>
+                           </div>
+                           <div class="tab-pane fade" id="pills-insurance-company" role="tabpanel" aria-labelledby="pills-insurance-company-tab">
+                              <div class="tb-hd">
+                                    <h3>Lets begin your journey towards better health coverage.<br/>
+                                       Please select your preferred insurance partner:
+                                    </h3>
+                                    <div class="br-line"></div>
+                              </div>
+                              <div class="row justify-content-center">
+                                    @foreach(get_list('insurances') as $key => $insurance)
+                                    <div class="col-md-2">
+                                       <div class="button-bx">
+                                          <input type="radio" class="btn-check" id="btncheckI{{ $key }}" value="{{ $insurance->id }}"  name="insurance" autocomplete="off" @if($key == 0) checked @endif>
+                                          <label class="btn  btn-cstm" for="btncheckI{{ $key }}">
+                                          <img src="{{ asset('storage/'.$insurance->image) }}">
+                                          </label>
+                                       </div>
+                                    </div>
+                                    @endforeach
+                                    <div class="col-md-12">
+                                       <div class="text-center nxt-sc">
+                                          <a href="javascript:;" class="btn-next" onclick="change_tab('pills-insurance-type-tab')"><i class="ri-arrow-left-line"></i> Back</a>
+                                          <a href="javascript:;" class="btn-next" onclick="change_tab('pills-account-beneficiary-tab')">Next <i class="ri-arrow-right-line"></i></a>
+                                       </div>
+                                    </div>
+                              </div>
+                           </div>
+                           <div class="tab-pane fade" id="pills-account-beneficiary" role="tabpanel" aria-labelledby="pills-account-beneficiary-tab">
+                              <div class="crd-box">
+                                    <div class="form-sc">
                                        <div class="tb-hd mt-5">
                                           <h3>Please enter your 1st Beneficiary details:</h3>
                                           <div class="br-line "></div>
@@ -378,61 +445,9 @@
                                        </div>
                                        <div class="col-12 text-center">
                                           <div class="text-center nxt-sc">
-                                                <a href="javascript:;" class="btn-next" onclick="change_tab('pills-plan-tab')"><i class="ri-arrow-left-line"></i> Back</a>
-                                                <a href="javascript:;" class="btn-next" onclick="change_tab('pills-insurance-type-tab')">Next <i class="ri-arrow-right-line"></i></a>
+                                                <a href="javascript:;" class="btn-next" onclick="change_tab('pills-insurance-company-tab')"><i class="ri-arrow-left-line"></i> Back</a>
+                                                <a href="javascript:;" class="btn-next" onclick="change_tab('pills-document-tab')">Next <i class="ri-arrow-right-line"></i></a>
                                           </div>
-                                       </div>
-                                    </div>
-                              </div>
-                           </div>
-                           <div class="tab-pane fade" id="pills-insurance-type" role="tabpanel" aria-labelledby="pills-insurance-type-tab">
-                              <div class="tb-hd">
-                                    <h3>
-                                       Please select your insurance type below:
-                                    </h3>
-                                    <div class="br-line"></div>
-                              </div>
-                              <div class="row justify-content-center">
-                                    @foreach(get_list('insurance_types') as $key => $insurance_type)
-                                    <div class="col-md-2">
-                                       <div class="button-bx">
-                                          <input type="radio" class="btn-check" id="btncheckB{{ $key }}" name="insurance_type" value="{{ $insurance_type->id }}" autocomplete="off" @if($key == 0) checked @endif>
-                                          <label class="btn btn-cstm" for="btncheckB{{ $key }}">
-                                          <img src="{{ asset('storage/'.$insurance_type->image) }}">
-                                          </label>
-                                       </div>
-                                    </div>
-                                    @endforeach
-                                    <div class="col-md-12">
-                                       <div class="text-center nxt-sc">
-                                             <a href="javascript:;" class="btn-next" onclick="change_tab('pills-account-info-tab')"><i class="ri-arrow-left-line"></i> Back</a>
-                                             <a href="javascript:;" class="btn-next" onclick="change_tab('pills-insurance-company-tab')">Next <i class="ri-arrow-right-line"></i></a>
-                                       </div>
-                                    </div>
-                              </div>
-                           </div>
-                           <div class="tab-pane fade" id="pills-insurance-company" role="tabpanel" aria-labelledby="pills-insurance-company-tab">
-                              <div class="tb-hd">
-                                    <h3>Lets begin your journey towards better health coverage.<br/>
-                                       Please select your preferred insurance partner:
-                                    </h3>
-                                    <div class="br-line"></div>
-                              </div>
-                              <div class="row justify-content-center">
-                                    @foreach(get_list('insurances') as $key => $insurance)
-                                    <div class="col-md-2">
-                                       <div class="button-bx">
-                                          <input type="radio" class="btn-check" id="btncheckI{{ $key }}" value="{{ $insurance->id }}"  name="insurance" autocomplete="off" @if($key == 0) checked @endif>
-                                          <label class="btn  btn-cstm" for="btncheckI{{ $key }}">
-                                          <img src="{{ asset('storage/'.$insurance->image) }}">
-                                          </label>
-                                       </div>
-                                    </div>
-                                    @endforeach
-                                    <div class="col-md-12">
-                                       <div class="text-center nxt-sc">
-                                          <a href="javascript:;" class="btn-next" onclick="change_tab('pills-insurance-type-tab')"><i class="ri-arrow-left-line"></i> Back</a>
-                                          <a href="javascript:;" class="btn-next" onclick="change_tab('pills-document-tab')">Next <i class="ri-arrow-right-line"></i></a>
                                        </div>
                                     </div>
                               </div>
