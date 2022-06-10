@@ -118,7 +118,7 @@ class AccountController extends Controller
 
         $beneficiary->email = $request->b1_email;
 
-        $beneficiary->age = $request->b1_age;
+        $beneficiary->age = 0;
 
         $beneficiary->account_id = $account->id;
 
@@ -140,7 +140,7 @@ class AccountController extends Controller
 
         $beneficiary->email = $request->b2_email;
 
-        $beneficiary->age = $request->b2_age;
+        $beneficiary->age = 0;
 
         $beneficiary->account_id = $account->id;
 
@@ -372,7 +372,7 @@ class AccountController extends Controller
 
             // 'b1_email' => 'required',
 
-            'b1_age' => 'required|numeric',
+            // 'b1_age' => 'required|numeric',
 
             'b2_full_name' => 'required|regex:/^[\pL\s\-]+$/u',
 
@@ -386,7 +386,7 @@ class AccountController extends Controller
 
             // 'b2_email' => 'required',
 
-            'b2_age' => 'required|numeric',
+            // 'b2_age' => 'required|numeric',
 
             'cnic_image' => 'required',
 

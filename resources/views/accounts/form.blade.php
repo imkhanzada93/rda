@@ -351,7 +351,7 @@
                                                 @enderror
                                           </div>
                                        </div>
-                                       <div class="row mb-3">
+                                       <div class="row mb-3" hidden>
                                           <div class="col-2">
                                                 <label>Age:</label>
                                           </div>
@@ -432,7 +432,7 @@
                                                 @enderror
                                           </div>
                                        </div>
-                                       <div class="row mb-3">
+                                       <div class="row mb-3" hidden>
                                           <div class="col-2">
                                                 <label>Age :</label>
                                           </div>
@@ -532,7 +532,7 @@
                                                    <p><span class="vl-hd">CNIC Number:</span> <span id="span_b1_cnic" class="vl-cn"></span></p>
                                                    <p hidden><span class="vl-hd">Contact Number:</span> <span id="span_b1_contact" class="vl-cn"></span></p>
                                                    <p hidden><span class="vl-hd">Email Address:</span> <span id="span_b1_email" class="vl-cn"></span></p>
-                                                   <p><span class="vl-hd">Age:</span> <span id="span_b1_age" class="vl-cn"></span></p>
+                                                   <p hidden><span class="vl-hd">Age:</span> <span id="span_b1_age" class="vl-cn"></span></p>
                                                 </div>
                                           </div>
                                           <div class="col-md-4">
@@ -544,7 +544,7 @@
                                                    <p><span class="vl-hd">CNIC Number:</span> <span id="span_b2_cnic" class="vl-cn"></span></p>
                                                    <p hidden><span class="vl-hd">Contact Number:</span> <span id="span_b2_contact" class="vl-cn"></span></p>
                                                    <p hidden><span class="vl-hd">Email Address:</span> <span id="span_b2_email" class="vl-cn"></span></p>
-                                                   <p><span class="vl-hd">Age:</span> <span id="span_b2_age" class="vl-cn"></span></p>
+                                                   <p hidden><span class="vl-hd">Age:</span> <span id="span_b2_age" class="vl-cn"></span></p>
                                                 </div>
                                           </div>
                                        </div>
