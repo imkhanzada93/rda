@@ -12,7 +12,7 @@ class PlanCategory extends Model
 {
     use HasFactory, SoftDeletes;
 
-    protected $fillable = ['name', 'image'];
+    protected $fillable = ['name', 'image', 'relation'];
     
     public function getCreatedAtAttribute($value)
     {

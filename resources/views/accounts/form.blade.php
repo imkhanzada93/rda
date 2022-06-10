@@ -112,7 +112,7 @@
                                        @foreach(get_list('plan_categories') as $key => $plan_category)
                                        <div class="col-md-2">
                                           <div class="button-bx">
-                                                <input type="radio" class="btn-check" id="btncheckPC{{ $key }}" autocomplete="off" value="{{ $plan_category->id }}" name="plan" @if($key == 0) checked @endif onchange="change_plan({{ $plan_category->id }})">
+                                                <input type="radio" class="btn-check" id="btncheckPC{{ $key }}" autocomplete="off" value="{{ $plan_category->id }}" data-relation="{{ $plan_category->relation }}" name="plan" @if($key == 0) checked @endif onchange="change_plan({{ $plan_category->id }}, '{{ $plan_category->relation }}')">
                                                 <label class="btn btn-cstm add" for="btncheckPC{{ $key }}">
                                                    <img src="{{ asset('storage/'.$plan_category->image) }}">
                                                    <h3>{{ $plan_category->name }}</h3>
@@ -312,7 +312,7 @@
                                                 <label>Relation:</label>
                                           </div>
                                           <div class="col-10">
-                                                <input type="text" name="b1_relation" class="form-control @error('b1_relation')is-invalid @enderror" value="{{ old('b1_relation') }}">
+                                                <select name="b1_relation" class="form-control relation @error('b1_relation')is-invalid @enderror"></select>
                                                 @error('b1_relation')
                                                 <span class="error invalid-feedback">{{ $message }}</span>
                                                 @enderror
@@ -884,10 +884,17 @@
    			$('#total_amount').text(plan_amount);
 			}
 
-         function change_plan(display_id){
+         $('input[name="plan"]')[0].click();
+         function change_plan(display_id, relation){
             $('.list-box').css('display', 'none');
             console.log(display_id)
+            $('.relation').html('');
             $('#plan_detail'+display_id).css('display', 'inherit');
+            let relationship = relation.split(',');
+            relationship.forEach(element => {
+               var htm = "<option value='" + element + "'>" + element + "</option>";
+               $('.relation').append(htm);
+            });
          }
 		</script>
       <script>
