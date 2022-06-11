@@ -52,6 +52,9 @@
          align-items: center;
          justify-content: center;
       }
+      .inr{
+         text-align: justify;
+      }
    </style>
 </head>
 	<body id="page-top">
@@ -60,12 +63,18 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
+                  <h2>What is Health Insurance?</h2>
 						<p class="inr">
-							Welcome to Insure Karo, an unprecedented Marketplace for Overseas Pakistanis. Whether you are looking for coverage for your parents or your spouse and children, we have a product to help you keep your family safe and secure.
+							Health insurance is protection against unforeseen health risks. Policy holders and their beneficiaries are entitled to claim medical expenditures if they have an accident, fall ill or require hospitalization*. Policy holders are required to pay periodic or one time payments which are referred to as premiums, and receive coverage limits that can be claimed from the insurer if and when they require
 						</p>
+                  <h2>Benefits of health insurance :</h2>
 						<p class="inr">
-							Our state-of-the-art product offers coverage that includes Hospitalization Enhancement, Pre-Existing Medical Coverage, Hepatitis B &amp; C Coverage, Specialist Investigation for Outpatients and much more.
+                     Managing medical expenditures during rising inflation can be financially exhausting. Find My Doctor is here to help! You can now protect your family from unforeseen risks without taking on insurmountable financial burden through our state-of-the-art insurance policies.
 						</p>
+                  <h2>Why choose Insure Karo :</h2>
+						<p class="inr">
+                     Our state-of-the-art product offers coverage that includes Hospitalization Enhancement, Pre-Existing conditions as well which is something that the other insurance companies don’t offer. Besides these the customers also get discounts on lab tests from our application as well free doctor consultations from time to time. Insure Karo, phir chill karo!
+                  </p>
 					</div>
 				</div>
 			</div>
