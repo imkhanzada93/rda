@@ -692,6 +692,8 @@
 			})()
 
          function change_tab(param) {
+            var phoneno = /^\d{11}$/;
+            var cnic = /^\d{13}$/;
             if(param == 'pills-insurance-type-tab'){
                var error = 0;
                if($('input[name="full_name"]').val() == ''){
@@ -700,13 +702,13 @@
                }else{
                   $('input[name="full_name"]').removeClass('is-invalid');
                }
-               if($('input[name="cnic"]').val() == ''){
+               if(($('input[name="cnic"]').val() == '') || ( $('input[name="cnic"]').match(cnic))){
                   $('input[name="cnic"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="cnic"]').removeClass('is-invalid');
                }
-               if($('input[name="rda_account_number"]').val() == ''){
+               if(($('input[name="rda_account_number"]').val() == '') || ( $('input[name="rda_account_number"]').match(phoneno))){
                   $('input[name="rda_account_number"]').addClass('is-invalid');
                   error += 1;
                }else{
@@ -759,7 +761,7 @@
                }else{
                   $('input[name="b1_relation"]').removeClass('is-invalid');
                }
-               if($('input[name="b1_cnic"]').val() == ''){
+               if(($('input[name="b1_cnic"]').val() == '') || ( $('input[name="b1_cnic"]').match(cnic))){
                   $('input[name="b1_cnic"]').addClass('is-invalid');
                   error += 1;
                }else{
@@ -801,7 +803,7 @@
                }else{
                   $('input[name="b2_relation"]').removeClass('is-invalid');
                }
-               if($('input[name="b2_cnic"]').val() == ''){
+               if(($('input[name="b2_cnic"]').val() == '') || ( $('input[name="b2_cnic"]').match(cnic)) ){
                   $('input[name="b2_cnic"]').addClass('is-invalid');
                   error += 1;
                }else{
@@ -842,14 +844,14 @@
                $('#span_b1_cnic').text($('input[name="b1_cnic"]').val())
                $('#span_b1_contact').text($('input[name="b1_contact"]').val())
                $('#span_b1_email').text($('input[name="b1_email"]').val())
-               $('#span_b1_age').text($('input[name="b1_age"]').val())
+               // $('#span_b1_age').text($('input[name="b1_age"]').val())
                $('#span_b2_full_name').text($('input[name="b2_full_name"]').val())
                $('#span_b2_dob').text($('input[name="b2_dob"]').val())
                $('#span_b2_relation').text($('input[name="b2_relation"]').val())
                $('#span_b2_cnic').text($('input[name="b2_cnic"]').val())
                $('#span_b2_contact').text($('input[name="b2_contact"]').val())
                $('#span_b2_email').text($('input[name="b2_email"]').val())
-               $('#span_b2_age').text($('input[name="b2_age"]').val())
+               // $('#span_b2_age').text($('input[name="b2_age"]').val())
                $( "#" + param).click();
             }else{
                $( "#" + param).click();
