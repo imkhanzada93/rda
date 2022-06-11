@@ -402,7 +402,7 @@
                                                 <label>Relation:</label>
                                           </div>
                                           <div class="col-10">
-                                                <input type="text" name="b2_relation" class="form-control @error('b2_relation')is-invalid @enderror" value="{{ old('b2_relation') }}">
+                                                <select name="b2_relation" class="form-control relation_1 @error('b2_relation')is-invalid @enderror"></select>
                                                 @error('b2_relation')
                                                 <span class="error invalid-feedback">{{ $message }}</span>
                                                 @enderror
@@ -699,149 +699,139 @@
                   error += 1;
                }else{
                   $('input[name="full_name"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="cnic"]').val() == ''){
                   $('input[name="cnic"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="cnic"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="rda_account_number"]').val() == ''){
                   $('input[name="rda_account_number"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="rda_account_number"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="email"]').val() == ''){
                   $('input[name="email"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="email"]').removeClass('is-invalid');
-                  error -= 1;
                }
+               if(error > 0){
+                  return false;
+               }else{
+                  $( "#" + param).click();
+                  $.ajax({
+                     url: "{{ url('client/store') }}",
+                     type: 'POST',
+                     data: {
+                        full_name: $('input[name="full_name"]').val(),
+                        cnic: $('input[name="cnic"]').val(),
+                        rda_account_number: $('input[name="rda_account_number"]').val(),
+                        email: $('input[name="email"]').val(),
+                        _token: $('input[name="_token"]').val()
+                     },
+                     success: function (result) {
+                        console.log(result)
+                     }
+                  })
+               }
+
+            }else if(param == 'pills-document-tab'){
+               var error = 0;
+               
                if($('input[name="b1_full_name"]').val() == ''){
                   $('input[name="b1_full_name"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b1_full_name"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b1_dob"]').val() == ''){
                   $('input[name="b1_dob"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b1_dob"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b1_relation"]').val() == ''){
                   $('input[name="b1_relation"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b1_relation"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b1_cnic"]').val() == ''){
                   $('input[name="b1_cnic"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b1_cnic"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b1_contact"]').val() == ''){
                   $('input[name="b1_contact"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b1_contact"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b1_email"]').val() == ''){
                   $('input[name="b1_email"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b1_email"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b1_age"]').val() == ''){
                   $('input[name="b1_age"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b1_age"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b2_full_name"]').val() == ''){
                   $('input[name="b2_full_name"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b2_full_name"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b2_dob"]').val() == ''){
                   $('input[name="b2_dob"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b2_dob"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b2_relation"]').val() == ''){
                   $('input[name="b2_relation"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b2_relation"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b2_cnic"]').val() == ''){
                   $('input[name="b2_cnic"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b2_cnic"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b2_contact"]').val() == ''){
                   $('input[name="b2_contact"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b2_contact"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b2_email"]').val() == ''){
                   $('input[name="b2_email"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b2_email"]').removeClass('is-invalid');
-                  error -= 1;
                }
                if($('input[name="b2_age"]').val() == ''){
                   $('input[name="b2_age"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="b2_age"]').removeClass('is-invalid');
-                  error -= 1;
                }
-               if(error <= 0){
+               if(error > 0){
                   return false;
+               }else{
+                  $( "#" + param).click();
                }
 
-               $.ajax({
-                  url: "{{ url('client/store') }}",
-                  type: 'POST',
-                  data: {
-                     full_name: $('input[name="full_name"]').val(),
-                     cnic: $('input[name="cnic"]').val(),
-                     rda_account_number: $('input[name="rda_account_number"]').val(),
-                     email: $('input[name="email"]').val(),
-                     _token: $('input[name="_token"]').val()
-                  },
-                  success: function (result) {
-                     console.log(result)
-                  }
-               })
-            }
-            $( "#" + param).click();
-
-            if(param == 'pills-confirmation-tab'){
+            }else if(param == 'pills-confirmation-tab'){
                $('#span_full_name').text($('input[name="full_name"]').val())
                $('#span_cnic').text($('input[name="cnic"]').val())
                $('#span_rda_account_number').text($('input[name="rda_account_number"]').val())
@@ -860,6 +850,9 @@
                $('#span_b2_contact').text($('input[name="b2_contact"]').val())
                $('#span_b2_email').text($('input[name="b2_email"]').val())
                $('#span_b2_age').text($('input[name="b2_age"]').val())
+               $( "#" + param).click();
+            }else{
+               $( "#" + param).click();
             }
          }
 		</script>
@@ -903,6 +896,7 @@
             relationship.forEach(element => {
                var htm = "<option value='" + element + "'>" + element + "</option>";
                $('.relation').append(htm);
+               $('.relation_1').append(htm);
             });
          }
 		</script>
