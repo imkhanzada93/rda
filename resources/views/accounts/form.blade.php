@@ -261,7 +261,7 @@
                                        </div>
                                        <div class="row mb-3">
                                           <div class="col-2">
-                                                <label>Phone Number:</label>
+                                                <label>Mobile Number:</label>
                                           </div>
                                           <div class="col-10">
                                                 <input type="text" name="phone_number" class="form-control @error('phone_number')is-invalid @enderror" value="{{ old('phone_number') }}">
@@ -539,7 +539,7 @@
                                                 <div class="view-box">
                                                    <p><span class="vl-hd">Full Name:</span> <span id="span_full_name" class="vl-cn"></span></p>
                                                    <p><span class="vl-hd">CNIC Number:</span> <span id="span_cnic" class="vl-cn"></span></p>
-                                                   <p><span class="vl-hd">Phone Number</span> <span id="span_phone_number" class="vl-cn"></span></p>
+                                                   <p><span class="vl-hd">Mobile Number</span> <span id="span_phone_number" class="vl-cn"></span></p>
                                                    <p><span class="vl-hd">Email Address:</span> <span id="span_email" class="vl-cn"></span></p>
                                                 </div>
                                           </div>
