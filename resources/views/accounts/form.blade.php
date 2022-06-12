@@ -475,7 +475,7 @@
                            <div class="tab-pane fade" id="pills-document" role="tabpanel" aria-labelledby="pills-document-tab">
                               <div class="crd-box">
                                     <div class="tb-hd">
-                                       <h3>Please enter your details:</h3>
+                                       <h3>Please submit the following documents:</h3>
                                        <div class="br-line"></div>
                                     </div>
                                     <div class="row justify-content-center">
