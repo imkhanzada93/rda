@@ -26,7 +26,7 @@ class Beneficiary extends Model
 
 
 
-    protected $fillable = ['id', 'full_name', 'dob', 'relation', 'cnic', 'phone', 'email', 'account_id', 'age'];
+    protected $fillable = ['id', 'full_name', 'dob', 'relation', 'cnic', 'address', 'account_id'];
 
     
 

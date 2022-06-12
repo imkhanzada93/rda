@@ -114,11 +114,7 @@ class AccountController extends Controller
 
         $beneficiary->cnic = $request->b1_cnic;
 
-        $beneficiary->phone = $request->b1_contact;
-
-        $beneficiary->email = $request->b1_email;
-
-        $beneficiary->age = 0;
+        $beneficiary->address = $request->address;
 
         $beneficiary->account_id = $account->id;
 
@@ -136,11 +132,7 @@ class AccountController extends Controller
 
         $beneficiary->cnic = $request->b2_cnic;
 
-        $beneficiary->phone = $request->b2_contact;
-
-        $beneficiary->email = $request->b2_email;
-
-        $beneficiary->age = 0;
+        $beneficiary->address = $request->address;
 
         $beneficiary->account_id = $account->id;
 
@@ -368,12 +360,6 @@ class AccountController extends Controller
 
             'b1_cnic' => 'required|numeric',
 
-            // 'b1_contact' => 'required|numeric',
-
-            // 'b1_email' => 'required',
-
-            // 'b1_age' => 'required|numeric',
-
             'b2_full_name' => 'required|regex:/^[\pL\s\-]+$/u',
 
             'b2_dob' => 'required|date',
@@ -381,12 +367,6 @@ class AccountController extends Controller
             'b2_relation' => 'required',
 
             'b2_cnic' => 'required|numeric',
-
-            // 'b2_contact' => 'required|numeric',
-
-            // 'b2_email' => 'required',
-
-            // 'b2_age' => 'required|numeric',
 
             'cnic_image' => 'required',
 

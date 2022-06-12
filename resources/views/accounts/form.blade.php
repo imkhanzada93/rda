@@ -372,35 +372,13 @@
                                                 @enderror
                                           </div>
                                        </div>
-                                       <div class="row mb-3" hidden>
+                                       <div class="row mb-3">
                                           <div class="col-2">
-                                                <label>Contact Number:</label>
+                                                <label>Address:</label>
                                           </div>
                                           <div class="col-10">
-                                                <input type="text" name="b1_contact" class="form-control @error('b1_contact')is-invalid @enderror" value="{{ old('b1_contact') }}">
-                                                @error('b1_contact')
-                                                <span class="error invalid-feedback">{{ $message }}</span>
-                                                @enderror
-                                          </div>
-                                       </div>
-                                       <div class="row mb-3" hidden>
-                                          <div class="col-2">
-                                                <label>Email Address:</label>
-                                          </div>
-                                          <div class="col-10">
-                                                <input type="text" name="b1_email" class="form-control @error('b1_email')is-invalid @enderror" value="{{ old('b1_email') }}">
-                                                @error('b1_email')
-                                                <span class="error invalid-feedback">{{ $message }}</span>
-                                                @enderror
-                                          </div>
-                                       </div>
-                                       <div class="row mb-3" hidden>
-                                          <div class="col-2">
-                                                <label>Age:</label>
-                                          </div>
-                                          <div class="col-10">
-                                                <input type="text" name="b1_age" class="form-control @error('b1_age')is-invalid @enderror" value="{{ old('b1_age') }}">
-                                                @error('b1_age')
+                                                <input type="text" name="b1_address" class="form-control @error('b1_address')is-invalid @enderror" value="{{ old('b1_address') }}">
+                                                @error('b1_address')
                                                 <span class="error invalid-feedback">{{ $message }}</span>
                                                 @enderror
                                           </div>
@@ -453,35 +431,13 @@
                                                 @enderror
                                           </div>
                                        </div>
-                                       <div class="row mb-3" hidden>
+                                       <div class="row mb-3">
                                           <div class="col-2">
-                                                <label>Contact Number:</label>
+                                                <label>Address:</label>
                                           </div>
                                           <div class="col-10">
-                                                <input type="text" name="b2_contact" class="form-control @error('b2_contact')is-invalid @enderror" value="{{ old('b2_contact') }}">
-                                                @error('b2_contact')
-                                                <span class="error invalid-feedback">{{ $message }}</span>
-                                                @enderror
-                                          </div>
-                                       </div>
-                                       <div class="row mb-3" hidden>
-                                          <div class="col-2">
-                                                <label>Email Address:</label>
-                                          </div>
-                                          <div class="col-10">
-                                                <input type="text" name="b2_email" class="form-control @error('b2_email')is-invalid @enderror" value="{{ old('b2_email') }}">
-                                                @error('b2_email')
-                                                <span class="error invalid-feedback">{{ $message }}</span>
-                                                @enderror
-                                          </div>
-                                       </div>
-                                       <div class="row mb-3" hidden>
-                                          <div class="col-2">
-                                                <label>Age :</label>
-                                          </div>
-                                          <div class="col-10">
-                                                <input type="text" name="b2_age" class="form-control @error('b2_age')is-invalid @enderror" value="{{ old('b2_age') }}">
-                                                @error('b2_age')
+                                                <input type="text" name="b2_address" class="form-control @error('b2_address')is-invalid @enderror" value="{{ old('b2_address') }}">
+                                                @error('b2_address')
                                                 <span class="error invalid-feedback">{{ $message }}</span>
                                                 @enderror
                                           </div>
@@ -573,9 +529,7 @@
                                                    <p><span class="vl-hd">Date of Birth:</span> <span id="span_b1_dob" class="vl-cn"></span></p>
                                                    <p><span class="vl-hd">Relation:</span> <span id="span_b1_relation" class="vl-cn"></span></p>
                                                    <p><span class="vl-hd">CNIC Number:</span> <span id="span_b1_cnic" class="vl-cn"></span></p>
-                                                   <p hidden><span class="vl-hd">Contact Number:</span> <span id="span_b1_contact" class="vl-cn"></span></p>
-                                                   <p hidden><span class="vl-hd">Email Address:</span> <span id="span_b1_email" class="vl-cn"></span></p>
-                                                   <p hidden><span class="vl-hd">Age:</span> <span id="span_b1_age" class="vl-cn"></span></p>
+                                                   <p><span class="vl-hd">Address:</span> <span id="span_b1_address" class="vl-cn"></span></p>
                                                 </div>
                                           </div>
                                           <div class="col-md-4">
@@ -585,9 +539,7 @@
                                                    <p><span class="vl-hd">Date of Birth:</span> <span id="span_b2_dob" class="vl-cn"></span></p>
                                                    <p><span class="vl-hd">Relation:</span> <span id="span_b2_relation" class="vl-cn"></span></p>
                                                    <p><span class="vl-hd">CNIC Number:</span> <span id="span_b2_cnic" class="vl-cn"></span></p>
-                                                   <p hidden><span class="vl-hd">Contact Number:</span> <span id="span_b2_contact" class="vl-cn"></span></p>
-                                                   <p hidden><span class="vl-hd">Email Address:</span> <span id="span_b2_email" class="vl-cn"></span></p>
-                                                   <p hidden><span class="vl-hd">Age:</span> <span id="span_b2_age" class="vl-cn"></span></p>
+                                                   <p><span class="vl-hd">Address:</span> <span id="span_b2_address" class="vl-cn"></span></p>
                                                 </div>
                                           </div>
                                        </div>
@@ -801,23 +753,11 @@
                }else{
                   $('input[name="b1_cnic"]').removeClass('is-invalid');
                }
-               if($('input[name="b1_contact"]').val() == ''){
-                  $('input[name="b1_contact"]').addClass('is-invalid');
+               if($('input[name="b1_address"]').val() == ''){
+                  $('input[name="b1_address"]').addClass('is-invalid');
                   error += 1;
                }else{
-                  $('input[name="b1_contact"]').removeClass('is-invalid');
-               }
-               if($('input[name="b1_email"]').val() == ''){
-                  $('input[name="b1_email"]').addClass('is-invalid');
-                  error += 1;
-               }else{
-                  $('input[name="b1_email"]').removeClass('is-invalid');
-               }
-               if($('input[name="b1_age"]').val() == ''){
-                  $('input[name="b1_age"]').addClass('is-invalid');
-                  error += 1;
-               }else{
-                  $('input[name="b1_age"]').removeClass('is-invalid');
+                  $('input[name="b1_address"]').removeClass('is-invalid');
                }
                if($('input[name="b2_full_name"]').val() == ''){
                   $('input[name="b2_full_name"]').addClass('is-invalid');
@@ -843,23 +783,11 @@
                }else{
                   $('input[name="b2_cnic"]').removeClass('is-invalid');
                }
-               if($('input[name="b2_contact"]').val() == ''){
-                  $('input[name="b2_contact"]').addClass('is-invalid');
+               if($('input[name="b2_address"]').val() == ''){
+                  $('input[name="b2_address"]').addClass('is-invalid');
                   error += 1;
                }else{
-                  $('input[name="b2_contact"]').removeClass('is-invalid');
-               }
-               if($('input[name="b2_email"]').val() == ''){
-                  $('input[name="b2_email"]').addClass('is-invalid');
-                  error += 1;
-               }else{
-                  $('input[name="b2_email"]').removeClass('is-invalid');
-               }
-               if($('input[name="b2_age"]').val() == ''){
-                  $('input[name="b2_age"]').addClass('is-invalid');
-                  error += 1;
-               }else{
-                  $('input[name="b2_age"]').removeClass('is-invalid');
+                  $('input[name="b2_address"]').removeClass('is-invalid');
                }
                if(error > 0){
                   return false;
@@ -876,16 +804,12 @@
                $('#span_b1_dob').text($('input[name="b1_dob"]').val())
                $('#span_b1_relation').text($('input[name="b1_relation"]').val())
                $('#span_b1_cnic').text($('input[name="b1_cnic"]').val())
-               $('#span_b1_contact').text($('input[name="b1_contact"]').val())
-               $('#span_b1_email').text($('input[name="b1_email"]').val())
-               // $('#span_b1_age').text($('input[name="b1_age"]').val())
+               $('#span_b1_address').text($('input[name="b1_address"]').val())
                $('#span_b2_full_name').text($('input[name="b2_full_name"]').val())
                $('#span_b2_dob').text($('input[name="b2_dob"]').val())
                $('#span_b2_relation').text($('input[name="b2_relation"]').val())
                $('#span_b2_cnic').text($('input[name="b2_cnic"]').val())
-               $('#span_b2_contact').text($('input[name="b2_contact"]').val())
-               $('#span_b2_email').text($('input[name="b2_email"]').val())
-               // $('#span_b2_age').text($('input[name="b2_age"]').val())
+               $('#span_b2_address').text($('input[name="b2_address"]').val())
                $( "#" + param).click();
             }else{
                $( "#" + param).click();

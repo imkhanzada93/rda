@@ -19,9 +19,7 @@ class CreateBeneficiariesTable extends Migration
             $table->date('dob');
             $table->string('relation');
             $table->string('cnic');
-            $table->string('phone')->nullable();
-            $table->string('email')->nullable();
-            $table->string('age')->nullable();
+            $table->string('address');
             $table->foreignId('account_id')->constrained();
             $table->softDeletes();
             $table->timestamps();
