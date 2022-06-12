@@ -726,7 +726,7 @@
                }
                if($('input[name="email"]').val() == ''){
                   $('input[name="email"]').addClass('is-invalid');
-                  $('input[name="email"]').parent().append('<span class="error invalid-feedback">CNIC is required</span>');
+                  $('input[name="email"]').parent().append('<span class="error invalid-feedback">Email is required</span>');
                   error += 1;
                }else{
                   $('input[name="email"]').removeClass('is-invalid');
