@@ -12,7 +12,7 @@ class Client extends Model
 {
     use HasFactory, SoftDeletes;
 
-    protected $fillable = ['full_name', 'cnic', 'rda_account_number', 'email'];
+    protected $fillable = ['full_name', 'cnic', 'phone_number', 'email'];
 
     public function getCreatedAtAttribute($value)
     {

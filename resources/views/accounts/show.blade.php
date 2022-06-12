@@ -49,7 +49,7 @@
                                     </div>
                                     <div class="row font-weight-bold py-2">
                                         <div class="col-sm-2">RDA Account Number: </div>
-                                        <div class="col-sm-10">{{ $account->rda_account_number }}</div>
+                                        <div class="col-sm-10">{{ $account->phone_number }}</div>
                                     </div>
                                     <div class="row font-weight-bold py-2">
                                         <div class="col-sm-2">Email : </div>

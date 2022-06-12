@@ -243,8 +243,8 @@
                                                 <label>Phone Number:</label>
                                           </div>
                                           <div class="col-10">
-                                                <input type="text" name="rda_account_number" class="form-control @error('rda_account_number')is-invalid @enderror" value="{{ old('rda_account_number') }}">
-                                                @error('rda_account_number')
+                                                <input type="text" name="phone_number" class="form-control @error('phone_number')is-invalid @enderror" value="{{ old('phone_number') }}">
+                                                @error('phone_number')
                                                 <span class="error invalid-feedback">{{ $message }}</span>
                                                 @enderror
                                           </div>
@@ -562,7 +562,7 @@
                                                 <div class="view-box">
                                                    <p><span class="vl-hd">Full Name:</span> <span id="span_full_name" class="vl-cn"></span></p>
                                                    <p><span class="vl-hd">CNIC Number:</span> <span id="span_cnic" class="vl-cn"></span></p>
-                                                   <p><span class="vl-hd">Phone Number</span> <span id="span_rda_account_number" class="vl-cn"></span></p>
+                                                   <p><span class="vl-hd">Phone Number</span> <span id="span_phone_number" class="vl-cn"></span></p>
                                                    <p><span class="vl-hd">Email Address:</span> <span id="span_email" class="vl-cn"></span></p>
                                                 </div>
                                           </div>
@@ -742,11 +742,11 @@
                }else{
                   $('input[name="cnic"]').removeClass('is-invalid');
                }
-               if(($('input[name="rda_account_number"]').val() == '') || ( $('input[name="rda_account_number"]').match(phoneno))){
-                  $('input[name="rda_account_number"]').addClass('is-invalid');
+               if(($('input[name="phone_number"]').val() == '') || ( $('input[name="phone_number"]').match(phoneno))){
+                  $('input[name="phone_number"]').addClass('is-invalid');
                   error += 1;
                }else{
-                  $('input[name="rda_account_number"]').removeClass('is-invalid');
+                  $('input[name="phone_number"]').removeClass('is-invalid');
                }
                if($('input[name="email"]').val() == ''){
                   $('input[name="email"]').addClass('is-invalid');
@@ -764,7 +764,7 @@
                      data: {
                         full_name: $('input[name="full_name"]').val(),
                         cnic: $('input[name="cnic"]').val(),
-                        rda_account_number: $('input[name="rda_account_number"]').val(),
+                        phone_number: $('input[name="phone_number"]').val(),
                         email: $('input[name="email"]').val(),
                         _token: $('input[name="_token"]').val()
                      },
@@ -870,7 +870,7 @@
             }else if(param == 'pills-confirmation-tab'){
                $('#span_full_name').text($('input[name="full_name"]').val())
                $('#span_cnic').text($('input[name="cnic"]').val())
-               $('#span_rda_account_number').text($('input[name="rda_account_number"]').val())
+               $('#span_phone_number').text($('input[name="phone_number"]').val())
                $('#span_email').text($('input[name="email"]').val())
                $('#span_b1_full_name').text($('input[name="b1_full_name"]').val())
                $('#span_b1_dob').text($('input[name="b1_dob"]').val())

@@ -128,7 +128,7 @@ class ClientController extends Controller
                 $nestedData['id'] = $client->id;
                 $nestedData['full_name'] = $client->full_name;
                 $nestedData['cnic'] = $client->cnic;
-                $nestedData['rda_account_number'] = $client->rda_account_number;
+                $nestedData['phone_number'] = $client->phone_number;
                 $nestedData['email'] = $client->email;
                 $nestedData['created_at'] = $client->created_at;
                 $nestedData['updated_at'] = $client->updated_at;
@@ -153,14 +153,14 @@ class ClientController extends Controller
             request()->validate([
                 'full_name' => 'required',
                 'cnic' => 'required',
-                'rda_account_number' => 'required',
+                'phone_number' => 'required',
                 'email' => 'required',
             ]);
         }else{
             request()->validate([
                 'full_name' => 'required',
                 'cnic' => 'required',
-                'rda_account_number' => 'required',
+                'phone_number' => 'required',
                 'email' => 'required',
             ]);
         }

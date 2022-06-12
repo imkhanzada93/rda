@@ -12,7 +12,7 @@ class Account extends Model
 {
     use HasFactory, SoftDeletes;
 
-    protected $fillable = ['full_name', 'cnic', 'rda_account_number', 'email', 'cnic_image', 'family_registration_certificate', 'b_form', 'marriage_certificate', 'insurance_type_id', 'insurance_id', 'plan_id'];
+    protected $fillable = ['full_name', 'cnic', 'phone_number', 'email', 'cnic_image', 'family_registration_certificate', 'b_form', 'marriage_certificate', 'insurance_type_id', 'insurance_id', 'plan_id'];
     
     public function insurance_type()
     {

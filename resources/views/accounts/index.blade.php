@@ -118,7 +118,7 @@
                 { "data": "id" },
                 { "data": "full_name" },
                 { "data": "cnic" },
-                { "data": "rda_account_number" },
+                { "data": "phone_number" },
                 { "data": "email" },
                 { "data": "cnic_image" },
                 { "data": "family_registration_certificate" },

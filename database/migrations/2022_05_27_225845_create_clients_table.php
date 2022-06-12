@@ -17,7 +17,7 @@ class CreateClientsTable extends Migration
             $table->id();
             $table->string('full_name');
             $table->string('cnic');
-            $table->string('rda_account_number');
+            $table->string('phone_number');
             $table->string('email');
             $table->softDeletes();
             $table->timestamps();

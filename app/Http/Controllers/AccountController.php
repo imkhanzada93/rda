@@ -80,7 +80,7 @@ class AccountController extends Controller
 
         $account->cnic = $request->cnic;
 
-        $account->rda_account_number = $request->rda_account_number;
+        $account->phone_number = $request->phone_number;
 
         $account->email = $request->email;
 
@@ -278,7 +278,7 @@ class AccountController extends Controller
 
                 $nestedData['cnic'] = $account->cnic;
 
-                $nestedData['rda_account_number'] = $account->rda_account_number;
+                $nestedData['phone_number'] = $account->phone_number;
 
                 $nestedData['email'] = $account->email;
 
@@ -356,7 +356,7 @@ class AccountController extends Controller
 
             'cnic' => 'required|numeric',
 
-            'rda_account_number' => 'required',
+            'phone_number' => 'required',
 
             'email' => 'required',
 
@@ -464,7 +464,7 @@ class AccountController extends Controller
 
                 $nestedData['cnic'] = $record->cnic;
 
-                $nestedData['rda_account_number'] = $record->rda_account_number;
+                $nestedData['phone_number'] = $record->phone_number;
 
                 $nestedData['email'] = $record->email;
 
@@ -588,7 +588,7 @@ class AccountController extends Controller
 
                 $nestedData['cnic'] = $record->cnic;
 
-                $nestedData['rda_account_number'] = $record->rda_account_number;
+                $nestedData['phone_number'] = $record->phone_number;
 
                 $nestedData['email'] = $record->email;
 

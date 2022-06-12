@@ -110,7 +110,7 @@
                 { "data": "id" },
                 { "data": "full_name" },
                 { "data": "cnic" },
-                { "data": "rda_account_number" },
+                { "data": "phone_number" },
                 { "data": "email" },
             ]
         }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
