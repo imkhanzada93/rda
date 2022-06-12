@@ -699,8 +699,8 @@
 			})()
 
          function change_tab(param) {
-            var phoneno = /^\d{11}$/;
-            var cnic = /^\d{13}$/;
+            var phoneno = /[0-9]{11}/;///^[0-9]{11}$/;
+            var cnic = /[0-9]{13}/;///^\d{13}$/;
             if(param == 'pills-insurance-type-tab'){
                var error = 0;
                if($('input[name="full_name"]').val() == ''){
@@ -709,13 +709,13 @@
                }else{
                   $('input[name="full_name"]').removeClass('is-invalid');
                }
-               if(($('input[name="cnic"]').val() == '') || ( $('input[name="cnic"]').match(cnic))){
+               if(($('input[name="cnic"]').val() == '') || ( !cnic.test($('input[name="cnic"]').val()))){
                   $('input[name="cnic"]').addClass('is-invalid');
                   error += 1;
                }else{
                   $('input[name="cnic"]').removeClass('is-invalid');
                }
-               if(($('input[name="phone_number"]').val() == '') || ( $('input[name="phone_number"]').match(phoneno))){
+               if(($('input[name="phone_number"]').val() == '') || ( !phoneno.test($('input[name="phone_number"]').val()))){
                   $('input[name="phone_number"]').addClass('is-invalid');
                   error += 1;
                }else{
@@ -768,7 +768,7 @@
                }else{
                   $('input[name="b1_relation"]').removeClass('is-invalid');
                }
-               if(($('input[name="b1_cnic"]').val() == '') || ( $('input[name="b1_cnic"]').match(cnic))){
+               if(($('input[name="b1_cnic"]').val() == '') || ( !cnic.test($('input[name="b1_cnic"]').val()))){
                   $('input[name="b1_cnic"]').addClass('is-invalid');
                   error += 1;
                }else{
@@ -798,7 +798,7 @@
                }else{
                   $('input[name="b2_relation"]').removeClass('is-invalid');
                }
-               if(($('input[name="b2_cnic"]').val() == '') || ( $('input[name="b2_cnic"]').match(cnic)) ){
+               if(($('input[name="b2_cnic"]').val() == '') || ( !cnic.test($('input[name="b2_cnic"]').val())) ){
                   $('input[name="b2_cnic"]').addClass('is-invalid');
                   error += 1;
                }else{
