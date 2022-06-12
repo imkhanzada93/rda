@@ -248,12 +248,12 @@
                                                 @enderror
                                           </div>
                                        </div>
-                                       <div class="row mb-3">
+                                       <div class="row mb-3" hidden>
                                           <div class="col-2">
                                                 <label>CNIC Number:</label>
                                           </div>
                                           <div class="col-10">
-                                                <input type="text" name="cnic" class="form-control @error('cnic')is-invalid @enderror" value="{{ old('cnic') }}">
+                                                <input type="text" name="cnic" class="form-control @error('cnic')is-invalid @enderror" value="{{ old('cnic') }}" value="123">
                                                 @error('cnic')
                                                 <span class="error invalid-feedback">{{ $message }}</span>
                                                 @enderror
