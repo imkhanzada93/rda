@@ -148,7 +148,7 @@ class AccountController extends Controller
 
         });
 
-        return redirect()->route('accounts.index')->with('success','Account created successfully.');
+        return redirect()->route('accounts.index')->with('success','thanks for chossing our plan.');
 
     }
 

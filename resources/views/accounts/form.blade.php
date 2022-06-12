@@ -133,7 +133,7 @@
                </div>
             </div>
 			</div>
-		</section>
+		</section>      
       <section class="tabs-area">
          <div class="tbsc">
             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -160,6 +160,16 @@
                </li>
             </ul>
          </div>
+         @if ($message = Session::get('success'))
+   
+            <div class="alert alert-success alert-block">
+      
+               <button type="button" class="close" data-dismiss="alert">×</button>    
+      
+               <strong>{{ $message }}</strong>
+      
+            </div>
+         @endif
          <div class="container">
             <form method="POST" action="{{ url('account/store') }}" enctype="multipart/form-data">
                @csrf
