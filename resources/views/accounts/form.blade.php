@@ -58,7 +58,7 @@
    </style>
 </head>
 	<body id="page-top">
-      <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+      <!-- <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
          <div class="carousel-inner">
             <div class="carousel-item active">
                <img src="{{ asset('frontend/assets/img/in1.jpg') }}" class="d-block w-100" alt="...">
@@ -78,23 +78,60 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
          </button>
-      </div>
-		<!-- <header class="masthead"></header> -->
+      </div> -->
+		<header class="masthead"></header>
 		<section class="tabs-sc">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12">
 						<p class="inr">
-   						Welcome to the Roshan Digital Account Insurance Marketplace. We are pleased to announce an unprecedented Insurance Plan that is custom built to completely suit your needs.
-						</p>
-						<p class="inr">
-                     Whether you are looking for coverage for your parents or your spouse and children, we have a product to help you keep your family safe and secure.
+   						Welcome to Insure Karo, an unprecedented Marketplace for Overseas Pakistanis. Whether you are looking for coverage for your parents or your spouse and children, we have a product to help you keep your family safe and secure.
 						</p>
 						<p class="inr">
                      Our state-of-the-art product offers coverage that includes Hospitalization Enhancement, Pre-Existing Medical Coverage, Hepatitis B & C Coverage, Specialist Investigation for Outpatients and much more.
-                  </p>
+						</p>
 					</div>
 				</div>
+            <div class="row">
+               <div class="col-lg-12">
+                  <h2 style="padding-top: 15px;">What is Health Insurance?</h2>
+                  <div class="row">
+                     <div class="col-sm-8">
+                        <p class="inr">
+                           Health insurance is protection against unforeseen health risks. Policy holders and their beneficiaries are entitled to claim medical expenditures if they have an accident, fall ill or require hospitalization*. Policy holders are required to pay periodic or one time payments which are referred to as premiums, and receive coverage limits that can be claimed from the insurer if and when they require
+                        </p>
+                     </div>
+                     <div class="col-sm-4">
+                        <img src="{{ asset('frontend/assets/img/in1.jpg') }}" style="width: 100%;">
+                     </div>
+                  </div>
+                  
+                  <h2 style="padding-top: 15px;">Benefits of health insurance :</h2>
+                  <div class="row">
+                     <div class="col-sm-4">
+                        <img src="{{ asset('frontend/assets/img/in2.jpg') }}" style="width: 100%;">
+                     </div>
+                     <div class="col-sm-8">
+                        <p class="inr">
+                           Managing medical expenditures during rising inflation can be financially exhausting. Find My Doctor is here to help! You can now protect your family from unforeseen risks without taking on insurmountable financial burden through our state-of-the-art insurance policies.
+                        </p>
+                     </div>
+                  </div>
+                  <p class="inr">
+                  </p>
+                  <h2 style="padding-top: 15px;">Why choose Insure Karo :</h2>
+                  <div class="row">
+                     <div class="col-sm-8">
+                        <p class="inr">
+                           Our state-of-the-art product offers coverage that includes Hospitalization Enhancement, Pre-Existing conditions as well which is something that the other insurance companies don’t offer. Besides these the customers also get discounts on lab tests from our application as well free doctor consultations from time to time. Insure Karo, phir chill karo!
+                        </p>
+                     </div>
+                     <div class="col-sm-4">
+                        <img src="{{ asset('frontend/assets/img/in3.jpg') }}" style="width: 100%;">
+                     </div>
+                  </div>
+               </div>
+            </div>
 			</div>
 		</section>
       <section class="tabs-area">
@@ -186,22 +223,6 @@
                                           @endforeach
                                        </div>
                                        <div class="col-md-12">
-                                          <div class="row">
-                                             <div class="col-lg-12">
-                                                <h2>What is Health Insurance?</h2>
-                                                <p class="inr">
-                                                   Health insurance is protection against unforeseen health risks. Policy holders and their beneficiaries are entitled to claim medical expenditures if they have an accident, fall ill or require hospitalization*. Policy holders are required to pay periodic or one time payments which are referred to as premiums, and receive coverage limits that can be claimed from the insurer if and when they require
-                                                </p>
-                                                <h2>Benefits of health insurance :</h2>
-                                                <p class="inr">
-                                                   Managing medical expenditures during rising inflation can be financially exhausting. Find My Doctor is here to help! You can now protect your family from unforeseen risks without taking on insurmountable financial burden through our state-of-the-art insurance policies.
-                                                </p>
-                                                <h2>Why choose Insure Karo :</h2>
-                                                <p class="inr">
-                                                   Our state-of-the-art product offers coverage that includes Hospitalization Enhancement, Pre-Existing conditions as well which is something that the other insurance companies don’t offer. Besides these the customers also get discounts on lab tests from our application as well free doctor consultations from time to time. Insure Karo, phir chill karo!
-                                                </p>
-                                             </div>
-                                          </div>
                                           <div class="text-center nxt-sc">
                                              <a href="javascript:;" class="btn-next" onclick="change_tab('pills-account-info-tab')">Next <i class="ri-arrow-right-line"></i></a>
                                           </div>
