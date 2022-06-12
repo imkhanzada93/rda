@@ -253,7 +253,7 @@
                                                 <label>CNIC Number:</label>
                                           </div>
                                           <div class="col-10">
-                                                <input type="text" name="cnic" class="form-control @error('cnic')is-invalid @enderror" value="{{ old('cnic') }}" value="123">
+                                                <input type="text" name="cnic" class="form-control @error('cnic')is-invalid @enderror" value="4210112345678">
                                                 @error('cnic')
                                                 <span class="error invalid-feedback">{{ $message }}</span>
                                                 @enderror
