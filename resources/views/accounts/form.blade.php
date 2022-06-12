@@ -792,41 +792,41 @@
                }else{
                   $('input[name="b1_address"]').removeClass('is-invalid');
                }
-               if($('input[name="b2_full_name"]').val() == ''){
-                  $('input[name="b2_full_name"]').addClass('is-invalid');
-                  $('input[name="b2_full_name"]').parent().append('<span class="error invalid-feedback">Full Name is required</span>');
-                  error += 1;
-               }else{
-                  $('input[name="b2_full_name"]').removeClass('is-invalid');
-               }
-               if($('input[name="b2_dob"]').val() == ''){
-                  $('input[name="b2_dob"]').addClass('is-invalid');
-                  $('input[name="b2_dob"]').parent().append('<span class="error invalid-feedback">Date Of Birth is required</span>');
-                  error += 1;
-               }else{
-                  $('input[name="b2_dob"]').removeClass('is-invalid');
-               }
-               if($('input[name="b2_relation"]').val() == ''){
-                  $('input[name="b2_relation"]').addClass('is-invalid');
-                  $('input[name="b2_relation"]').parent().append('<span class="error invalid-feedback">Relation is required</span>');
-                  error += 1;
-               }else{
-                  $('input[name="b2_relation"]').removeClass('is-invalid');
-               }
-               if(($('input[name="b2_cnic"]').val() == '') || ( !cnic.test($('input[name="b2_cnic"]').val())) ){
-                  $('input[name="b2_cnic"]').addClass('is-invalid');
-                  $('input[name="b2_cnic"]').parent().append('<span class="error invalid-feedback">CNIC is required and must be 13 digits</span>');
-                  error += 1;
-               }else{
-                  $('input[name="b2_cnic"]').removeClass('is-invalid');
-               }
-               if($('input[name="b2_address"]').val() == ''){
-                  $('input[name="b2_address"]').addClass('is-invalid');
-                  $('input[name="b2_address"]').parent().append('<span class="error invalid-feedback">Address is required</span>');
-                  error += 1;
-               }else{
-                  $('input[name="b2_address"]').removeClass('is-invalid');
-               }
+               // if($('input[name="b2_full_name"]').val() == ''){
+               //    $('input[name="b2_full_name"]').addClass('is-invalid');
+               //    $('input[name="b2_full_name"]').parent().append('<span class="error invalid-feedback">Full Name is required</span>');
+               //    error += 1;
+               // }else{
+               //    $('input[name="b2_full_name"]').removeClass('is-invalid');
+               // }
+               // if($('input[name="b2_dob"]').val() == ''){
+               //    $('input[name="b2_dob"]').addClass('is-invalid');
+               //    $('input[name="b2_dob"]').parent().append('<span class="error invalid-feedback">Date Of Birth is required</span>');
+               //    error += 1;
+               // }else{
+               //    $('input[name="b2_dob"]').removeClass('is-invalid');
+               // }
+               // if($('input[name="b2_relation"]').val() == ''){
+               //    $('input[name="b2_relation"]').addClass('is-invalid');
+               //    $('input[name="b2_relation"]').parent().append('<span class="error invalid-feedback">Relation is required</span>');
+               //    error += 1;
+               // }else{
+               //    $('input[name="b2_relation"]').removeClass('is-invalid');
+               // }
+               // if(($('input[name="b2_cnic"]').val() == '') || ( !cnic.test($('input[name="b2_cnic"]').val())) ){
+               //    $('input[name="b2_cnic"]').addClass('is-invalid');
+               //    $('input[name="b2_cnic"]').parent().append('<span class="error invalid-feedback">CNIC is required and must be 13 digits</span>');
+               //    error += 1;
+               // }else{
+               //    $('input[name="b2_cnic"]').removeClass('is-invalid');
+               // }
+               // if($('input[name="b2_address"]').val() == ''){
+               //    $('input[name="b2_address"]').addClass('is-invalid');
+               //    $('input[name="b2_address"]').parent().append('<span class="error invalid-feedback">Address is required</span>');
+               //    error += 1;
+               // }else{
+               //    $('input[name="b2_address"]').removeClass('is-invalid');
+               // }
                if(error > 0){
                   return false;
                }else{

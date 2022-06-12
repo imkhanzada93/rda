@@ -124,15 +124,15 @@ class AccountController extends Controller
 
         $beneficiary = new Beneficiary();
 
-        $beneficiary->full_name = $request->b2_full_name;
+        $beneficiary->full_name = isset($request->b2_full_name) ? $request->b2_full_name : '' ;
 
-        $beneficiary->dob = $request->b2_dob;
+        $beneficiary->dob = isset($request->b2_dob) ? $request->b2_dob : '' ;
 
-        $beneficiary->relation = $request->b2_relation;
+        $beneficiary->relation = isset($request->b2_relation) ? $request->b2_relation : '' ;
 
-        $beneficiary->cnic = $request->b2_cnic;
+        $beneficiary->cnic = isset($request->b2_cnic) ? $request->b2_cnic : '' ;
 
-        $beneficiary->address = $request->address;
+        $beneficiary->address = isset($request->address) ? $request->address : '' ;
 
         $beneficiary->account_id = $account->id;
 
