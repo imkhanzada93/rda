@@ -886,12 +886,16 @@
             $('.list-box').css('display', 'none');
             console.log(display_id)
             $('.relation').html('');
+            $('.relation_1').html('');
             $('#plan_detail'+display_id).css('display', 'inherit');
             let relationship = relation.split(',');
             relationship.forEach(element => {
                var htm = "<option value='" + element + "'>" + element + "</option>";
                $('.relation').append(htm);
-               $('.relation_1').append(htm);
+               if(element != 'Spouse'){
+                  var htm1 = "<option value='" + element + "'>" + element + "</option>";
+               }
+               $('.relation_1').append(htm1);
             });
          }
 		</script>
