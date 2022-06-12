@@ -586,9 +586,9 @@
                                                 <p>Discount Amount <span id="discount_amount">0</span></p>
                                                 <p>Total Amount <span id="total_amount">0</span></p>
                                           </div>
-                                          <div class="col-12 text-center">                                             
-                                                <a href="javascript:;" class="btn-next" onclick="change_tab('pills-document-tab')"><i class="ri-arrow-left-line"></i> Back</a>
-                                                <button class="btn btn-primary btn-lg" type="submit" id="submit">SUBMIT</button>
+                                          <div class="text-center nxt-sc">                                             
+                                             <a href="javascript:;" class="btn-next" onclick="change_tab('pills-document-tab')"><i class="ri-arrow-left-line"></i> Back</a>
+                                             <a href="javascript:;" class="btn-next" type="submit" id="submit">SUBMIT</a>
                                           </div>
                                        </div>
                                     </div>
