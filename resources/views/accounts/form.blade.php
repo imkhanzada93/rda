@@ -138,25 +138,25 @@
          <div class="tbsc">
             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                <li class="nav-item" role="presentation">
-                  <button class="nav-link active" id="pills-plan-tab" data-bs-toggle="pill" data-bs-target="#pills-plan" type="button" role="tab" aria-controls="pills-plan" aria-selected="false">Step 1<i class="ri-arrow-right-s-line"></i></button>
+                  <button class="nav-link active" id="pills-plan-tab" data-bs-target="#pills-plan" type="button" role="tab" aria-controls="pills-plan" aria-selected="false">Step 1<i class="ri-arrow-right-s-line"></i></button>
                </li>
                <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="pills-account-info-tab" data-bs-toggle="pill" data-bs-target="#pills-account-info" type="button" role="tab" aria-controls="pills-account-info" aria-selected="false">Step 2<i class="ri-arrow-right-s-line"></i></button>
+                  <button class="nav-link" id="pills-account-info-tab" data-bs-target="#pills-account-info" type="button" role="tab" aria-controls="pills-account-info" aria-selected="false">Step 2<i class="ri-arrow-right-s-line"></i></button>
                </li>
                <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="pills-insurance-type-tab" data-bs-toggle="pill" data-bs-target="#pills-insurance-type" type="button" role="tab" aria-controls="pills-insurance-type" aria-selected="true">Step 3<i class="ri-arrow-right-s-line"></i></button>
+                  <button class="nav-link" id="pills-insurance-type-tab" data-bs-target="#pills-insurance-type" type="button" role="tab" aria-controls="pills-insurance-type" aria-selected="true">Step 3<i class="ri-arrow-right-s-line"></i></button>
                </li>
                <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="pills-insurance-company-tab" data-bs-toggle="pill" data-bs-target="#pills-insurance-company" type="button" role="tab" aria-controls="pills-insurance-company" aria-selected="false">Step 4<i class="ri-arrow-right-s-line"></i></button>
+                  <button class="nav-link" id="pills-insurance-company-tab" data-bs-target="#pills-insurance-company" type="button" role="tab" aria-controls="pills-insurance-company" aria-selected="false">Step 4<i class="ri-arrow-right-s-line"></i></button>
                </li>
                <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="pills-account-beneficiary-tab" data-bs-toggle="pill" data-bs-target="#pills-account-beneficiary" type="button" role="tab" aria-controls="pills-account-beneficiary" aria-selected="false">Step 5<i class="ri-arrow-right-s-line"></i></button>
+                  <button class="nav-link" id="pills-account-beneficiary-tab" data-bs-target="#pills-account-beneficiary" type="button" role="tab" aria-controls="pills-account-beneficiary" aria-selected="false">Step 5<i class="ri-arrow-right-s-line"></i></button>
                </li>
                <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="pills-document-tab" data-bs-toggle="pill" data-bs-target="#pills-document" type="button" role="tab" aria-controls="pills-document" aria-selected="false">Step 6<i class="ri-arrow-right-s-line"></i></button>
+                  <button class="nav-link" id="pills-document-tab" data-bs-target="#pills-document" type="button" role="tab" aria-controls="pills-document" aria-selected="false">Step 6<i class="ri-arrow-right-s-line"></i></button>
                </li>
                <li class="nav-item" role="presentation">
-                  <button class="nav-link" id="pills-confirmation-tab" data-bs-toggle="pill" data-bs-target="#pills-confirmation" type="button" role="tab" aria-controls="pills-confirmation" aria-selected="false">Step 7<i class="ri-arrow-right-s-line"></i></button>
+                  <button class="nav-link" id="pills-confirmation-tab" data-bs-target="#pills-confirmation" type="button" role="tab" aria-controls="pills-confirmation" aria-selected="false">Step 7<i class="ri-arrow-right-s-line"></i></button>
                </li>
             </ul>
          </div>
@@ -699,6 +699,9 @@
 			})()
 
          function change_tab(param) {
+            $('.nav-link').removeAttr("data-bs-toggle", "pill");
+            $('#' + param).attr("data-bs-toggle", "pill");
+
             var phoneno = /[0-9]{11}/;///^[0-9]{11}$/;
             var cnic = /[0-9]{13}/;///^\d{13}$/;
             if(param == 'pills-insurance-type-tab'){
