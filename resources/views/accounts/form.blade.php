@@ -28,7 +28,7 @@
          position: relative;
          top: 3px;
       }
-      a.btn-next {
+      a.btn-next, button.btn-next {
          color: #fff;
          background-color: #e52b2a;
          border-color: #e52b2a;
@@ -598,7 +598,7 @@
                                           </div>
                                           <div class="text-center nxt-sc">                                             
                                              <a href="javascript:;" class="btn-next" onclick="change_tab('pills-document-tab')"><i class="ri-arrow-left-line"></i> Back</a>
-                                             <a href="javascript:;" class="btn-next" type="submit" id="submit">SUBMIT</a>
+                                             <button href="" class="btn-next" type="submit" id="submit">SUBMIT</button>
                                           </div>
                                        </div>
                                     </div>
