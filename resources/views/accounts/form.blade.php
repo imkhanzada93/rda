@@ -213,7 +213,7 @@
                                                                   <div class="pl-cnt">
                                                                         <ul class="">
                                                                            @foreach(get_list('benefits', 'plan_benefits', ['plan_benefits.benefit_id' => 'benefits.id'], ['plan_benefits.plan_id' => $plan->id]) as $benefit_key => $benefit)
-                                                                           <li>{{ $benefit->name }}</li>
+                                                                           <li>{{ $benefit->name }} <br/><small> {{ $benefit->amount }}   </small></li>
                                                                            @endforeach
                                                                         </ul>
                                                                         <div class="">
