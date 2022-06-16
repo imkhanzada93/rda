@@ -588,13 +588,27 @@
                                                    @enderror
                                                 </div>
                                           </div>
+                                          <div class="plan_box col-md-3">
+                                             <div class="pl-cnt">
+                                                <ul class="">
+                                                   <li><input type="text" name="coupon" id="coupon" placeholder="Enter Coupon" ></li>
+                                                   <li><span id="coupon_msg"></span></li>
+                                                   <li><p>Plan Amount <span id="plan_amount">0</span></p></li>
+                                                   <li><p>Discount Amount <span id="discount_amount">0</span></p></li>
+                                                   <li><p>Total Amount <span id="total_amount">0</span></p></li>
+                                                </ul>
+                                                <div class="">
+                                                   <button type="button" name="coupon_btn" class="btn-next" id="coupon_btn" > Apply </button>
+                                                </div>
+                                             </div>
+                                          </div>
                                           <div>
-                                                <input type="text" name="coupon" id="coupon" placeholder="Enter Coupon" >
+                                                <!-- <input type="text" name="coupon" id="coupon" placeholder="Enter Coupon" >
                                                 <input type="button" name="coupon_btn" id="coupon_btn" value="Apply Coupon"> 
                                                 <span id="coupon_msg"></span>
                                                 <p>Plan Amount <span id="plan_amount">0</span></p>
                                                 <p>Discount Amount <span id="discount_amount">0</span></p>
-                                                <p>Total Amount <span id="total_amount">0</span></p>
+                                                <p>Total Amount <span id="total_amount">0</span></p> -->
                                           </div>
                                           <div class="text-center nxt-sc">                                             
                                              <a href="javascript:;" class="btn-next" onclick="change_tab('pills-document-tab')"><i class="ri-arrow-left-line"></i> Back</a>
